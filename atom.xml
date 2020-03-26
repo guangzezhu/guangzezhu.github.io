@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-25T20:31:51.659Z</updated>
+  <updated>2020-03-26T16:03:11.171Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_0</title>
+    <link href="http://yoursite.com/2020/03/26/sbd-0/"/>
+    <id>http://yoursite.com/2020/03/26/sbd-0/</id>
+    <published>2020-03-26T15:44:23.000Z</published>
+    <updated>2020-03-26T16:03:11.171Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>今天淘宝买的键盘到了，一个静音红轴键盘，分量还是很重的。这个键盘打起字来肉肉得，就像发泡的大木枣一样。蛮喜欢的。和键盘一起到的还有买的几本书：纪伯伦的先知和（情）书信集；伊板幸太郎的金色梦乡和摩登时代；乡土中国。面试了途虎养车，近一年没写代码了，初面挂了。凌晨的时候又想起来搞博客了，把以前收藏的教程拿出来打了一个，换个theam也换个风格。在看别人的github page写的那么好，自己再模仿也没什么卵用，毕竟肚里没货，看看别人的辛勤劳动也是好的。自己的博客没什么东西，就写写傻逼日记，好好吐槽自己好了，毕竟“一日三省吾身”。也想过写写技术博客，记录一些遇到的问题。可是写在博客上太麻烦了，要贴图，要字多，要现在本地编辑好再传到博客上，还要注意美观，太做作了，浪费时间。这些事早有人在做了。所以不如多看看他们的经验，在有道云笔记上收藏一些好的帖子。（突然想到陈波这个鬼人，方法还是很管用的）repeat！repeat！repeat！</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;今天淘宝买的键盘到了，一个静音红轴键盘，分量还是很重的。这个键盘打起字来肉肉得，就像发泡的大木枣一样。蛮喜欢的。
+和键盘一起到的还有买的几本书：纪伯伦的先知和（情）书信集；伊板幸太郎的金色梦乡和摩登时代；乡土中国。
+面试了途虎养车，近一年没写代码了，初面挂了
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
