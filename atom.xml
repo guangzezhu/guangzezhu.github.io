@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-26T16:08:54.052Z</updated>
+  <updated>2020-03-27T17:08:28.125Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_1</title>
+    <link href="http://yoursite.com/2020/03/28/sbd-1/"/>
+    <id>http://yoursite.com/2020/03/28/sbd-1/</id>
+    <published>2020-03-27T17:05:34.000Z</published>
+    <updated>2020-03-27T17:08:28.125Z</updated>
+    
+    <content type="html"><![CDATA[<p>好家伙，第二天就断更了。<br>现在是2020年3月28日，昨天中午起床吃饭，看了会lpl比赛，打了一天的游戏。现在困困的。<br>最近自家的WiFi一直连不上。<br>无事，头晕。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;好家伙，第二天就断更了。&lt;br&gt;现在是2020年3月28日，昨天中午起床吃饭，看了会lpl比赛，打了一天的游戏。现在困困的。&lt;br&gt;最近自家的WiFi一直连不上。&lt;br&gt;无事，头晕。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_0</title>
