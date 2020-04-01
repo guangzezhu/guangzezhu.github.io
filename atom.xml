@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-31T15:50:38.320Z</updated>
+  <updated>2020-04-01T15:28:01.386Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_6</title>
+    <link href="http://yoursite.com/2020/04/01/sbd-6/"/>
+    <id>http://yoursite.com/2020/04/01/sbd-6/</id>
+    <published>2020-04-01T15:22:02.000Z</published>
+    <updated>2020-04-01T15:28:01.386Z</updated>
+    
+    <content type="html"><![CDATA[<p>看了《生活大爆炸》第四季。<br>man了一下ls、mv。mv并没有改变文件内容（inode + data block都没变），只是改变了目录引射表。而且mkdir一个空目录也会有4.0k大小，这和目录有关（.和..隐藏目录），具体以后查看linux目录是怎么回事。这些在2003年都被讨论过。<br>提交第二篇周记。<br>上午接到华为面试通知，（笔试+性格测试ERROR），愚人节快乐。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;看了《生活大爆炸》第四季。&lt;br&gt;man了一下ls、mv。mv并没有改变文件内容（inode + data block都没变），只是改变了目录引射表。而且mkdir一个空目录也会有4.0k大小，这和目录有关（.和..隐藏目录），具体以后查看linux目录是怎么回事。这些在2
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_5</title>
