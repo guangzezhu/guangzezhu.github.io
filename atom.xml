@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-03T15:44:08.468Z</updated>
+  <updated>2020-04-04T15:18:37.932Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_9</title>
+    <link href="http://yoursite.com/2020/04/04/sbd-9/"/>
+    <id>http://yoursite.com/2020/04/04/sbd-9/</id>
+    <published>2020-04-04T15:15:47.000Z</published>
+    <updated>2020-04-04T15:18:37.932Z</updated>
+    
+    <content type="html"><![CDATA[<p>又是废物的一天。<br>看了《生活大爆炸》第五季。<br>man了telnet和rsync。<br>顾老师通知下周一后天，汇报毕设进度。紧张、没食欲。<br>最近颈椎不太舒服，昨天睡觉时有耳鸣。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;又是废物的一天。&lt;br&gt;看了《生活大爆炸》第五季。&lt;br&gt;man了telnet和rsync。&lt;br&gt;顾老师通知下周一后天，汇报毕设进度。紧张、没食欲。&lt;br&gt;最近颈椎不太舒服，昨天睡觉时有耳鸣。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_8</title>
