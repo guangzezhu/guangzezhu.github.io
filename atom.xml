@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-06T14:53:58.630Z</updated>
+  <updated>2020-04-07T14:15:29.672Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_12</title>
+    <link href="http://yoursite.com/2020/04/07/sbd-12/"/>
+    <id>http://yoursite.com/2020/04/07/sbd-12/</id>
+    <published>2020-04-07T14:13:21.000Z</published>
+    <updated>2020-04-07T14:15:29.672Z</updated>
+    
+    <content type="html"><![CDATA[<p>Today is a long day.<br>傻逼日记第13天，时间太慢了。<br>纪伯伦书信集的女方好像一个人。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Today is a long day.&lt;br&gt;傻逼日记第13天，时间太慢了。&lt;br&gt;纪伯伦书信集的女方好像一个人。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_11</title>
