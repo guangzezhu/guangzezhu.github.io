@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-11T15:47:04.555Z</updated>
+  <updated>2020-04-12T16:10:47.410Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_17</title>
+    <link href="http://yoursite.com/2020/04/13/sbd-17/"/>
+    <id>http://yoursite.com/2020/04/13/sbd-17/</id>
+    <published>2020-04-12T16:07:49.000Z</published>
+    <updated>2020-04-12T16:10:47.410Z</updated>
+    
+    <content type="html"><![CDATA[<p>补4.12日的傻逼日记。<br>尝试跑一个sequence-to-sequence。<br>学习Python。<br>看了几个github page，这世界上有那么多优秀的人。榜样啊，动力十足。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补4.12日的傻逼日记。&lt;br&gt;尝试跑一个sequence-to-sequence。&lt;br&gt;学习Python。&lt;br&gt;看了几个github page，这世界上有那么多优秀的人。榜样啊，动力十足。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_16</title>
