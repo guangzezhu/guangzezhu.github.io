@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-12T16:10:47.410Z</updated>
+  <updated>2020-04-13T14:20:42.602Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_18</title>
+    <link href="http://yoursite.com/2020/04/13/sbd-18/"/>
+    <id>http://yoursite.com/2020/04/13/sbd-18/</id>
+    <published>2020-04-13T14:19:27.000Z</published>
+    <updated>2020-04-13T14:20:42.602Z</updated>
+    
+    <content type="html"><![CDATA[<p>搓澡，挫伤了，难受。<br>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;搓澡，挫伤了，难受。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_17</title>
