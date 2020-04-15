@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-14T14:31:49.839Z</updated>
+  <updated>2020-04-15T16:07:49.667Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_20</title>
+    <link href="http://yoursite.com/2020/04/16/sbd-20/"/>
+    <id>http://yoursite.com/2020/04/16/sbd-20/</id>
+    <published>2020-04-15T16:04:51.000Z</published>
+    <updated>2020-04-15T16:07:49.667Z</updated>
+    
+    <content type="html"><![CDATA[<p>补4.15日记。<br>敲完了《Python简明教程》，稍微能看懂一点seqtoseq源码。<br>代码还是要敲敲看，体力活，不能偷懒，该练还是要练。<br>复习Java基础知识。<br>一会看《生活大爆炸》。<br>repeat，repeat， repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补4.15日记。&lt;br&gt;敲完了《Python简明教程》，稍微能看懂一点seqtoseq源码。&lt;br&gt;代码还是要敲敲看，体力活，不能偷懒，该练还是要练。&lt;br&gt;复习Java基础知识。&lt;br&gt;一会看《生活大爆炸》。&lt;br&gt;repeat，repeat， repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_19</title>
@@ -476,32 +501,6 @@
       
         &lt;p&gt;好家伙，第二天就断更了。&lt;br&gt;现在是2020年3月28日，昨天中午起床吃饭，看了会lpl比赛，打了一天的游戏。现在困困的。&lt;br&gt;最近自家的WiFi一直连不上。&lt;br&gt;无事，头晕。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_0</title>
-    <link href="http://yoursite.com/2020/03/26/sbd-0/"/>
-    <id>http://yoursite.com/2020/03/26/sbd-0/</id>
-    <published>2020-03-26T15:44:23.000Z</published>
-    <updated>2020-03-26T16:08:54.052Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天淘宝买的键盘到了，一个静音红轴键盘，分量还是很重的。这个键盘打起字来肉肉得，就像发泡的大木枣一样。蛮喜欢的。</p><p>和键盘一起到的还有买的几本书：纪伯伦的先知和（情）书信集；伊板幸太郎的金色梦乡和摩登时代；乡土中国。</p><p>面试了途虎养车，近一年没写代码了，初面挂了。</p><p>凌晨的时候又想起来搞博客了，把以前收藏的教程拿出来打了一个，换个theam也换个风格。在看别人的github page写的那么好，自己再模仿也没什么卵用，毕竟肚里没货，看看别人的辛勤劳动也是好的。自己的博客没什么东西，就写写傻逼日记，好好吐槽自己好了，毕竟“一日三省吾身”。</p><p>也想过写写技术博客，记录一些遇到的问题。可是写在博客上太麻烦了，要贴图，要字多，要现在本地编辑好再传到博客上，还要注意美观，太做作了，浪费时间。这些事早有人在做了。所以不如多看看他们的经验，在有道云笔记上收藏一些好的帖子。（突然想到陈波这个鬼人，方法还是很管用的）</p><p>repeat！repeat！repeat！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天淘宝买的键盘到了，一个静音红轴键盘，分量还是很重的。这个键盘打起字来肉肉得，就像发泡的大木枣一样。蛮喜欢的。&lt;/p&gt;
-&lt;p&gt;和键盘一起到的还有买的几本书：纪伯伦的先知和（情）书信集；伊板幸太郎的金色梦乡和摩登时代；乡土中国。&lt;/p&gt;
-&lt;p&gt;面试了途虎养车，近一年没写代码
       
     
     </summary>
