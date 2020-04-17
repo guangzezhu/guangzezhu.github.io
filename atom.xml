@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-16T13:46:10.817Z</updated>
+  <updated>2020-04-17T15:47:20.343Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_22</title>
+    <link href="http://yoursite.com/2020/04/17/sbd-22/"/>
+    <id>http://yoursite.com/2020/04/17/sbd-22/</id>
+    <published>2020-04-17T15:45:06.000Z</published>
+    <updated>2020-04-17T15:47:20.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>站了一上午。<br>给小朋友买的百科全书到了。<br>看了看《莫烦PyTorch》，看的好慢。<br>想玩LOL，但是要10G，下的太慢了。看会《生活大爆炸》第九季<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;站了一上午。&lt;br&gt;给小朋友买的百科全书到了。&lt;br&gt;看了看《莫烦PyTorch》，看的好慢。&lt;br&gt;想玩LOL，但是要10G，下的太慢了。看会《生活大爆炸》第九季&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_21</title>
@@ -475,31 +500,6 @@
       
       
         &lt;p&gt;29号的又忘记了，现在是2020年3月30日。&lt;br&gt;昨天看了《生活大爆炸》第三季。&lt;br&gt;额头起了几个痘痘。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_2</title>
-    <link href="http://yoursite.com/2020/03/28/sbd-2/"/>
-    <id>http://yoursite.com/2020/03/28/sbd-2/</id>
-    <published>2020-03-28T15:59:09.000Z</published>
-    <updated>2020-03-28T16:00:35.409Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天洗了个澡，玩LOL克隆模式。<br>看《生活大爆炸》第二季。<br> repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天洗了个澡，玩LOL克隆模式。&lt;br&gt;看《生活大爆炸》第二季。&lt;br&gt; repeat，repeat，repeat。&lt;/p&gt;
 
       
     
