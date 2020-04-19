@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-17T15:47:20.343Z</updated>
+  <updated>2020-04-19T08:54:56.460Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_23</title>
+    <link href="http://yoursite.com/2020/04/19/sbd-23/"/>
+    <id>http://yoursite.com/2020/04/19/sbd-23/</id>
+    <published>2020-04-19T08:51:33.000Z</published>
+    <updated>2020-04-19T08:54:56.460Z</updated>
+    
+    <content type="html"><![CDATA[<p>补4.18的傻逼日记。<br>看了《莫烦PyTorch神经网络》，基础太差，简单的神经网络看了好几遍。<br>《生活大爆炸》第九季还没看完。<br>LOL玩了8局，排位2胜2负，真是耗时间神器。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补4.18的傻逼日记。&lt;br&gt;看了《莫烦PyTorch神经网络》，基础太差，简单的神经网络看了好几遍。&lt;br&gt;《生活大爆炸》第九季还没看完。&lt;br&gt;LOL玩了8局，排位2胜2负，真是耗时间神器。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_22</title>
@@ -476,31 +501,6 @@
       
       
         &lt;p&gt;依然是什么都没做的一天。&lt;br&gt;读了两篇论文：《Sequence to Sequence Learning》、《Neural Conversation Model》。表示读不懂，看不懂公式，不会写代码，跟看csdn博客一样。Sequence to Sequence太赖皮了，
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_3</title>
-    <link href="http://yoursite.com/2020/03/30/sbd-3/"/>
-    <id>http://yoursite.com/2020/03/30/sbd-3/</id>
-    <published>2020-03-29T18:16:06.000Z</published>
-    <updated>2020-03-29T18:18:17.913Z</updated>
-    
-    <content type="html"><![CDATA[<p>29号的又忘记了，现在是2020年3月30日。<br>昨天看了《生活大爆炸》第三季。<br>额头起了几个痘痘。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;29号的又忘记了，现在是2020年3月30日。&lt;br&gt;昨天看了《生活大爆炸》第三季。&lt;br&gt;额头起了几个痘痘。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
