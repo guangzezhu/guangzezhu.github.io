@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-19T13:49:08.600Z</updated>
+  <updated>2020-04-20T15:54:55.088Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_25</title>
+    <link href="http://yoursite.com/2020/04/20/sbd-25/"/>
+    <id>http://yoursite.com/2020/04/20/sbd-25/</id>
+    <published>2020-04-20T15:52:41.000Z</published>
+    <updated>2020-04-20T15:54:55.088Z</updated>
+    
+    <content type="html"><![CDATA[<p>看了几篇博客，抄抄代码，还没跑通。</p><p><a href="https://zhuanlan.zhihu.com/p/27141786" target="_blank" rel="noopener">揭开知识库问答KB-QA的面纱0·导读篇</a></p><p><a href="https://blog.csdn.net/weixin_46133588/article/details/104696483" target="_blank" rel="noopener">基于知识图谱的问答系统(上)</a></p><p><a href="https://blog.csdn.net/weixin_37947156/article/details/84877254" target="_blank" rel="noopener">BERT中文实战（文本相似度）</a></p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;看了几篇博客，抄抄代码，还没跑通。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/27141786&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;揭开知识库问答KB-QA的面纱0·导读篇&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_24</title>
@@ -477,31 +503,6 @@
       
       
         &lt;p&gt;看了《生活大爆炸》第四季。&lt;br&gt;man了一下ls、mv。mv并没有改变文件内容（inode + data block都没变），只是改变了目录引射表。而且mkdir一个空目录也会有4.0k大小，这和目录有关（.和..隐藏目录），具体以后查看linux目录是怎么回事。这些在2
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_5</title>
-    <link href="http://yoursite.com/2020/03/31/sbd-5/"/>
-    <id>http://yoursite.com/2020/03/31/sbd-5/</id>
-    <published>2020-03-31T15:49:34.000Z</published>
-    <updated>2020-03-31T15:50:38.320Z</updated>
-    
-    <content type="html"><![CDATA[<p>中午起床，发呆，看比赛，打游戏。<br>repeat,repeat,repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;中午起床，发呆，看比赛，打游戏。&lt;br&gt;repeat,repeat,repeat.&lt;/p&gt;
-
       
     
     </summary>
