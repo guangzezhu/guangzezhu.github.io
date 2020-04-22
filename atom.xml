@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-21T16:14:37.332Z</updated>
+  <updated>2020-04-22T12:57:45.715Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_27</title>
+    <link href="http://yoursite.com/2020/04/22/sbd-27/"/>
+    <id>http://yoursite.com/2020/04/22/sbd-27/</id>
+    <published>2020-04-22T12:57:01.000Z</published>
+    <updated>2020-04-22T12:57:45.715Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天回学校了。<br>有点头晕。<br>repeat，repeat， repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天回学校了。&lt;br&gt;有点头晕。&lt;br&gt;repeat，repeat， repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_26</title>
@@ -480,30 +505,6 @@
       
         &lt;p&gt;看了LOL比赛。&lt;br&gt;man了几个Linux命令。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_7</title>
-    <link href="http://yoursite.com/2020/04/02/sbd-7/"/>
-    <id>http://yoursite.com/2020/04/02/sbd-7/</id>
-    <published>2020-04-02T15:03:15.000Z</published>
-    <updated>2020-04-02T15:08:12.065Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天逢会，早起炸油条。<br>上午华为面试，面试官nice，没有为难人。现场笔试的是快速排序，想了一会才写完（不能用IDE），面试官指出mid问题后，又花了5分钟改好。问题答得七七八八，简单的编程题用时蛮久的，总的来说，体验不错，不紧张，下次加油。<br>LOL打个6局才拿首胜，从小到大，玩游戏就没赢过，猜拳也是。。。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天逢会，早起炸油条。&lt;br&gt;上午华为面试，面试官nice，没有为难人。现场笔试的是快速排序，想了一会才写完（不能用IDE），面试官指出mid问题后，又花了5分钟改好。问题答得七七八八，简单的编程题用时蛮久的，总的来说，体验不错，不紧张，下次加油。&lt;br&gt;LOL打个6局才拿
       
     
     </summary>
