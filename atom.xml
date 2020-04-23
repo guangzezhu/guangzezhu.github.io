@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-22T12:57:45.715Z</updated>
+  <updated>2020-04-23T16:16:11.567Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_28</title>
+    <link href="http://yoursite.com/2020/04/24/sbd-28/"/>
+    <id>http://yoursite.com/2020/04/24/sbd-28/</id>
+    <published>2020-04-23T16:10:42.000Z</published>
+    <updated>2020-04-23T16:16:11.567Z</updated>
+    
+    <content type="html"><![CDATA[<p>补4.23日的傻逼日记。<br>中午看了《生活大爆炸》，下午玩了LOL。<br>晚上处理NLPCC数据，构造训练测试数据；学习python如何使用mysql（pymysql+SQLAlchemy）。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补4.23日的傻逼日记。&lt;br&gt;中午看了《生活大爆炸》，下午玩了LOL。&lt;br&gt;晚上处理NLPCC数据，构造训练测试数据；学习python如何使用mysql（pymysql+SQLAlchemy）。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_27</title>
@@ -479,31 +504,6 @@
       
       
         &lt;p&gt;又是废物的一天。&lt;br&gt;看了《生活大爆炸》第五季。&lt;br&gt;man了telnet和rsync。&lt;br&gt;顾老师通知下周一后天，汇报毕设进度。紧张、没食欲。&lt;br&gt;最近颈椎不太舒服，昨天睡觉时有耳鸣。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_8</title>
-    <link href="http://yoursite.com/2020/04/03/sbd-8/"/>
-    <id>http://yoursite.com/2020/04/03/sbd-8/</id>
-    <published>2020-04-03T15:37:42.000Z</published>
-    <updated>2020-04-03T15:44:08.468Z</updated>
-    
-    <content type="html"><![CDATA[<p>看了LOL比赛。<br>man了几个Linux命令。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;看了LOL比赛。&lt;br&gt;man了几个Linux命令。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
