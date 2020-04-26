@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-25T15:34:57.147Z</updated>
+  <updated>2020-04-26T15:43:42.575Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_31</title>
+    <link href="http://yoursite.com/2020/04/26/sbd-31/"/>
+    <id>http://yoursite.com/2020/04/26/sbd-31/</id>
+    <published>2020-04-26T15:42:36.000Z</published>
+    <updated>2020-04-26T15:43:42.575Z</updated>
+    
+    <content type="html"><![CDATA[<p>看了《生活大爆炸》，LOL配位黑铁连跪。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;看了《生活大爆炸》，LOL配位黑铁连跪。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_30</title>
@@ -480,31 +505,6 @@
       
       
         &lt;p&gt;下午毕设开会，自己的工作量太小了，接下来需要加班加点地完成问答系统的框架搭建。&lt;br&gt;《生活大爆炸》第六季，8~16集。&lt;br&gt;“If you don’t want to lool foolish doing something, you should practice.”
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_10</title>
-    <link href="http://yoursite.com/2020/04/05/sbd-10/"/>
-    <id>http://yoursite.com/2020/04/05/sbd-10/</id>
-    <published>2020-04-05T14:54:08.000Z</published>
-    <updated>2020-04-05T14:55:25.011Z</updated>
-    
-    <content type="html"><![CDATA[<p>脑子卡了，心情郁闷，自闭，想睡觉。<br>毕设一点头绪没有。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;脑子卡了，心情郁闷，自闭，想睡觉。&lt;br&gt;毕设一点头绪没有。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
