@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-01T15:31:54.688Z</updated>
+  <updated>2020-05-02T15:49:30.405Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_37</title>
+    <link href="http://yoursite.com/2020/05/02/sbd-37/"/>
+    <id>http://yoursite.com/2020/05/02/sbd-37/</id>
+    <published>2020-05-02T15:47:35.000Z</published>
+    <updated>2020-05-02T15:49:30.405Z</updated>
+    
+    <content type="html"><![CDATA[<p>复习《TCP/IP协议与网络编程》第一、二章和课后习题。<br>看了“RFC 1180”<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;复习《TCP/IP协议与网络编程》第一、二章和课后习题。&lt;br&gt;看了“RFC 1180”&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_36</title>
@@ -480,31 +505,6 @@
       
       
         &lt;p&gt;补4.12日的傻逼日记。&lt;br&gt;尝试跑一个sequence-to-sequence。&lt;br&gt;学习Python。&lt;br&gt;看了几个github page，这世界上有那么多优秀的人。榜样啊，动力十足。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_16</title>
-    <link href="http://yoursite.com/2020/04/11/sbd-16/"/>
-    <id>http://yoursite.com/2020/04/11/sbd-16/</id>
-    <published>2020-04-11T15:42:59.000Z</published>
-    <updated>2020-04-11T15:47:04.555Z</updated>
-    
-    <content type="html"><![CDATA[<p>美好的一天从一笼yummy的小笼包和annoying短信开始。<br>毕设进度前进一丢丢。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;美好的一天从一笼yummy的小笼包和annoying短信开始。&lt;br&gt;毕设进度前进一丢丢。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
