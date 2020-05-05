@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-04T15:58:37.965Z</updated>
+  <updated>2020-05-05T15:45:33.138Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_40</title>
+    <link href="http://yoursite.com/2020/05/05/sbd-40/"/>
+    <id>http://yoursite.com/2020/05/05/sbd-40/</id>
+    <published>2020-05-05T15:44:17.000Z</published>
+    <updated>2020-05-05T15:45:33.138Z</updated>
+    
+    <content type="html"><![CDATA[<p>睡觉，LOL.<br>网络编程，放弃。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;睡觉，LOL.&lt;br&gt;网络编程，放弃。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_39</title>
@@ -482,30 +507,6 @@
       
         &lt;p&gt;补4.15日记。&lt;br&gt;敲完了《Python简明教程》，稍微能看懂一点seqtoseq源码。&lt;br&gt;代码还是要敲敲看，体力活，不能偷懒，该练还是要练。&lt;br&gt;复习Java基础知识。&lt;br&gt;一会看《生活大爆炸》。&lt;br&gt;repeat，repeat， repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_19</title>
-    <link href="http://yoursite.com/2020/04/14/sbd-19/"/>
-    <id>http://yoursite.com/2020/04/14/sbd-19/</id>
-    <published>2020-04-14T14:20:05.000Z</published>
-    <updated>2020-04-14T14:31:49.839Z</updated>
-    
-    <content type="html"><![CDATA[<p>五个半小时的NC-17《女性瘾者》，引起生理和心理不适。叙述故事时声音低沉，背景音乐压抑；有大量裸露镜头和晦涩的隐喻。能看完是因为喜欢Stacey Martin的嘴角，也想知道Joy为何出现在开头的巷子里，这么长的故事如何结尾。很多影视剧里人物的心理冲突到达顶峰、心理建设崩塌时，就是人物gg的时候了。<br>以后少猎奇，看看喜剧换一换。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;五个半小时的NC-17《女性瘾者》，引起生理和心理不适。叙述故事时声音低沉，背景音乐压抑；有大量裸露镜头和晦涩的隐喻。能看完是因为喜欢Stacey Martin的嘴角，也想知道Joy为何出现在开头的巷子里，这么长的故事如何结尾。很多影视剧里人物的心理冲突到达顶峰、心理建设崩
       
     
     </summary>
