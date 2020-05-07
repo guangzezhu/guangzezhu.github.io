@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-06T16:07:21.127Z</updated>
+  <updated>2020-05-07T15:53:00.845Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_42</title>
+    <link href="http://yoursite.com/2020/05/07/sbd-42/"/>
+    <id>http://yoursite.com/2020/05/07/sbd-42/</id>
+    <published>2020-05-07T15:52:00.000Z</published>
+    <updated>2020-05-07T15:53:00.845Z</updated>
+    
+    <content type="html"><![CDATA[<p>睡觉，LOL。<br>毕设论文章节目录，SIM_main.py<br>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;睡觉，LOL。&lt;br&gt;毕设论文章节目录，SIM_main.py&lt;br&gt;repeat, repeat, repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_41</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;站了一上午。&lt;br&gt;给小朋友买的百科全书到了。&lt;br&gt;看了看《莫烦PyTorch》，看的好慢。&lt;br&gt;想玩LOL，但是要10G，下的太慢了。看会《生活大爆炸》第九季&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_21</title>
-    <link href="http://yoursite.com/2020/04/16/sbd-21/"/>
-    <id>http://yoursite.com/2020/04/16/sbd-21/</id>
-    <published>2020-04-16T13:43:25.000Z</published>
-    <updated>2020-04-16T13:46:10.817Z</updated>
-    
-    <content type="html"><![CDATA[<p>看了看PyTorch。<br>明早2：00起床干活。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;看了看PyTorch。&lt;br&gt;明早2：00起床干活。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
