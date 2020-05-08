@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-07T15:53:00.845Z</updated>
+  <updated>2020-05-08T16:16:05.253Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_43</title>
+    <link href="http://yoursite.com/2020/05/09/sbd-43/"/>
+    <id>http://yoursite.com/2020/05/09/sbd-43/</id>
+    <published>2020-05-08T16:14:43.000Z</published>
+    <updated>2020-05-08T16:16:05.253Z</updated>
+    
+    <content type="html"><![CDATA[<p>补5.8的傻逼日记。<br>睡觉，没吃饭。<br>写毕业实习成绩考察表。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补5.8的傻逼日记。&lt;br&gt;睡觉，没吃饭。&lt;br&gt;写毕业实习成绩考察表。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_42</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;补4.18的傻逼日记。&lt;br&gt;看了《莫烦PyTorch神经网络》，基础太差，简单的神经网络看了好几遍。&lt;br&gt;《生活大爆炸》第九季还没看完。&lt;br&gt;LOL玩了8局，排位2胜2负，真是耗时间神器。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_22</title>
-    <link href="http://yoursite.com/2020/04/17/sbd-22/"/>
-    <id>http://yoursite.com/2020/04/17/sbd-22/</id>
-    <published>2020-04-17T15:45:06.000Z</published>
-    <updated>2020-04-17T15:47:20.343Z</updated>
-    
-    <content type="html"><![CDATA[<p>站了一上午。<br>给小朋友买的百科全书到了。<br>看了看《莫烦PyTorch》，看的好慢。<br>想玩LOL，但是要10G，下的太慢了。看会《生活大爆炸》第九季<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;站了一上午。&lt;br&gt;给小朋友买的百科全书到了。&lt;br&gt;看了看《莫烦PyTorch》，看的好慢。&lt;br&gt;想玩LOL，但是要10G，下的太慢了。看会《生活大爆炸》第九季&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
