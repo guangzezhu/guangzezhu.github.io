@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-08T16:16:05.253Z</updated>
+  <updated>2020-05-09T15:56:34.846Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_44</title>
+    <link href="http://yoursite.com/2020/05/09/sbd-44/"/>
+    <id>http://yoursite.com/2020/05/09/sbd-44/</id>
+    <published>2020-05-09T15:54:58.000Z</published>
+    <updated>2020-05-09T15:56:34.846Z</updated>
+    
+    <content type="html"><![CDATA[<p>理解NER_main.py<br>睡觉，LOL。<br>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;理解NER_main.py&lt;br&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_43</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;睡觉，睡觉。&lt;br&gt;repeat， repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_23</title>
-    <link href="http://yoursite.com/2020/04/19/sbd-23/"/>
-    <id>http://yoursite.com/2020/04/19/sbd-23/</id>
-    <published>2020-04-19T08:51:33.000Z</published>
-    <updated>2020-04-19T08:54:56.460Z</updated>
-    
-    <content type="html"><![CDATA[<p>补4.18的傻逼日记。<br>看了《莫烦PyTorch神经网络》，基础太差，简单的神经网络看了好几遍。<br>《生活大爆炸》第九季还没看完。<br>LOL玩了8局，排位2胜2负，真是耗时间神器。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补4.18的傻逼日记。&lt;br&gt;看了《莫烦PyTorch神经网络》，基础太差，简单的神经网络看了好几遍。&lt;br&gt;《生活大爆炸》第九季还没看完。&lt;br&gt;LOL玩了8局，排位2胜2负，真是耗时间神器。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
