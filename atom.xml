@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-09T15:56:34.846Z</updated>
+  <updated>2020-05-10T16:17:46.479Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_45</title>
+    <link href="http://yoursite.com/2020/05/11/sbd-45/"/>
+    <id>http://yoursite.com/2020/05/11/sbd-45/</id>
+    <published>2020-05-10T16:14:57.000Z</published>
+    <updated>2020-05-10T16:17:46.479Z</updated>
+    
+    <content type="html"><![CDATA[<p>补5.11的傻逼日记。<br>睡觉，写实习报告，写论文绪论。<br>我是个铁的镀铜的小废物，看了不会写。<br>要多写东西，认真写出来的是垃圾，不认真写出来的是垃圾。多写写，也许能变废为宝。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补5.11的傻逼日记。&lt;br&gt;睡觉，写实习报告，写论文绪论。&lt;br&gt;我是个铁的镀铜的小废物，看了不会写。&lt;br&gt;要多写东西，认真写出来的是垃圾，不认真写出来的是垃圾。多写写，也许能变废为宝。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_44</title>
@@ -482,31 +507,6 @@
         &lt;p&gt;看了几篇博客，抄抄代码，还没跑通。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/27141786&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;揭开知识库问答KB-QA的面纱0·导读篇&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_24</title>
-    <link href="http://yoursite.com/2020/04/19/sbd-24/"/>
-    <id>http://yoursite.com/2020/04/19/sbd-24/</id>
-    <published>2020-04-19T13:48:34.000Z</published>
-    <updated>2020-04-19T13:49:08.600Z</updated>
-    
-    <content type="html"><![CDATA[<p>睡觉，睡觉。<br>repeat， repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;睡觉，睡觉。&lt;br&gt;repeat， repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
