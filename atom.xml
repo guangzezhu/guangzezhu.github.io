@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-10T16:17:46.479Z</updated>
+  <updated>2020-05-11T15:56:45.835Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_46</title>
+    <link href="http://yoursite.com/2020/05/11/sbd-46/"/>
+    <id>http://yoursite.com/2020/05/11/sbd-46/</id>
+    <published>2020-05-11T15:54:16.000Z</published>
+    <updated>2020-05-11T15:56:45.835Z</updated>
+    
+    <content type="html"><![CDATA[<p>闲鱼卖出树莓派套装、优盘。<br>明天班级去医院，第二次检查肺结核。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;闲鱼卖出树莓派套装、优盘。&lt;br&gt;明天班级去医院，第二次检查肺结核。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>sbd_45</title>
@@ -481,32 +504,6 @@
       
         &lt;p&gt;补4.21的傻逼日记。&lt;br&gt;看了一点bert-kb的数据处理代码（python文件处理）。&lt;br&gt;收拾东西，明天去学校隔离。&lt;br&gt;看了《生活大爆炸》。&lt;br&gt;玩了3把LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_25</title>
-    <link href="http://yoursite.com/2020/04/20/sbd-25/"/>
-    <id>http://yoursite.com/2020/04/20/sbd-25/</id>
-    <published>2020-04-20T15:52:41.000Z</published>
-    <updated>2020-04-20T15:54:55.088Z</updated>
-    
-    <content type="html"><![CDATA[<p>看了几篇博客，抄抄代码，还没跑通。</p><p><a href="https://zhuanlan.zhihu.com/p/27141786" target="_blank" rel="noopener">揭开知识库问答KB-QA的面纱0·导读篇</a></p><p><a href="https://blog.csdn.net/weixin_46133588/article/details/104696483" target="_blank" rel="noopener">基于知识图谱的问答系统(上)</a></p><p><a href="https://blog.csdn.net/weixin_37947156/article/details/84877254" target="_blank" rel="noopener">BERT中文实战（文本相似度）</a></p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;看了几篇博客，抄抄代码，还没跑通。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/27141786&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;揭开知识库问答KB-QA的面纱0·导读篇&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;
       
     
     </summary>
