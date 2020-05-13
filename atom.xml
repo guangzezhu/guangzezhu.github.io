@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-12T15:45:50.327Z</updated>
+  <updated>2020-05-13T15:51:07.109Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_48</title>
+    <link href="http://yoursite.com/2020/05/13/sbd-48/"/>
+    <id>http://yoursite.com/2020/05/13/sbd-48/</id>
+    <published>2020-05-13T15:49:07.000Z</published>
+    <updated>2020-05-13T15:51:07.109Z</updated>
+    
+    <content type="html"><![CDATA[<p>写毕业论文，1.3本文研究内容，2.相关工作。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;写毕业论文，1.3本文研究内容，2.相关工作。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_47</title>
@@ -478,31 +503,6 @@
       
       
         &lt;p&gt;补4.23日的傻逼日记。&lt;br&gt;中午看了《生活大爆炸》，下午玩了LOL。&lt;br&gt;晚上处理NLPCC数据，构造训练测试数据；学习python如何使用mysql（pymysql+SQLAlchemy）。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_27</title>
-    <link href="http://yoursite.com/2020/04/22/sbd-27/"/>
-    <id>http://yoursite.com/2020/04/22/sbd-27/</id>
-    <published>2020-04-22T12:57:01.000Z</published>
-    <updated>2020-04-22T12:57:45.715Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天回学校了。<br>有点头晕。<br>repeat，repeat， repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天回学校了。&lt;br&gt;有点头晕。&lt;br&gt;repeat，repeat， repeat。&lt;/p&gt;
 
       
     
