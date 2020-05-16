@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-14T15:26:19.052Z</updated>
+  <updated>2020-05-16T15:58:54.044Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_51</title>
+    <link href="http://yoursite.com/2020/05/16/sbd-51/"/>
+    <id>http://yoursite.com/2020/05/16/sbd-51/</id>
+    <published>2020-05-16T15:56:38.000Z</published>
+    <updated>2020-05-16T15:58:54.044Z</updated>
+    
+    <content type="html"><![CDATA[<p>给gu论文初稿。<br>睡觉，LOL。<br>repeat，repeat，repeat</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;给gu论文初稿。&lt;br&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_50</title>
+    <link href="http://yoursite.com/2020/05/15/sbd-50/"/>
+    <id>http://yoursite.com/2020/05/15/sbd-50/</id>
+    <published>2020-05-15T15:43:59.000Z</published>
+    <updated>2020-05-16T13:49:38.689Z</updated>
+    
+    <content type="html"><![CDATA[<p>补5.15日的傻逼日记。<br>完成论文初稿的内容。<br>安装LOL，可是键盘卖了。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补5.15日的傻逼日记。&lt;br&gt;完成论文初稿的内容。&lt;br&gt;安装LOL，可是键盘卖了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_49</title>
@@ -453,56 +503,6 @@
       
       
         &lt;p&gt;看NER_main.py代码.&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_31</title>
-    <link href="http://yoursite.com/2020/04/26/sbd-31/"/>
-    <id>http://yoursite.com/2020/04/26/sbd-31/</id>
-    <published>2020-04-26T15:42:36.000Z</published>
-    <updated>2020-04-26T15:43:42.575Z</updated>
-    
-    <content type="html"><![CDATA[<p>看了《生活大爆炸》，LOL配位黑铁连跪。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;看了《生活大爆炸》，LOL配位黑铁连跪。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_30</title>
-    <link href="http://yoursite.com/2020/04/25/sbd-30/"/>
-    <id>http://yoursite.com/2020/04/25/sbd-30/</id>
-    <published>2020-04-25T15:32:36.000Z</published>
-    <updated>2020-04-25T15:34:57.147Z</updated>
-    
-    <content type="html"><![CDATA[<p>提交中期检查材料。<br>跑了SIM_main.py，试了几个GPU服务平台，不会。<br>最近睡眠出了问题。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;提交中期检查材料。&lt;br&gt;跑了SIM_main.py，试了几个GPU服务平台，不会。&lt;br&gt;最近睡眠出了问题。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
