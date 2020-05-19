@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-16T15:58:54.044Z</updated>
+  <updated>2020-05-19T04:55:06.950Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_53</title>
+    <link href="http://yoursite.com/2020/05/19/sbd-53/"/>
+    <id>http://yoursite.com/2020/05/19/sbd-53/</id>
+    <published>2020-05-19T04:52:59.000Z</published>
+    <updated>2020-05-19T04:55:06.950Z</updated>
+    
+    <content type="html"><![CDATA[<p>补5.18日的傻逼日记，并提交5.18日补5.17日的日记。<br>修改了论文初稿，复习Java，睡了个好觉。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补5.18日的傻逼日记，并提交5.18日补5.17日的日记。&lt;br&gt;修改了论文初稿，复习Java，睡了个好觉。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_51</title>
@@ -478,31 +503,6 @@
       
       
         &lt;p&gt;中期检查，下午和顾老师聊毕设论文。&lt;br&gt;LOL云顶真垃圾。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_32</title>
-    <link href="http://yoursite.com/2020/04/27/sbd-32/"/>
-    <id>http://yoursite.com/2020/04/27/sbd-32/</id>
-    <published>2020-04-27T15:56:18.000Z</published>
-    <updated>2020-04-27T15:57:08.055Z</updated>
-    
-    <content type="html"><![CDATA[<p>看NER_main.py代码.<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;看NER_main.py代码.&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
