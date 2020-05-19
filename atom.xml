@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-19T04:58:06.012Z</updated>
+  <updated>2020-05-19T15:55:53.777Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_54</title>
+    <link href="http://yoursite.com/2020/05/19/sbd-54/"/>
+    <id>http://yoursite.com/2020/05/19/sbd-54/</id>
+    <published>2020-05-19T15:54:25.000Z</published>
+    <updated>2020-05-19T15:55:53.777Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOL，睡觉。<br>交了纸质的论文初稿，周末前给顾老师PPT。<br>看了亮剑前八集。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOL，睡觉。&lt;br&gt;交了纸质的论文初稿，周末前给顾老师PPT。&lt;br&gt;看了亮剑前八集。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_53</title>
@@ -471,31 +496,6 @@
     <id>http://yoursite.com/2020/04/30/sbd-35/</id>
     <published>2020-04-30T15:26:41.000Z</published>
     <updated>2020-04-30T15:27:29.363Z</updated>
-    
-    <content type="html"><![CDATA[<p>睡觉，LOL。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_34</title>
-    <link href="http://yoursite.com/2020/04/29/sbd-34/"/>
-    <id>http://yoursite.com/2020/04/29/sbd-34/</id>
-    <published>2020-04-29T15:36:57.000Z</published>
-    <updated>2020-04-29T15:37:40.990Z</updated>
     
     <content type="html"><![CDATA[<p>睡觉，LOL。<br>repeat，repeat，repeat。</p>]]></content>
     
