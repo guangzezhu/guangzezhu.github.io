@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-24T15:56:12.671Z</updated>
+  <updated>2020-05-25T15:54:12.228Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_60</title>
+    <link href="http://yoursite.com/2020/05/25/sbd-60/"/>
+    <id>http://yoursite.com/2020/05/25/sbd-60/</id>
+    <published>2020-05-25T15:35:01.000Z</published>
+    <updated>2020-05-25T15:54:12.228Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOL云顶之役黄金二。<br>学习使用Dhtmlx gantt插件，重温了sprint boot，mysql。<br>给顾老师发了毕业答辩的PPT。<br>repatriation，repeat, reapt。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOL云顶之役黄金二。&lt;br&gt;学习使用Dhtmlx gantt插件，重温了sprint boot，mysql。&lt;br&gt;给顾老师发了毕业答辩的PPT。&lt;br&gt;repatriation，repeat, reapt。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DHtmlx gantt的使用</title>
+    <link href="http://yoursite.com/2020/05/25/DHtmlx-gantt%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2020/05/25/DHtmlx-gantt%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <published>2020-05-25T15:32:51.000Z</published>
+    <updated>2020-05-25T15:52:04.308Z</updated>
+    
+    <content type="html"><![CDATA[<p>官方文档：<a href="https://docs.dhtmlx.com/gantt" target="_blank" rel="noopener">Dhtml gantt API</a></p><p>基础用法：<br>1、下载相关js/css文件，引入使用</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;script src=<span class="string">"../../codebase/dhtmlxgantt.js?v=7.0.3"</span>&gt;&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">&lt;link rel="stylesheet" href="../</span>../codebase/dhtmlxgantt.css?v=<span class="number">7.0</span><span class="number">.3</span><span class="string">"&gt;</span></span><br></pre></td></tr></table></figure><p>2、绑定显示区域</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&lt;div id=<span class="string">"gantt_here"</span>&gt;&lt;<span class="regexp">/div&gt;</span></span><br><span class="line"><span class="regexp">&lt;script&gt;</span></span><br><span class="line"><span class="regexp">/</span><span class="regexp">/ 设置日期格式</span></span><br><span class="line"><span class="regexp">gantt.config.date_format = "%Y-%m-%d";</span></span><br><span class="line"><span class="regexp">/</span><span class="regexp">/ 绑定显示区域</span></span><br><span class="line"><span class="regexp">gantt.init("gantt_here");</span></span><br><span class="line"><span class="regexp">&lt;/</span>script&gt;</span><br></pre></td></tr></table></figure><p>3、数据加载</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">gantt.load(url, <span class="built_in">JSON</span>); <span class="comment">//JSON参数：数据使用JSON格式</span></span><br></pre></td></tr></table></figure><p>4、数据交互 gantt封装的ajax</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> dp = gantt.createDataProcessor(&#123;</span><br><span class="line">task: &#123;</span><br><span class="line">create: <span class="function"><span class="keyword">function</span> (<span class="params">data</span>) </span>&#123;</span><br><span class="line">        gantt.ajax.post(url, data, mode = <span class="string">"JSON"</span>);<span class="comment">//data: task</span></span><br><span class="line">        &#125;,</span><br><span class="line">            update: <span class="function"><span class="keyword">function</span> (<span class="params">data, id</span>) </span>&#123;</span><br><span class="line">            &#125;,</span><br><span class="line">            <span class="keyword">delete</span>: <span class="function"><span class="keyword">function</span> (<span class="params">id</span>) </span>&#123;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;,</span><br><span class="line">        link: &#123;</span><br><span class="line">            create: <span class="function"><span class="keyword">function</span> (<span class="params">data</span>) </span>&#123;</span><br><span class="line">            &#125;,</span><br><span class="line">            update: <span class="function"><span class="keyword">function</span> (<span class="params">data, id</span>) </span>&#123;</span><br><span class="line">            &#125;,</span><br><span class="line">            <span class="keyword">delete</span>: <span class="function"><span class="keyword">function</span> (<span class="params">id</span>) </span>&#123;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;);</span><br></pre></td></tr></table></figure><p>附：<a href="https://docs.dhtmlx.com/gantt/desktop__loading.html#databasestructure" target="_blank" rel="noopener">数据库中task和link字段</a></p><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> <span class="string">`gantt_links`</span> (</span><br><span class="line"><span class="string">`id`</span> <span class="built_in">int</span>(<span class="number">11</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span> AUTO_INCREMENT,</span><br><span class="line"><span class="string">`source`</span> <span class="built_in">int</span>(<span class="number">11</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line"><span class="string">`target`</span> <span class="built_in">int</span>(<span class="number">11</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line"><span class="string">`type`</span> <span class="built_in">varchar</span>(<span class="number">1</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line">PRIMARY <span class="keyword">KEY</span> (<span class="string">`id`</span>)</span><br><span class="line">)</span><br><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> <span class="string">`gantt_tasks`</span> (</span><br><span class="line"><span class="string">`id`</span> <span class="built_in">int</span>(<span class="number">11</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span> AUTO_INCREMENT,</span><br><span class="line"><span class="string">`text`</span> <span class="built_in">varchar</span>(<span class="number">255</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line"><span class="string">`start_date`</span> datetime <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line"><span class="string">`duration`</span> <span class="built_in">int</span>(<span class="number">11</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line"><span class="string">`progress`</span> <span class="built_in">float</span> <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line"><span class="string">`sortorder`</span> <span class="built_in">int</span>(<span class="number">11</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line"><span class="string">`parent`</span> <span class="built_in">int</span>(<span class="number">11</span>) <span class="keyword">NOT</span> <span class="literal">NULL</span>,</span><br><span class="line">PRIMARY <span class="keyword">KEY</span> (<span class="string">`id`</span>)</span><br><span class="line">)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;官方文档：&lt;a href=&quot;https://docs.dhtmlx.com/gantt&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Dhtml gantt API&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;基础用法：&lt;br&gt;1、下载相关js/css文件，引入使用&lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="JavaScript, Dhtmlx" scheme="http://yoursite.com/tags/JavaScript-Dhtmlx/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_59</title>
@@ -454,56 +505,6 @@
       
       
         &lt;p&gt;睡觉，LOL。&lt;br&gt;毕设论文章节目录，SIM_main.py&lt;br&gt;repeat, repeat, repeat.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_41</title>
-    <link href="http://yoursite.com/2020/05/07/sbd-41/"/>
-    <id>http://yoursite.com/2020/05/07/sbd-41/</id>
-    <published>2020-05-06T16:05:34.000Z</published>
-    <updated>2020-05-06T16:07:21.127Z</updated>
-    
-    <content type="html"><![CDATA[<p>补5.6傻逼日记。<br>睡觉，LOL。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补5.6傻逼日记。&lt;br&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_40</title>
-    <link href="http://yoursite.com/2020/05/05/sbd-40/"/>
-    <id>http://yoursite.com/2020/05/05/sbd-40/</id>
-    <published>2020-05-05T15:44:17.000Z</published>
-    <updated>2020-05-05T15:45:33.138Z</updated>
-    
-    <content type="html"><![CDATA[<p>睡觉，LOL.<br>网络编程，放弃。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;睡觉，LOL.&lt;br&gt;网络编程，放弃。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
