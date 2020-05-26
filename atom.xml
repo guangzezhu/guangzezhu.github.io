@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-25T15:54:12.228Z</updated>
+  <updated>2020-05-26T15:50:08.852Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_61</title>
+    <link href="http://yoursite.com/2020/05/26/sbd-61/"/>
+    <id>http://yoursite.com/2020/05/26/sbd-61/</id>
+    <published>2020-05-26T15:45:00.000Z</published>
+    <updated>2020-05-26T15:50:08.852Z</updated>
+    
+    <content type="html"><![CDATA[<p>肩旁、背部酸疼的厉害。<br>喝了两杯奶茶、点了一份老乡鸡的鸡汤，下午哑铃锻炼，好些了。<br>项目可能要转前端Vue，明天要学下JS了。<br>晚上LOL.<br>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;肩旁、背部酸疼的厉害。&lt;br&gt;喝了两杯奶茶、点了一份老乡鸡的鸡汤，下午哑铃锻炼，好些了。&lt;br&gt;项目可能要转前端Vue，明天要学下JS了。&lt;br&gt;晚上LOL.&lt;br&gt;repeat, repeat, repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_60</title>
@@ -480,31 +505,6 @@
       
       
         &lt;p&gt;补5.8的傻逼日记。&lt;br&gt;睡觉，没吃饭。&lt;br&gt;写毕业实习成绩考察表。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_42</title>
-    <link href="http://yoursite.com/2020/05/07/sbd-42/"/>
-    <id>http://yoursite.com/2020/05/07/sbd-42/</id>
-    <published>2020-05-07T15:52:00.000Z</published>
-    <updated>2020-05-07T15:53:00.845Z</updated>
-    
-    <content type="html"><![CDATA[<p>睡觉，LOL。<br>毕设论文章节目录，SIM_main.py<br>repeat, repeat, repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;睡觉，LOL。&lt;br&gt;毕设论文章节目录，SIM_main.py&lt;br&gt;repeat, repeat, repeat.&lt;/p&gt;
 
       
     
