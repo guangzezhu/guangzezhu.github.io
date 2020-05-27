@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-26T15:50:08.852Z</updated>
+  <updated>2020-05-27T15:10:53.123Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_62</title>
+    <link href="http://yoursite.com/2020/05/27/sbd-62/"/>
+    <id>http://yoursite.com/2020/05/27/sbd-62/</id>
+    <published>2020-05-27T15:07:34.000Z</published>
+    <updated>2020-05-27T15:10:53.123Z</updated>
+    
+    <content type="html"><![CDATA[<p>云顶之役上铂金四，睡觉。<br>校园卡找到了，图书馆预约人数满了。<br>闲鱼买了键盘和显示屏。<br>毕设答辩看起来不是很严格的样子。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;云顶之役上铂金四，睡觉。&lt;br&gt;校园卡找到了，图书馆预约人数满了。&lt;br&gt;闲鱼买了键盘和显示屏。&lt;br&gt;毕设答辩看起来不是很严格的样子。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_61</title>
@@ -480,31 +505,6 @@
       
       
         &lt;p&gt;理解NER_main.py&lt;br&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_43</title>
-    <link href="http://yoursite.com/2020/05/09/sbd-43/"/>
-    <id>http://yoursite.com/2020/05/09/sbd-43/</id>
-    <published>2020-05-08T16:14:43.000Z</published>
-    <updated>2020-05-08T16:16:05.253Z</updated>
-    
-    <content type="html"><![CDATA[<p>补5.8的傻逼日记。<br>睡觉，没吃饭。<br>写毕业实习成绩考察表。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补5.8的傻逼日记。&lt;br&gt;睡觉，没吃饭。&lt;br&gt;写毕业实习成绩考察表。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
