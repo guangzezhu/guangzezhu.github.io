@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-27T15:10:53.123Z</updated>
+  <updated>2020-05-28T16:23:58.035Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_63</title>
+    <link href="http://yoursite.com/2020/05/29/sbd-63/"/>
+    <id>http://yoursite.com/2020/05/29/sbd-63/</id>
+    <published>2020-05-28T16:21:49.000Z</published>
+    <updated>2020-05-28T16:23:58.035Z</updated>
+    
+    <content type="html"><![CDATA[<p>补5.28日的傻逼日记。<br>毕设答辩结束，闲鱼卖出显示器、键盘、鼠标、吉他。<br>NJNU，GG。<br>要开始写代码了吗？好久没写了呢。头发长了，该剪了。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补5.28日的傻逼日记。&lt;br&gt;毕设答辩结束，闲鱼卖出显示器、键盘、鼠标、吉他。&lt;br&gt;NJNU，GG。&lt;br&gt;要开始写代码了吗？好久没写了呢。头发长了，该剪了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_62</title>
@@ -480,31 +505,6 @@
       
       
         &lt;p&gt;补5.11的傻逼日记。&lt;br&gt;睡觉，写实习报告，写论文绪论。&lt;br&gt;我是个铁的镀铜的小废物，看了不会写。&lt;br&gt;要多写东西，认真写出来的是垃圾，不认真写出来的是垃圾。多写写，也许能变废为宝。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_44</title>
-    <link href="http://yoursite.com/2020/05/09/sbd-44/"/>
-    <id>http://yoursite.com/2020/05/09/sbd-44/</id>
-    <published>2020-05-09T15:54:58.000Z</published>
-    <updated>2020-05-09T15:56:34.846Z</updated>
-    
-    <content type="html"><![CDATA[<p>理解NER_main.py<br>睡觉，LOL。<br>repeat，repeat，repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;理解NER_main.py&lt;br&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
 
       
     
