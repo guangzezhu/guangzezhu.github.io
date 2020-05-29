@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-28T16:23:58.035Z</updated>
+  <updated>2020-05-29T16:28:22.666Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_64</title>
+    <link href="http://yoursite.com/2020/05/30/sbd-64/"/>
+    <id>http://yoursite.com/2020/05/30/sbd-64/</id>
+    <published>2020-05-29T16:26:27.000Z</published>
+    <updated>2020-05-29T16:28:22.666Z</updated>
+    
+    <content type="html"><![CDATA[<p>补5.29日的傻逼日记。<br>睡觉，东三吃饭，明天老板要来。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补5.29日的傻逼日记。&lt;br&gt;睡觉，东三吃饭，明天老板要来。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>sbd_63</title>
@@ -488,31 +511,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_45</title>
-    <link href="http://yoursite.com/2020/05/11/sbd-45/"/>
-    <id>http://yoursite.com/2020/05/11/sbd-45/</id>
-    <published>2020-05-10T16:14:57.000Z</published>
-    <updated>2020-05-10T16:17:46.479Z</updated>
-    
-    <content type="html"><![CDATA[<p>补5.11的傻逼日记。<br>睡觉，写实习报告，写论文绪论。<br>我是个铁的镀铜的小废物，看了不会写。<br>要多写东西，认真写出来的是垃圾，不认真写出来的是垃圾。多写写，也许能变废为宝。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补5.11的傻逼日记。&lt;br&gt;睡觉，写实习报告，写论文绪论。&lt;br&gt;我是个铁的镀铜的小废物，看了不会写。&lt;br&gt;要多写东西，认真写出来的是垃圾，不认真写出来的是垃圾。多写写，也许能变废为宝。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
