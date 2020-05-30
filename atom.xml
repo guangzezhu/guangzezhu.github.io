@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-29T16:28:22.666Z</updated>
+  <updated>2020-05-30T14:24:35.987Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_65</title>
+    <link href="http://yoursite.com/2020/05/30/sbd-65/"/>
+    <id>http://yoursite.com/2020/05/30/sbd-65/</id>
+    <published>2020-05-30T14:19:29.000Z</published>
+    <updated>2020-05-30T14:24:35.987Z</updated>
+    
+    <content type="html"><![CDATA[<p>学习了html。<br>谈了谈工作的事情。<br>剪了头发，吃了烤鱼，买了个鼠标。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;学习了html。&lt;br&gt;谈了谈工作的事情。&lt;br&gt;剪了头发，吃了烤鱼，买了个鼠标。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_64</title>
@@ -488,29 +513,6 @@
     
     
       <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_46</title>
-    <link href="http://yoursite.com/2020/05/11/sbd-46/"/>
-    <id>http://yoursite.com/2020/05/11/sbd-46/</id>
-    <published>2020-05-11T15:54:16.000Z</published>
-    <updated>2020-05-11T15:56:45.835Z</updated>
-    
-    <content type="html"><![CDATA[<p>闲鱼卖出树莓派套装、优盘。<br>明天班级去医院，第二次检查肺结核。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;闲鱼卖出树莓派套装、优盘。&lt;br&gt;明天班级去医院，第二次检查肺结核。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
