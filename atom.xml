@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-31T15:42:41.489Z</updated>
+  <updated>2020-06-02T14:58:43.108Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_68</title>
+    <link href="http://yoursite.com/2020/06/02/sbd-68/"/>
+    <id>http://yoursite.com/2020/06/02/sbd-68/</id>
+    <published>2020-06-02T14:57:34.000Z</published>
+    <updated>2020-06-02T14:58:43.108Z</updated>
+    
+    <content type="html"><![CDATA[<p>睡觉，LOL。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_67</title>
+    <link href="http://yoursite.com/2020/06/02/sbd-67/"/>
+    <id>http://yoursite.com/2020/06/02/sbd-67/</id>
+    <published>2020-06-02T14:55:58.000Z</published>
+    <updated>2020-06-02T14:58:15.567Z</updated>
+    
+    <content type="html"><![CDATA[<p>补6.1日的傻逼日记。<br>睡觉，LOL。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补6.1日的傻逼日记。&lt;br&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_66</title>
@@ -455,56 +505,6 @@
       
       
         &lt;p&gt;补5.15日的傻逼日记。&lt;br&gt;完成论文初稿的内容。&lt;br&gt;安装LOL，可是键盘卖了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_49</title>
-    <link href="http://yoursite.com/2020/05/14/sbd-49/"/>
-    <id>http://yoursite.com/2020/05/14/sbd-49/</id>
-    <published>2020-05-14T15:22:52.000Z</published>
-    <updated>2020-05-14T15:26:19.052Z</updated>
-    
-    <content type="html"><![CDATA[<p>写毕设论文，第三章系统设计与实现。不能粘贴代码，分不清设计与实现了。写了8000字，加油。<br>一个初创公司的机会，Java，杭州2个月。风险很大，刚毕业能接触初创公司还是比较好玩的。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;写毕设论文，第三章系统设计与实现。不能粘贴代码，分不清设计与实现了。写了8000字，加油。&lt;br&gt;一个初创公司的机会，Java，杭州2个月。风险很大，刚毕业能接触初创公司还是比较好玩的。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_48</title>
-    <link href="http://yoursite.com/2020/05/13/sbd-48/"/>
-    <id>http://yoursite.com/2020/05/13/sbd-48/</id>
-    <published>2020-05-13T15:49:07.000Z</published>
-    <updated>2020-05-13T15:51:07.109Z</updated>
-    
-    <content type="html"><![CDATA[<p>写毕业论文，1.3本文研究内容，2.相关工作。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;写毕业论文，1.3本文研究内容，2.相关工作。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
