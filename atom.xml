@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-04T15:53:14.708Z</updated>
+  <updated>2020-06-05T15:48:52.566Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_71</title>
+    <link href="http://yoursite.com/2020/06/05/sbd-71/"/>
+    <id>http://yoursite.com/2020/06/05/sbd-71/</id>
+    <published>2020-06-05T15:47:21.000Z</published>
+    <updated>2020-06-05T15:48:52.566Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天去公司签三方，拿了工作电脑，看到了了一个老板周发荣。<br>明天去看房，还书。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天去公司签三方，拿了工作电脑，看到了了一个老板周发荣。&lt;br&gt;明天去看房，还书。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_70</title>
@@ -479,31 +504,6 @@
       
         &lt;p&gt;补5.18日的傻逼日记，并提交5.18日补5.17日的日记。&lt;br&gt;修改了论文初稿，复习Java，睡了个好觉。&lt;/p&gt;
 &lt;p&gt;松懈了啊。&lt;br&gt;repeat,repeat,repeat.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_52</title>
-    <link href="http://yoursite.com/2020/05/18/sbd-52/"/>
-    <id>http://yoursite.com/2020/05/18/sbd-52/</id>
-    <published>2020-05-17T17:32:08.000Z</published>
-    <updated>2020-05-19T04:59:11.500Z</updated>
-    
-    <content type="html"><![CDATA[<p>补5.17日的傻逼日记。<br>睡觉，吃烤肉，睡觉。<br>repeat,repeat,repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补5.17日的傻逼日记。&lt;br&gt;睡觉，吃烤肉，睡觉。&lt;br&gt;repeat,repeat,repeat.&lt;/p&gt;
 
       
     
