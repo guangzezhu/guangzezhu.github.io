@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-07T15:28:18.365Z</updated>
+  <updated>2020-06-08T15:46:20.537Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_74</title>
+    <link href="http://yoursite.com/2020/06/08/sbd-74/"/>
+    <id>http://yoursite.com/2020/06/08/sbd-74/</id>
+    <published>2020-06-08T15:45:02.000Z</published>
+    <updated>2020-06-08T15:46:20.537Z</updated>
+    
+    <content type="html"><![CDATA[<p>吃了自助餐，吃了好多冰淇凌。<br>又收拾了一包行李。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;吃了自助餐，吃了好多冰淇凌。&lt;br&gt;又收拾了一包行李。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_73</title>
@@ -478,31 +503,6 @@
       
       
         &lt;p&gt;夜两点，天热口渴，服用维生素C、B1、B2。&lt;br&gt;早前写日记都是每天晚上11点交差，这样错过了很多瞬间，今天试一试，随时记一下。&lt;br&gt;键盘用的并不顺手，或许本来就打字不行。&lt;br&gt;看了Java集合。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_55</title>
-    <link href="http://yoursite.com/2020/05/20/sbd-55/"/>
-    <id>http://yoursite.com/2020/05/20/sbd-55/</id>
-    <published>2020-05-20T14:14:36.000Z</published>
-    <updated>2020-05-20T14:15:37.176Z</updated>
-    
-    <content type="html"><![CDATA[<p>看亮剑、《蓝色火焰》，玩LOL，睡觉。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;看亮剑、《蓝色火焰》，玩LOL，睡觉。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
