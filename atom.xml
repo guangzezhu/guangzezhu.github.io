@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-08T15:46:20.537Z</updated>
+  <updated>2020-06-09T14:40:37.193Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_75</title>
+    <link href="http://yoursite.com/2020/06/09/sbd-75/"/>
+    <id>http://yoursite.com/2020/06/09/sbd-75/</id>
+    <published>2020-06-09T14:38:08.000Z</published>
+    <updated>2020-06-09T14:40:37.193Z</updated>
+    
+    <content type="html"><![CDATA[<p>6.9号到杭州，杭州数字产业园，准备工作。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;6.9号到杭州，杭州数字产业园，准备工作。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_74</title>
@@ -478,31 +503,6 @@
       
       
         &lt;p&gt;补5.22的傻逼日记。&lt;br&gt;看了《黑客帝国》二、三部。&lt;br&gt;复习Java IO、FILE。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_56</title>
-    <link href="http://yoursite.com/2020/05/21/sbd-56/"/>
-    <id>http://yoursite.com/2020/05/21/sbd-56/</id>
-    <published>2020-05-20T18:15:39.000Z</published>
-    <updated>2020-05-21T15:41:39.281Z</updated>
-    
-    <content type="html"><![CDATA[<p>夜两点，天热口渴，服用维生素C、B1、B2。<br>早前写日记都是每天晚上11点交差，这样错过了很多瞬间，今天试一试，随时记一下。<br>键盘用的并不顺手，或许本来就打字不行。<br>看了Java集合。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;夜两点，天热口渴，服用维生素C、B1、B2。&lt;br&gt;早前写日记都是每天晚上11点交差，这样错过了很多瞬间，今天试一试，随时记一下。&lt;br&gt;键盘用的并不顺手，或许本来就打字不行。&lt;br&gt;看了Java集合。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
