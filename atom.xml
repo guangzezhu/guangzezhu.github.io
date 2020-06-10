@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-09T14:40:37.193Z</updated>
+  <updated>2020-06-10T15:18:40.517Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sw_1</title>
+    <link href="http://yoursite.com/2020/06/10/sw-1/"/>
+    <id>http://yoursite.com/2020/06/10/sw-1/</id>
+    <published>2020-06-10T15:15:10.000Z</published>
+    <updated>2020-06-10T15:18:40.517Z</updated>
+    
+    <content type="html"><![CDATA[<p>实习第一天，上午学习JavaScript的基础语法，下午学习Vue的基础语法和概念，晚上用了Antdv的布局和菜单。<br>未处理问题：vue的动态路由、组件理解、状态管理。<br>冲，冲，冲。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;实习第一天，上午学习JavaScript的基础语法，下午学习Vue的基础语法和概念，晚上用了Antdv的布局和菜单。&lt;br&gt;未处理问题：vue的动态路由、组件理解、状态管理。&lt;br&gt;冲，冲，冲。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="实习日记" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_76</title>
+    <link href="http://yoursite.com/2020/06/10/sbd-76/"/>
+    <id>http://yoursite.com/2020/06/10/sbd-76/</id>
+    <published>2020-06-10T15:01:51.000Z</published>
+    <updated>2020-06-10T15:14:09.385Z</updated>
+    
+    <content type="html"><![CDATA[<p>开始实习的第一天，中午周翔请吃饭。晚上吃了酸辣土豆丝。<br>明天办工商银行的卡，再问问团员证去哪里了。<br>听说，老顾博士因为论文差点没毕业。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;开始实习的第一天，中午周翔请吃饭。晚上吃了酸辣土豆丝。&lt;br&gt;明天办工商银行的卡，再问问团员证去哪里了。&lt;br&gt;听说，老顾博士因为论文差点没毕业。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_75</title>
@@ -453,56 +503,6 @@
       
       
         &lt;p&gt;睡觉，LOL。&lt;br&gt;提交周记和论文草稿。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_58</title>
-    <link href="http://yoursite.com/2020/05/23/sbd-58/"/>
-    <id>http://yoursite.com/2020/05/23/sbd-58/</id>
-    <published>2020-05-23T15:35:01.000Z</published>
-    <updated>2020-05-23T15:36:00.612Z</updated>
-    
-    <content type="html"><![CDATA[<p>睡觉，LOL，Java。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;睡觉，LOL，Java。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_57</title>
-    <link href="http://yoursite.com/2020/05/23/sbd-57/"/>
-    <id>http://yoursite.com/2020/05/23/sbd-57/</id>
-    <published>2020-05-22T16:22:54.000Z</published>
-    <updated>2020-05-22T16:25:01.098Z</updated>
-    
-    <content type="html"><![CDATA[<p>补5.22的傻逼日记。<br>看了《黑客帝国》二、三部。<br>复习Java IO、FILE。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补5.22的傻逼日记。&lt;br&gt;看了《黑客帝国》二、三部。&lt;br&gt;复习Java IO、FILE。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
