@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-10T15:18:40.517Z</updated>
+  <updated>2020-06-11T13:44:42.880Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_77</title>
+    <link href="http://yoursite.com/2020/06/11/sbd-77/"/>
+    <id>http://yoursite.com/2020/06/11/sbd-77/</id>
+    <published>2020-06-11T13:38:27.000Z</published>
+    <updated>2020-06-11T13:44:42.880Z</updated>
+    
+    <content type="html"><![CDATA[<p>好困啊！！！<br>今天看了看Vue路由、slot和AntDv的table，晕晕乎乎的。要改变学习方式，一定要增量迭代，先把简单的做熟了，困难的就多问问。<br>，一定要多问问啊。<br>中午吃了老干妈蛋炒饭，晚上吃了炸酱面。<br>调整心态，多睡一会，头脑清晰。<br>实习日记停了，只写这个傻逼日记吧。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;好困啊！！！&lt;br&gt;今天看了看Vue路由、slot和AntDv的table，晕晕乎乎的。要改变学习方式，一定要增量迭代，先把简单的做熟了，困难的就多问问。&lt;br&gt;，一定要多问问啊。&lt;br&gt;中午吃了老干妈蛋炒饭，晚上吃了炸酱面。&lt;br&gt;调整心态，多睡一会，头脑清晰。&lt;br&gt;实
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sw_1</title>
@@ -486,31 +510,6 @@
     
     
       <category term="Dhtmlx" scheme="http://yoursite.com/tags/Dhtmlx/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_59</title>
-    <link href="http://yoursite.com/2020/05/24/sbd-59/"/>
-    <id>http://yoursite.com/2020/05/24/sbd-59/</id>
-    <published>2020-05-24T15:53:33.000Z</published>
-    <updated>2020-05-24T15:56:12.671Z</updated>
-    
-    <content type="html"><![CDATA[<p>睡觉，LOL。<br>提交周记和论文草稿。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;睡觉，LOL。&lt;br&gt;提交周记和论文草稿。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
