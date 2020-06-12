@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-11T15:31:14.955Z</updated>
+  <updated>2020-06-12T16:22:30.045Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sw_3</title>
+    <link href="http://yoursite.com/2020/06/13/sw-3/"/>
+    <id>http://yoursite.com/2020/06/13/sw-3/</id>
+    <published>2020-06-12T16:17:54.000Z</published>
+    <updated>2020-06-12T16:22:30.045Z</updated>
+    
+    <content type="html"><![CDATA[<p>补6.12的实习日记。<br>今天周五，学习了antdv的table、form组件，给前端强看了，基本可以开始项目了。<br>下午学习会SVN，拉项目代码下来看。<br>晚上找了些Ant Design Pro的学习博客，实习项目的前端在这上面二次开发。<br>这几天中午没有休息，下午头脑不清晰，收获就少很多。注意午休，精神饱满。<br>不太想写实习日记了。<br>冲，冲，冲。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补6.12的实习日记。&lt;br&gt;今天周五，学习了antdv的table、form组件，给前端强看了，基本可以开始项目了。&lt;br&gt;下午学习会SVN，拉项目代码下来看。&lt;br&gt;晚上找了些Ant Design Pro的学习博客，实习项目的前端在这上面二次开发。&lt;br&gt;这几天中午没有
+      
+    
+    </summary>
+    
+    
+    
+      <category term="实习日记" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_78</title>
+    <link href="http://yoursite.com/2020/06/13/sbd-78/"/>
+    <id>http://yoursite.com/2020/06/13/sbd-78/</id>
+    <published>2020-06-12T16:13:19.000Z</published>
+    <updated>2020-06-12T16:17:38.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>补6.12日的傻逼日记。<br>今天看了antdv的table、form的数据校验和提交。<br>下午看了SVN，晚上来项目代码。前端在Ant Design Pro上二次开发，项目结构还不懂。<br>周末先看看Ant Design Pro的项目结构说明，路由、状态管理Vux、等。<br>晚上喝了快乐水，在阿里巴巴上批发了牛肉干和酒心巧克力。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补6.12日的傻逼日记。&lt;br&gt;今天看了antdv的table、form的数据校验和提交。&lt;br&gt;下午看了SVN，晚上来项目代码。前端在Ant Design Pro上二次开发，项目结构还不懂。&lt;br&gt;周末先看看Ant Design Pro的项目结构说明，路由、状态管理Vux
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sw_2</title>
@@ -450,56 +498,6 @@
       
       
         &lt;p&gt;云顶之役上铂金四，睡觉。&lt;br&gt;校园卡找到了，图书馆预约人数满了。&lt;br&gt;闲鱼买了键盘和显示屏。&lt;br&gt;毕设答辩看起来不是很严格的样子。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_61</title>
-    <link href="http://yoursite.com/2020/05/26/sbd-61/"/>
-    <id>http://yoursite.com/2020/05/26/sbd-61/</id>
-    <published>2020-05-26T15:45:00.000Z</published>
-    <updated>2020-05-26T15:50:08.852Z</updated>
-    
-    <content type="html"><![CDATA[<p>肩旁、背部酸疼的厉害。<br>喝了两杯奶茶、点了一份老乡鸡的鸡汤，下午哑铃锻炼，好些了。<br>项目可能要转前端Vue，明天要学下JS了。<br>晚上LOL.<br>repeat, repeat, repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;肩旁、背部酸疼的厉害。&lt;br&gt;喝了两杯奶茶、点了一份老乡鸡的鸡汤，下午哑铃锻炼，好些了。&lt;br&gt;项目可能要转前端Vue，明天要学下JS了。&lt;br&gt;晚上LOL.&lt;br&gt;repeat, repeat, repeat.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_60</title>
-    <link href="http://yoursite.com/2020/05/25/sbd-60/"/>
-    <id>http://yoursite.com/2020/05/25/sbd-60/</id>
-    <published>2020-05-25T15:35:01.000Z</published>
-    <updated>2020-05-25T15:54:12.228Z</updated>
-    
-    <content type="html"><![CDATA[<p>LOL云顶之役黄金二。<br>学习使用Dhtmlx gantt插件，重温了sprint boot，mysql。<br>给顾老师发了毕业答辩的PPT。<br>repatriation，repeat, reapt。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;LOL云顶之役黄金二。&lt;br&gt;学习使用Dhtmlx gantt插件，重温了sprint boot，mysql。&lt;br&gt;给顾老师发了毕业答辩的PPT。&lt;br&gt;repatriation，repeat, reapt。&lt;/p&gt;
 
       
     
