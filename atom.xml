@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-13T15:54:51.711Z</updated>
+  <updated>2020-06-14T14:30:59.689Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_80</title>
+    <link href="http://yoursite.com/2020/06/14/sbd-80/"/>
+    <id>http://yoursite.com/2020/06/14/sbd-80/</id>
+    <published>2020-06-14T14:23:55.000Z</published>
+    <updated>2020-06-14T14:30:59.689Z</updated>
+    
+    <content type="html"><![CDATA[<p>上午睡个懒觉，下午到603看Ant Design Pro，才搞懂Ant Design（React赛高）、Ant Design Pro、Ant Design Vue（antdv，山寨）、Ant Design Pro of Vue（山寨）的关系，又看看了Ant Design的设计理念。<br>晚上看了会Ant Design Pro of Vue的导学视频，JS的Promise。<br>项目结构、Vuex和路由菜单还是不懂，现在又不懂axios的promise了。<br>下周开始做单页面，先不管项目结构了。<br>眼睛血丝蛮多的，晚上回住宿，卖了小瓶的vc、vb复合。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;上午睡个懒觉，下午到603看Ant Design Pro，才搞懂Ant Design（React赛高）、Ant Design Pro、Ant Design Vue（antdv，山寨）、Ant Design Pro of Vue（山寨）的关系，又看看了Ant Design的设
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_79</title>
@@ -480,31 +504,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_63</title>
-    <link href="http://yoursite.com/2020/05/29/sbd-63/"/>
-    <id>http://yoursite.com/2020/05/29/sbd-63/</id>
-    <published>2020-05-28T16:21:49.000Z</published>
-    <updated>2020-05-28T16:23:58.035Z</updated>
-    
-    <content type="html"><![CDATA[<p>补5.28日的傻逼日记。<br>毕设答辩结束，闲鱼卖出显示器、键盘、鼠标、吉他。<br>NJNU，GG。<br>要开始写代码了吗？好久没写了呢。头发长了，该剪了。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补5.28日的傻逼日记。&lt;br&gt;毕设答辩结束，闲鱼卖出显示器、键盘、鼠标、吉他。&lt;br&gt;NJNU，GG。&lt;br&gt;要开始写代码了吗？好久没写了呢。头发长了，该剪了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
