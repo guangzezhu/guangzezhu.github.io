@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-14T14:30:59.689Z</updated>
+  <updated>2020-06-15T16:05:04.330Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_81</title>
+    <link href="http://yoursite.com/2020/06/16/sbd-81/"/>
+    <id>http://yoursite.com/2020/06/16/sbd-81/</id>
+    <published>2020-06-15T16:00:43.000Z</published>
+    <updated>2020-06-15T16:05:04.330Z</updated>
+    
+    <content type="html"><![CDATA[<p>补6.15的傻逼日记。<br>上路跑了一上午项目，没有跑起来。下午，30秒强一顿操作解决了。然后看高保真，写公告，看了些函数，晚上跟菜学了点css布局，强又交了一点flex、父子组件布局。<br>周末去看我哥，记得拎东西去啊。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补6.15的傻逼日记。&lt;br&gt;上路跑了一上午项目，没有跑起来。下午，30秒强一顿操作解决了。然后看高保真，写公告，看了些函数，晚上跟菜学了点css布局，强又交了一点flex、父子组件布局。&lt;br&gt;周末去看我哥，记得拎东西去啊。&lt;br&gt;repeat，repeat，repeat
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_80</title>
@@ -481,29 +505,6 @@
     
     
       <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_64</title>
-    <link href="http://yoursite.com/2020/05/30/sbd-64/"/>
-    <id>http://yoursite.com/2020/05/30/sbd-64/</id>
-    <published>2020-05-29T16:26:27.000Z</published>
-    <updated>2020-05-29T16:28:22.666Z</updated>
-    
-    <content type="html"><![CDATA[<p>补5.29日的傻逼日记。<br>睡觉，东三吃饭，明天老板要来。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补5.29日的傻逼日记。&lt;br&gt;睡觉，东三吃饭，明天老板要来。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
