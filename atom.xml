@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-17T14:13:26.450Z</updated>
+  <updated>2020-06-18T15:05:59.689Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_84</title>
+    <link href="http://yoursite.com/2020/06/18/sbd-84/"/>
+    <id>http://yoursite.com/2020/06/18/sbd-84/</id>
+    <published>2020-06-18T14:58:32.000Z</published>
+    <updated>2020-06-18T15:05:59.689Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天遇到的问题是使用跳转页面，跳转后的页面怎么再刷新数据。一个解决方案是：route（name，params）+ &lt;keep-alive&gt; + actived(){}<br>调了新增公告接口（新增公告中的pdf按钮还没有实现），写了公告详情和编辑公告的页面雏形。<br>写前端，选择需要使用的控件，先吧控件摆上去，再调整布局和样式，然后用假数据测试功能，最后对接api。【当然要注意后端传过来的值，可参考数据库】<br>之前的开发过程太没效率了，要先写页面啊。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天遇到的问题是使用跳转页面，跳转后的页面怎么再刷新数据。一个解决方案是：route（name，params）+ &amp;lt;keep-alive&amp;gt; + actived(){}&lt;br&gt;调了新增公告接口（新增公告中的pdf按钮还没有实现），写了公告详情和编辑公告的页面雏形。
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_83</title>
@@ -471,31 +495,6 @@
       
       
         &lt;p&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_67</title>
-    <link href="http://yoursite.com/2020/06/02/sbd-67/"/>
-    <id>http://yoursite.com/2020/06/02/sbd-67/</id>
-    <published>2020-06-02T14:55:58.000Z</published>
-    <updated>2020-06-02T14:58:15.567Z</updated>
-    
-    <content type="html"><![CDATA[<p>补6.1日的傻逼日记。<br>睡觉，LOL。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补6.1日的傻逼日记。&lt;br&gt;睡觉，LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
