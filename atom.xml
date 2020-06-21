@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-20T15:29:42.003Z</updated>
+  <updated>2020-06-21T12:06:04.620Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_87</title>
+    <link href="http://yoursite.com/2020/06/21/sbd-87/"/>
+    <id>http://yoursite.com/2020/06/21/sbd-87/</id>
+    <published>2020-06-21T12:00:22.000Z</published>
+    <updated>2020-06-21T12:06:04.620Z</updated>
+    
+    <content type="html"><![CDATA[<p>项目还是跑不起来，range of null。<br>删除lock文件，yarn install，yarn serve不起作用，而且多了assert中错误。<br>玩了3局LOL，全输。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;项目还是跑不起来，range of null。&lt;br&gt;删除lock文件，yarn install，yarn serve不起作用，而且多了assert中错误。&lt;br&gt;玩了3局LOL，全输。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_86</title>
@@ -471,30 +496,6 @@
       
         &lt;p&gt;今天去公司签三方，拿了工作电脑，看到了了一个老板周发荣。&lt;br&gt;明天去看房，还书。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_70</title>
-    <link href="http://yoursite.com/2020/06/04/sbd-70/"/>
-    <id>http://yoursite.com/2020/06/04/sbd-70/</id>
-    <published>2020-06-04T15:44:34.000Z</published>
-    <updated>2020-06-04T15:53:14.708Z</updated>
-    
-    <content type="html"><![CDATA[<p>睡觉，LOL。<br>卖了吉他，卖了15块钱的废书，还有好些书放在哪里呢？和徐明约了周五拿电脑，前端框架antdv。<br>答辩后放松的太厉害了，一直打游戏。整天呆在宿舍里，脑子出问题了。<br>傻逼日记只写LOL、睡觉，是不是太偷懒了？量变引起质变，这70天的日记显示我的状态、情绪还是有很大问题的。直观感受是，交谈时无话可说。4.22回校时交流还算流畅，后来一直呆在宿舍，也不和别人交流了，出问题了。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;睡觉，LOL。&lt;br&gt;卖了吉他，卖了15块钱的废书，还有好些书放在哪里呢？和徐明约了周五拿电脑，前端框架antdv。&lt;br&gt;答辩后放松的太厉害了，一直打游戏。整天呆在宿舍里，脑子出问题了。&lt;br&gt;傻逼日记只写LOL、睡觉，是不是太偷懒了？量变引起质变，这70天的日记显示我的
       
     
     </summary>
