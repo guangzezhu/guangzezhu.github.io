@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-21T12:06:04.620Z</updated>
+  <updated>2020-06-22T13:16:49.910Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_88</title>
+    <link href="http://yoursite.com/2020/06/22/sbd-88/"/>
+    <id>http://yoursite.com/2020/06/22/sbd-88/</id>
+    <published>2020-06-22T13:13:03.000Z</published>
+    <updated>2020-06-22T13:16:49.910Z</updated>
+    
+    <content type="html"><![CDATA[<p>解决了项目启动问题，下午写了项目通讯录。<br>连续几天学长谈心，看来工作量不够，没办法，项目启动报错，从头学框架。<br>明天可以正常写项目了。<br>头脑清晰。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;解决了项目启动问题，下午写了项目通讯录。&lt;br&gt;连续几天学长谈心，看来工作量不够，没办法，项目启动报错，从头学框架。&lt;br&gt;明天可以正常写项目了。&lt;br&gt;头脑清晰。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_87</title>
@@ -470,31 +495,6 @@
       
       
         &lt;p&gt;陪舍友去看房，自如租房。&lt;br&gt;浮桥地铁站，和他的公司隔了一条街；1200，12平，三租带阳台，蛮好的。&lt;br&gt;收拾了一包东西，明天寄回家；图书馆的书也要换了。&lt;br&gt;要开始工作喽，不能再慢腾腾的了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_71</title>
-    <link href="http://yoursite.com/2020/06/05/sbd-71/"/>
-    <id>http://yoursite.com/2020/06/05/sbd-71/</id>
-    <published>2020-06-05T15:47:21.000Z</published>
-    <updated>2020-06-05T15:48:52.566Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天去公司签三方，拿了工作电脑，看到了了一个老板周发荣。<br>明天去看房，还书。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天去公司签三方，拿了工作电脑，看到了了一个老板周发荣。&lt;br&gt;明天去看房，还书。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
