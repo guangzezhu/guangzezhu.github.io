@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-23T14:29:26.548Z</updated>
+  <updated>2020-06-26T14:04:44.720Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,80 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_92</title>
+    <link href="http://yoursite.com/2020/06/26/sbd-92/"/>
+    <id>http://yoursite.com/2020/06/26/sbd-92/</id>
+    <published>2020-06-26T14:02:44.000Z</published>
+    <updated>2020-06-26T14:04:44.720Z</updated>
+    
+    <content type="html"><![CDATA[<p>大娘给买了一套衣服，在小江附近转了转，晚上回租房子的地方。<br>这几天天天大鱼大肉，回来拉了一坨好臭好臭的shi。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大娘给买了一套衣服，在小江附近转了转，晚上回租房子的地方。&lt;br&gt;这几天天天大鱼大肉，回来拉了一坨好臭好臭的shi。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_91</title>
+    <link href="http://yoursite.com/2020/06/26/sbd-91/"/>
+    <id>http://yoursite.com/2020/06/26/sbd-91/</id>
+    <published>2020-06-26T13:59:32.000Z</published>
+    <updated>2020-06-26T14:02:33.835Z</updated>
+    
+    <content type="html"><![CDATA[<p>补6.25的傻逼日记。<br>上午发了端午祝福，中午、晚上和昊楠二姑父喝啤酒（我只能喝一瓶），下雨，一直呆在屋子里。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补6.25的傻逼日记。&lt;br&gt;上午发了端午祝福，中午、晚上和昊楠二姑父喝啤酒（我只能喝一瓶），下雨，一直呆在屋子里。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_90</title>
+    <link href="http://yoursite.com/2020/06/26/sbd-90/"/>
+    <id>http://yoursite.com/2020/06/26/sbd-90/</id>
+    <published>2020-06-26T13:53:24.000Z</published>
+    <updated>2020-06-26T13:59:21.518Z</updated>
+    
+    <content type="html"><![CDATA[<p>补6.24的傻逼日记。<br>今天用了上传文件的接口，uoload组件的files[]还需要包装到FormData中后台才能接受；对接了项目通讯录和新闻的接口（更新新闻时，后台不能满足内容/url最多一个有值的需求，交给后台处理），公告模块可以照着新闻来对接和修改样式。<br>晚上和学长汇报了工作进度，还算满意；徐总发了端午节红包，或许这就是管理吧。<br>晚上拎着两箱牛奶去看我哥。紫之隧道好长啊。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补6.24的傻逼日记。&lt;br&gt;今天用了上传文件的接口，uoload组件的files[]还需要包装到FormData中后台才能接受；对接了项目通讯录和新闻的接口（更新新闻时，后台不能满足内容/url最多一个有值的需求，交给后台处理），公告模块可以照着新闻来对接和修改样式。&lt;b
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_89</title>
@@ -420,81 +494,6 @@
       
       
         &lt;p&gt;开始实习的第一天，中午周翔请吃饭。晚上吃了酸辣土豆丝。&lt;br&gt;明天办工商银行的卡，再问问团员证去哪里了。&lt;br&gt;听说，老顾博士因为论文差点没毕业。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_75</title>
-    <link href="http://yoursite.com/2020/06/09/sbd-75/"/>
-    <id>http://yoursite.com/2020/06/09/sbd-75/</id>
-    <published>2020-06-09T14:38:08.000Z</published>
-    <updated>2020-06-09T14:40:37.193Z</updated>
-    
-    <content type="html"><![CDATA[<p>6.9号到杭州，杭州数字产业园，准备工作。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;6.9号到杭州，杭州数字产业园，准备工作。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_74</title>
-    <link href="http://yoursite.com/2020/06/08/sbd-74/"/>
-    <id>http://yoursite.com/2020/06/08/sbd-74/</id>
-    <published>2020-06-08T15:45:02.000Z</published>
-    <updated>2020-06-08T15:46:20.537Z</updated>
-    
-    <content type="html"><![CDATA[<p>吃了自助餐，吃了好多冰淇凌。<br>又收拾了一包行李。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;吃了自助餐，吃了好多冰淇凌。&lt;br&gt;又收拾了一包行李。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_73</title>
-    <link href="http://yoursite.com/2020/06/07/sbd-73/"/>
-    <id>http://yoursite.com/2020/06/07/sbd-73/</id>
-    <published>2020-06-07T15:25:54.000Z</published>
-    <updated>2020-06-07T15:28:18.365Z</updated>
-    
-    <content type="html"><![CDATA[<p>换了图书馆的书，寄回家一包衣物才34元。<br>下午刘勇请了手抓饭，毛玮请了KFC蓝莓圣代，爬了仙鹤山。<br>南京真是小啊，真的像个石头围城。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;换了图书馆的书，寄回家一包衣物才34元。&lt;br&gt;下午刘勇请了手抓饭，毛玮请了KFC蓝莓圣代，爬了仙鹤山。&lt;br&gt;南京真是小啊，真的像个石头围城。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
