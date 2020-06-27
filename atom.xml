@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-26T14:04:44.720Z</updated>
+  <updated>2020-06-27T15:33:03.428Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_93</title>
+    <link href="http://yoursite.com/2020/06/27/sbd-93/"/>
+    <id>http://yoursite.com/2020/06/27/sbd-93/</id>
+    <published>2020-06-27T15:31:27.000Z</published>
+    <updated>2020-06-27T15:33:03.428Z</updated>
+    
+    <content type="html"><![CDATA[<p>睡觉，打游戏，游戏太卡了，老笔记本散热真的可怕。<br>久违的“假期”。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;睡觉，打游戏，游戏太卡了，老笔记本散热真的可怕。&lt;br&gt;久违的“假期”。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_92</title>
@@ -477,31 +502,6 @@
     
     
       <category term="实习日记" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_76</title>
-    <link href="http://yoursite.com/2020/06/10/sbd-76/"/>
-    <id>http://yoursite.com/2020/06/10/sbd-76/</id>
-    <published>2020-06-10T15:01:51.000Z</published>
-    <updated>2020-06-10T15:14:09.385Z</updated>
-    
-    <content type="html"><![CDATA[<p>开始实习的第一天，中午周翔请吃饭。晚上吃了酸辣土豆丝。<br>明天办工商银行的卡，再问问团员证去哪里了。<br>听说，老顾博士因为论文差点没毕业。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;开始实习的第一天，中午周翔请吃饭。晚上吃了酸辣土豆丝。&lt;br&gt;明天办工商银行的卡，再问问团员证去哪里了。&lt;br&gt;听说，老顾博士因为论文差点没毕业。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
