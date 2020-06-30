@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-29T13:45:25.041Z</updated>
+  <updated>2020-06-30T14:18:43.403Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_96</title>
+    <link href="http://yoursite.com/2020/06/30/sbd-96/"/>
+    <id>http://yoursite.com/2020/06/30/sbd-96/</id>
+    <published>2020-06-30T14:17:14.000Z</published>
+    <updated>2020-06-30T14:18:43.403Z</updated>
+    
+    <content type="html"><![CDATA[<p>啊，头发长了，好热。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;啊，头发长了，好热。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_95</title>
@@ -478,30 +503,6 @@
     
     
       <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sw_2</title>
-    <link href="http://yoursite.com/2020/06/11/sw-2/"/>
-    <id>http://yoursite.com/2020/06/11/sw-2/</id>
-    <published>2020-06-11T15:24:37.000Z</published>
-    <updated>2020-06-11T15:31:14.955Z</updated>
-    
-    <content type="html"><![CDATA[<p>实习第二天，复习axios的使用，学习vue路由、js模块化、antdv的table（没看完）。<br>这种赶工方式开发不能再用记笔记的学习方式了，先上手简单的demo给强，乘着周末先拿一个简单的任务。<br>写项目，写项目，写项目。不是来记笔记的，太慢了。<br>冲、冲、冲。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;实习第二天，复习axios的使用，学习vue路由、js模块化、antdv的table（没看完）。&lt;br&gt;这种赶工方式开发不能再用记笔记的学习方式了，先上手简单的demo给强，乘着周末先拿一个简单的任务。&lt;br&gt;写项目，写项目，写项目。不是来记笔记的，太慢了。&lt;br&gt;冲、冲、
-      
-    
-    </summary>
-    
-    
-    
-      <category term="实习日记" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
