@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-30T14:18:43.403Z</updated>
+  <updated>2020-07-01T13:49:05.872Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_97</title>
+    <link href="http://yoursite.com/2020/07/01/sbd-97/"/>
+    <id>http://yoursite.com/2020/07/01/sbd-97/</id>
+    <published>2020-07-01T13:47:44.000Z</published>
+    <updated>2020-07-01T13:49:05.872Z</updated>
+    
+    <content type="html"><![CDATA[<p>啊，最近的状态不对，隐隐觉得抗拒学习、抗拒工作；心理厌倦还是睡眠不够？<br>该理发了。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;啊，最近的状态不对，隐隐觉得抗拒学习、抗拒工作；心理厌倦还是睡眠不够？&lt;br&gt;该理发了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_96</title>
@@ -479,30 +504,6 @@
     
     
       <category term="实习日记" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_78</title>
-    <link href="http://yoursite.com/2020/06/13/sbd-78/"/>
-    <id>http://yoursite.com/2020/06/13/sbd-78/</id>
-    <published>2020-06-12T16:13:19.000Z</published>
-    <updated>2020-06-12T16:17:38.622Z</updated>
-    
-    <content type="html"><![CDATA[<p>补6.12日的傻逼日记。<br>今天看了antdv的table、form的数据校验和提交。<br>下午看了SVN，晚上来项目代码。前端在Ant Design Pro上二次开发，项目结构还不懂。<br>周末先看看Ant Design Pro的项目结构说明，路由、状态管理Vux、等。<br>晚上喝了快乐水，在阿里巴巴上批发了牛肉干和酒心巧克力。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补6.12日的傻逼日记。&lt;br&gt;今天看了antdv的table、form的数据校验和提交。&lt;br&gt;下午看了SVN，晚上来项目代码。前端在Ant Design Pro上二次开发，项目结构还不懂。&lt;br&gt;周末先看看Ant Design Pro的项目结构说明，路由、状态管理Vux
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
