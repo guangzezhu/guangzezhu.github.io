@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-01T13:49:05.872Z</updated>
+  <updated>2020-07-02T13:55:41.249Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_98</title>
+    <link href="http://yoursite.com/2020/07/02/sbd-98/"/>
+    <id>http://yoursite.com/2020/07/02/sbd-98/</id>
+    <published>2020-07-02T13:53:32.000Z</published>
+    <updated>2020-07-02T13:55:41.249Z</updated>
+    
+    <content type="html"><![CDATA[<p>还是要多学习别人的优秀代码，别一直哼哧哼哧的自己写。<br>今天被自己啰嗦的代码搞烦了，明天学一下强的ReplyForm，用一用自定义组件。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;还是要多学习别人的优秀代码，别一直哼哧哼哧的自己写。&lt;br&gt;今天被自己啰嗦的代码搞烦了，明天学一下强的ReplyForm，用一用自定义组件。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_97</title>
@@ -480,30 +505,6 @@
     
     
       <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sw_3</title>
-    <link href="http://yoursite.com/2020/06/13/sw-3/"/>
-    <id>http://yoursite.com/2020/06/13/sw-3/</id>
-    <published>2020-06-12T16:17:54.000Z</published>
-    <updated>2020-06-12T16:22:30.045Z</updated>
-    
-    <content type="html"><![CDATA[<p>补6.12的实习日记。<br>今天周五，学习了antdv的table、form组件，给前端强看了，基本可以开始项目了。<br>下午学习会SVN，拉项目代码下来看。<br>晚上找了些Ant Design Pro的学习博客，实习项目的前端在这上面二次开发。<br>这几天中午没有休息，下午头脑不清晰，收获就少很多。注意午休，精神饱满。<br>不太想写实习日记了。<br>冲，冲，冲。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补6.12的实习日记。&lt;br&gt;今天周五，学习了antdv的table、form组件，给前端强看了，基本可以开始项目了。&lt;br&gt;下午学习会SVN，拉项目代码下来看。&lt;br&gt;晚上找了些Ant Design Pro的学习博客，实习项目的前端在这上面二次开发。&lt;br&gt;这几天中午没有
-      
-    
-    </summary>
-    
-    
-    
-      <category term="实习日记" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
