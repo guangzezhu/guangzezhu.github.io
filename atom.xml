@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-02T13:55:41.249Z</updated>
+  <updated>2020-07-05T16:15:47.772Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,79 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_101</title>
+    <link href="http://yoursite.com/2020/07/06/sbd-101/"/>
+    <id>http://yoursite.com/2020/07/06/sbd-101/</id>
+    <published>2020-07-05T16:11:25.000Z</published>
+    <updated>2020-07-05T16:15:47.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>补7.5号的傻逼日记。<br>原打算昨天补这几天的傻逼日记的，已然过了deadline.<br>前一天颈椎引起头胀睡得早，今天早早的醒了（4点）。<br>下午吃吃饭、理个发、到公司刷视频。<br>好几天没有认真写代码了，不能冰说不着急就放松了啊；先把应用程序代码搞起来啊。还是无力吐槽同事代码。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补7.5号的傻逼日记。&lt;br&gt;原打算昨天补这几天的傻逼日记的，已然过了deadline.&lt;br&gt;前一天颈椎引起头胀睡得早，今天早早的醒了（4点）。&lt;br&gt;下午吃吃饭、理个发、到公司刷视频。&lt;br&gt;好几天没有认真写代码了，不能冰说不着急就放松了啊；先把应用程序代码搞起来啊。还
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_100</title>
+    <link href="http://yoursite.com/2020/07/06/sbd-100/"/>
+    <id>http://yoursite.com/2020/07/06/sbd-100/</id>
+    <published>2020-07-05T16:07:31.000Z</published>
+    <updated>2020-07-05T16:10:58.489Z</updated>
+    
+    <content type="html"><![CDATA[<p>补7.4号的傻逼日记。<br>上午睡觉，下午去了公司假装加班，新书《圆圈正义》到了。<br>下午还吓到一个女同事，不确定算不算同事，哈哈哈。被逼问是哪个项目的，一时语塞，无语了。<br>晚上颈椎还出了问题，疼的厉害，竟然搞得如此狼狈。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补7.4号的傻逼日记。&lt;br&gt;上午睡觉，下午去了公司假装加班，新书《圆圈正义》到了。&lt;br&gt;下午还吓到一个女同事，不确定算不算同事，哈哈哈。被逼问是哪个项目的，一时语塞，无语了。&lt;br&gt;晚上颈椎还出了问题，疼的厉害，竟然搞得如此狼狈。&lt;br&gt;repeat，repeat，re
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_99</title>
+    <link href="http://yoursite.com/2020/07/06/sbd-99/"/>
+    <id>http://yoursite.com/2020/07/06/sbd-99/</id>
+    <published>2020-07-05T16:04:55.000Z</published>
+    <updated>2020-07-05T16:07:17.763Z</updated>
+    
+    <content type="html"><![CDATA[<p>补7.3号的傻逼日记。<br>周五，写代码，看完小魔盛的假期视频。<br>对这些“代码”有些无感。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补7.3号的傻逼日记。&lt;br&gt;周五，写代码，看完小魔盛的假期视频。&lt;br&gt;对这些“代码”有些无感。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_98</title>
@@ -426,78 +499,6 @@
       
       
         &lt;p&gt;今天调出单页面了，一个公告列表，后端给的接口还不完善，很多字段还不清楚。&lt;br&gt;在写单页面的过程中，不能靠直觉；UI的三个button是面包屑包裹的，自己想当然地用button group，浪费很多时间；下拉框，antdv也有select组件，自己却用dropdoen+bu
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_81</title>
-    <link href="http://yoursite.com/2020/06/16/sbd-81/"/>
-    <id>http://yoursite.com/2020/06/16/sbd-81/</id>
-    <published>2020-06-15T16:00:43.000Z</published>
-    <updated>2020-06-15T16:05:04.330Z</updated>
-    
-    <content type="html"><![CDATA[<p>补6.15的傻逼日记。<br>上路跑了一上午项目，没有跑起来。下午，30秒强一顿操作解决了。然后看高保真，写公告，看了些函数，晚上跟菜学了点css布局，强又交了一点flex、父子组件布局。<br>周末去看我哥，记得拎东西去啊。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补6.15的傻逼日记。&lt;br&gt;上路跑了一上午项目，没有跑起来。下午，30秒强一顿操作解决了。然后看高保真，写公告，看了些函数，晚上跟菜学了点css布局，强又交了一点flex、父子组件布局。&lt;br&gt;周末去看我哥，记得拎东西去啊。&lt;br&gt;repeat，repeat，repeat
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_80</title>
-    <link href="http://yoursite.com/2020/06/14/sbd-80/"/>
-    <id>http://yoursite.com/2020/06/14/sbd-80/</id>
-    <published>2020-06-14T14:23:55.000Z</published>
-    <updated>2020-06-14T14:30:59.689Z</updated>
-    
-    <content type="html"><![CDATA[<p>上午睡个懒觉，下午到603看Ant Design Pro，才搞懂Ant Design（React赛高）、Ant Design Pro、Ant Design Vue（antdv，山寨）、Ant Design Pro of Vue（山寨）的关系，又看看了Ant Design的设计理念。<br>晚上看了会Ant Design Pro of Vue的导学视频，JS的Promise。<br>项目结构、Vuex和路由菜单还是不懂，现在又不懂axios的promise了。<br>下周开始做单页面，先不管项目结构了。<br>眼睛血丝蛮多的，晚上回住宿，卖了小瓶的vc、vb复合。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;上午睡个懒觉，下午到603看Ant Design Pro，才搞懂Ant Design（React赛高）、Ant Design Pro、Ant Design Vue（antdv，山寨）、Ant Design Pro of Vue（山寨）的关系，又看看了Ant Design的设
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_79</title>
-    <link href="http://yoursite.com/2020/06/13/sbd-79/"/>
-    <id>http://yoursite.com/2020/06/13/sbd-79/</id>
-    <published>2020-06-13T15:50:59.000Z</published>
-    <updated>2020-06-13T15:54:51.711Z</updated>
-    
-    <content type="html"><![CDATA[<p>周六休息了一天，上午睡觉，办了工商银行的卡（以前竟然有工商银行的卡，但是没有使用过，我自己都不知道？？？）；下午睡觉，看了会Ant Design Pro of Vue，发现看不懂。<br>晚上去西湖看了看，苏提走到一半发现九点半了，最后打车会住所，晕。<br>今天就不写实习日记了，身体疲惫了。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;周六休息了一天，上午睡觉，办了工商银行的卡（以前竟然有工商银行的卡，但是没有使用过，我自己都不知道？？？）；下午睡觉，看了会Ant Design Pro of Vue，发现看不懂。&lt;br&gt;晚上去西湖看了看，苏提走到一半发现九点半了，最后打车会住所，晕。&lt;br&gt;今天就不写实习
       
     
     </summary>
