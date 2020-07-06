@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-05T16:15:47.772Z</updated>
+  <updated>2020-07-06T12:36:58.196Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_102</title>
+    <link href="http://yoursite.com/2020/07/06/sbd-102/"/>
+    <id>http://yoursite.com/2020/07/06/sbd-102/</id>
+    <published>2020-07-06T12:33:29.000Z</published>
+    <updated>2020-07-06T12:36:58.196Z</updated>
+    
+    <content type="html"><![CDATA[<p>周末睡得太多了，失眠到凌晨三点。<br>上午划水看axios，下午看了看项目里的axios二次封装和vuex的使用，晚上结合vuex看到了upm登录。划水一天，没有代码产出。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;周末睡得太多了，失眠到凌晨三点。&lt;br&gt;上午划水看axios，下午看了看项目里的axios二次封装和vuex的使用，晚上结合vuex看到了upm登录。划水一天，没有代码产出。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_101</title>
@@ -475,30 +500,6 @@
       
         &lt;p&gt;今天试着api调用接口，还是出现很多问题的；浪费时间在造假数据、函数命名和写文档上上，强迫症害死人。&lt;br&gt;明天紧张起来，加油干。&lt;br&gt;每个人都有很多优秀品质，多向他人学习，多思考，少内耗。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_82</title>
-    <link href="http://yoursite.com/2020/06/16/sbd-82/"/>
-    <id>http://yoursite.com/2020/06/16/sbd-82/</id>
-    <published>2020-06-16T13:50:15.000Z</published>
-    <updated>2020-06-16T14:02:28.813Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天调出单页面了，一个公告列表，后端给的接口还不完善，很多字段还不清楚。<br>在写单页面的过程中，不能靠直觉；UI的三个button是面包屑包裹的，自己想当然地用button group，浪费很多时间；下拉框，antdv也有select组件，自己却用dropdoen+button来写，搞得data和mathods很臃肿。<br>样式（位置布局、颜色）主要用less和css控制，其中flex弹性布局非常方便。<br>要好好休息才对，不然浑浑噩噩地工作太没效率了，这是在折磨自己。很多基础地东西要重复地看，重复地理解；凭我的能力，单看一整套系统教程，根本学不到什么，要想初中数学那样当小说看，很快地一遍又一遍，没次都有点收获就行，至于学的完不完整就听天由命了。<br>写了上面地话，暴露出文字表达的啰嗦，思路不清晰。以后可以搞个周记、月记，写一遍再重构重构，对比看看效果怎样。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天调出单页面了，一个公告列表，后端给的接口还不完善，很多字段还不清楚。&lt;br&gt;在写单页面的过程中，不能靠直觉；UI的三个button是面包屑包裹的，自己想当然地用button group，浪费很多时间；下拉框，antdv也有select组件，自己却用dropdoen+bu
       
     
     </summary>
