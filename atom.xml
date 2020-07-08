@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-06T12:36:58.196Z</updated>
+  <updated>2020-07-08T14:04:39.176Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_103</title>
+    <link href="http://yoursite.com/2020/07/08/sbd-103/"/>
+    <id>http://yoursite.com/2020/07/08/sbd-103/</id>
+    <published>2020-07-08T14:01:40.000Z</published>
+    <updated>2020-07-08T14:04:39.176Z</updated>
+    
+    <content type="html"><![CDATA[<p>这几天嗓子疼，鼻子不通气，睡眠质量也不太行，上周六吹空调吹坏了吧。<br>傻逼日记也写得越来越随便了，好久没有renew了。哈哈哈哈，偷学一手renew。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这几天嗓子疼，鼻子不通气，睡眠质量也不太行，上周六吹空调吹坏了吧。&lt;br&gt;傻逼日记也写得越来越随便了，好久没有renew了。哈哈哈哈，偷学一手renew。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_102</title>
@@ -475,31 +500,6 @@
       
       
         &lt;p&gt;今天遇到的问题是使用跳转页面，跳转后的页面怎么再刷新数据。一个解决方案是：route（name，params）+ &amp;lt;keep-alive&amp;gt; + actived(){}&lt;br&gt;调了新增公告接口（新增公告中的pdf按钮还没有实现），写了公告详情和编辑公告的页面雏形。
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_83</title>
-    <link href="http://yoursite.com/2020/06/17/sbd-83/"/>
-    <id>http://yoursite.com/2020/06/17/sbd-83/</id>
-    <published>2020-06-17T14:09:45.000Z</published>
-    <updated>2020-06-17T14:13:26.450Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天试着api调用接口，还是出现很多问题的；浪费时间在造假数据、函数命名和写文档上上，强迫症害死人。<br>明天紧张起来，加油干。<br>每个人都有很多优秀品质，多向他人学习，多思考，少内耗。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天试着api调用接口，还是出现很多问题的；浪费时间在造假数据、函数命名和写文档上上，强迫症害死人。&lt;br&gt;明天紧张起来，加油干。&lt;br&gt;每个人都有很多优秀品质，多向他人学习，多思考，少内耗。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
