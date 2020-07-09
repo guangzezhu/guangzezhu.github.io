@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-08T14:04:39.176Z</updated>
+  <updated>2020-07-09T13:53:31.351Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_104</title>
+    <link href="http://yoursite.com/2020/07/09/sbd-104/"/>
+    <id>http://yoursite.com/2020/07/09/sbd-104/</id>
+    <published>2020-07-09T13:50:44.000Z</published>
+    <updated>2020-07-09T13:53:31.351Z</updated>
+    
+    <content type="html"><![CDATA[<p>写了回复组件，更新了路由；看了看路由，若以前端框架里尽搞些花里胡哨的，预计周末看完了。<br>明天写周报、月报。周末在再搞框架。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;写了回复组件，更新了路由；看了看路由，若以前端框架里尽搞些花里胡哨的，预计周末看完了。&lt;br&gt;明天写周报、月报。周末在再搞框架。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_103</title>
@@ -476,30 +501,6 @@
       
       
         &lt;p&gt;上午用假数据调公告页面，下午做了导入pdf的雏形，等后端接口和UI，数据库中公告表还要加字段。&lt;br&gt;敏捷开发嘛，不要一下就想做的多么好，做做做，改改改，留点问题不算bug。&lt;br&gt;晚上写了新闻的页面，用假数据跑了跑。&lt;br&gt;repeat，repeat，repeat。&lt;/p
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_84</title>
-    <link href="http://yoursite.com/2020/06/18/sbd-84/"/>
-    <id>http://yoursite.com/2020/06/18/sbd-84/</id>
-    <published>2020-06-18T14:58:32.000Z</published>
-    <updated>2020-06-18T15:05:59.689Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天遇到的问题是使用跳转页面，跳转后的页面怎么再刷新数据。一个解决方案是：route（name，params）+ &lt;keep-alive&gt; + actived(){}<br>调了新增公告接口（新增公告中的pdf按钮还没有实现），写了公告详情和编辑公告的页面雏形。<br>写前端，选择需要使用的控件，先吧控件摆上去，再调整布局和样式，然后用假数据测试功能，最后对接api。【当然要注意后端传过来的值，可参考数据库】<br>之前的开发过程太没效率了，要先写页面啊。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天遇到的问题是使用跳转页面，跳转后的页面怎么再刷新数据。一个解决方案是：route（name，params）+ &amp;lt;keep-alive&amp;gt; + actived(){}&lt;br&gt;调了新增公告接口（新增公告中的pdf按钮还没有实现），写了公告详情和编辑公告的页面雏形。
       
     
     </summary>
