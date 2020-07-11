@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-09T13:53:31.351Z</updated>
+  <updated>2020-07-11T10:36:25.639Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_105</title>
+    <link href="http://yoursite.com/2020/07/11/sbd-105/"/>
+    <id>http://yoursite.com/2020/07/11/sbd-105/</id>
+    <published>2020-07-11T10:32:19.000Z</published>
+    <updated>2020-07-11T10:36:25.639Z</updated>
+    
+    <content type="html"><![CDATA[<p>补7.10日的傻逼日记。<br>画周报，审批没画，还没搞懂逻辑。<br>看了路由和布局。<br>晚上菜请大家吃饭。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补7.10日的傻逼日记。&lt;br&gt;画周报，审批没画，还没搞懂逻辑。&lt;br&gt;看了路由和布局。&lt;br&gt;晚上菜请大家吃饭。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_104</title>
@@ -477,30 +502,6 @@
       
         &lt;p&gt;中午吃了凉皮，闹肚子了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_85</title>
-    <link href="http://yoursite.com/2020/06/19/sbd-85/"/>
-    <id>http://yoursite.com/2020/06/19/sbd-85/</id>
-    <published>2020-06-19T14:41:10.000Z</published>
-    <updated>2020-06-19T14:45:54.272Z</updated>
-    
-    <content type="html"><![CDATA[<p>上午用假数据调公告页面，下午做了导入pdf的雏形，等后端接口和UI，数据库中公告表还要加字段。<br>敏捷开发嘛，不要一下就想做的多么好，做做做，改改改，留点问题不算bug。<br>晚上写了新闻的页面，用假数据跑了跑。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;上午用假数据调公告页面，下午做了导入pdf的雏形，等后端接口和UI，数据库中公告表还要加字段。&lt;br&gt;敏捷开发嘛，不要一下就想做的多么好，做做做，改改改，留点问题不算bug。&lt;br&gt;晚上写了新闻的页面，用假数据跑了跑。&lt;br&gt;repeat，repeat，repeat。&lt;/p
       
     
     </summary>
