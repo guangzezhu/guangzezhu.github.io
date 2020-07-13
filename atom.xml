@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-11T10:36:25.639Z</updated>
+  <updated>2020-07-13T14:44:20.014Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,80 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_108</title>
+    <link href="http://yoursite.com/2020/07/13/sbd-108/"/>
+    <id>http://yoursite.com/2020/07/13/sbd-108/</id>
+    <published>2020-07-13T14:38:31.000Z</published>
+    <updated>2020-07-13T14:44:20.014Z</updated>
+    
+    <content type="html"><![CDATA[<p>终于补完前几天的傻逼日记，连续两周的周末傻逼日记忘记写了，之前规划的每周精美周记也是一片没写。真的是放松了啊。<br>今天改了下样式，学习强的写法修改了“项目通讯录”，又想写table组件，浪费时间了。<br>晚上把Daily Menu写好，放在公司了，等着明天给我发菜单。之后还要加两个进程保护一下，用脚本启动就好了；不愁没饭吃了。<br>明天要开会改需求，明天就专注产出吧，学习停一停，实践搞一搞。<br>10000小时，冲冲冲。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;终于补完前几天的傻逼日记，连续两周的周末傻逼日记忘记写了，之前规划的每周精美周记也是一片没写。真的是放松了啊。&lt;br&gt;今天改了下样式，学习强的写法修改了“项目通讯录”，又想写table组件，浪费时间了。&lt;br&gt;晚上把Daily Menu写好，放在公司了，等着明天给我发菜单。
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_107</title>
+    <link href="http://yoursite.com/2020/07/13/sbd-107/"/>
+    <id>http://yoursite.com/2020/07/13/sbd-107/</id>
+    <published>2020-07-13T14:36:04.000Z</published>
+    <updated>2020-07-13T14:38:13.928Z</updated>
+    
+    <content type="html"><![CDATA[<p>补7.12日的傻逼日记。<br>对比vue-cli、ant-design-vue-pro、ruoyi、epark项目，只看到目录结构。<br>下午逛超市，吃了巴沙鱼，还不错。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补7.12日的傻逼日记。&lt;br&gt;对比vue-cli、ant-design-vue-pro、ruoyi、epark项目，只看到目录结构。&lt;br&gt;下午逛超市，吃了巴沙鱼，还不错。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_106</title>
+    <link href="http://yoursite.com/2020/07/13/sbd-106/"/>
+    <id>http://yoursite.com/2020/07/13/sbd-106/</id>
+    <published>2020-07-13T14:34:00.000Z</published>
+    <updated>2020-07-13T14:35:37.693Z</updated>
+    
+    <content type="html"><![CDATA[<p>补7.11日的傻逼日记。<br>加班，摸鱼，打LOL。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;补7.11日的傻逼日记。&lt;br&gt;加班，摸鱼，打LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_105</title>
@@ -426,81 +500,6 @@
       
       
         &lt;p&gt;写代码，写的好慢。js aawit.&lt;br&gt;我竟然睡觉打呼了.&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_88</title>
-    <link href="http://yoursite.com/2020/06/22/sbd-88/"/>
-    <id>http://yoursite.com/2020/06/22/sbd-88/</id>
-    <published>2020-06-22T13:13:03.000Z</published>
-    <updated>2020-06-22T13:16:49.910Z</updated>
-    
-    <content type="html"><![CDATA[<p>解决了项目启动问题，下午写了项目通讯录。<br>连续几天学长谈心，看来工作量不够，没办法，项目启动报错，从头学框架。<br>明天可以正常写项目了。<br>头脑清晰。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;解决了项目启动问题，下午写了项目通讯录。&lt;br&gt;连续几天学长谈心，看来工作量不够，没办法，项目启动报错，从头学框架。&lt;br&gt;明天可以正常写项目了。&lt;br&gt;头脑清晰。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_87</title>
-    <link href="http://yoursite.com/2020/06/21/sbd-87/"/>
-    <id>http://yoursite.com/2020/06/21/sbd-87/</id>
-    <published>2020-06-21T12:00:22.000Z</published>
-    <updated>2020-06-21T12:06:04.620Z</updated>
-    
-    <content type="html"><![CDATA[<p>项目还是跑不起来，range of null。<br>删除lock文件，yarn install，yarn serve不起作用，而且多了assert中错误。<br>玩了3局LOL，全输。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;项目还是跑不起来，range of null。&lt;br&gt;删除lock文件，yarn install，yarn serve不起作用，而且多了assert中错误。&lt;br&gt;玩了3局LOL，全输。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_86</title>
-    <link href="http://yoursite.com/2020/06/20/sbd-86/"/>
-    <id>http://yoursite.com/2020/06/20/sbd-86/</id>
-    <published>2020-06-20T15:28:33.000Z</published>
-    <updated>2020-06-20T15:29:42.003Z</updated>
-    
-    <content type="html"><![CDATA[<p>中午吃了凉皮，闹肚子了。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;中午吃了凉皮，闹肚子了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
