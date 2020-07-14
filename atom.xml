@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-13T14:44:20.014Z</updated>
+  <updated>2020-07-14T14:33:46.562Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_109</title>
+    <link href="http://yoursite.com/2020/07/14/sbd-109/"/>
+    <id>http://yoursite.com/2020/07/14/sbd-109/</id>
+    <published>2020-07-14T14:32:50.000Z</published>
+    <updated>2020-07-14T14:33:46.562Z</updated>
+    
+    <content type="html"><![CDATA[<p>和重构无关，主要是代码写的太丑了。<br>repeat,repeat,repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;和重构无关，主要是代码写的太丑了。&lt;br&gt;repeat,repeat,repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_108</title>
@@ -476,31 +501,6 @@
       
       
         &lt;p&gt;补6.24的傻逼日记。&lt;br&gt;今天用了上传文件的接口，uoload组件的files[]还需要包装到FormData中后台才能接受；对接了项目通讯录和新闻的接口（更新新闻时，后台不能满足内容/url最多一个有值的需求，交给后台处理），公告模块可以照着新闻来对接和修改样式。&lt;b
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_89</title>
-    <link href="http://yoursite.com/2020/06/23/sbd-89/"/>
-    <id>http://yoursite.com/2020/06/23/sbd-89/</id>
-    <published>2020-06-23T14:26:17.000Z</published>
-    <updated>2020-06-23T14:29:26.548Z</updated>
-    
-    <content type="html"><![CDATA[<p>写代码，写的好慢。js aawit.<br>我竟然睡觉打呼了.<br>repeat，repeat，repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;写代码，写的好慢。js aawit.&lt;br&gt;我竟然睡觉打呼了.&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
-
       
     
     </summary>
