@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-14T14:33:46.562Z</updated>
+  <updated>2020-07-19T15:29:06.114Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_110</title>
+    <link href="http://yoursite.com/2020/07/19/sbd-110/"/>
+    <id>http://yoursite.com/2020/07/19/sbd-110/</id>
+    <published>2020-07-19T14:58:59.000Z</published>
+    <updated>2020-07-19T15:29:06.114Z</updated>
+    
+    <content type="html"><![CDATA[<p>天哪，这一周都没写傻逼日记（7.14~7.15），我在干嘛啊？<br>今天补这一段时间的傻逼日记。<br>工作日整理之前的前端代码，在标签选择上重做了一下。</p><ol><li>NEV使用select的potions属性，将共有的静态数据放在了common.js中，重用；日期选择使用原生的range，放弃使用两个date-picker（UI版），该组件可仿照range组件写，事件传入参看base-modal的@click事件，之后有兴趣再写吧；导航栏（条件搜索区域）使用a-form-model，使用对象解耦查询（对象解耦真香）。</li><li>表格操作的button使用 强 的base-button，btnText，icon等prop属性。</li><li>表格仍然使用a-tabel，分页配置和主要的列数据放在common.js中，序号和操作仍然放在index.vue中；尝试抽取成g-tabel，没有解决传入选中selectedRows和操作列的方法传入问题。</li><li>createForm中改用 强 的base-modal，使用子组件使用FormModel（可以用v-model，方便编辑时自动填入）；检验规则的形式和form不太一样，注意区分层次，自定义检验的数据类型详见<Strong>Async-validator type</Strong>。* 通用的校验规则写在commonRules.js中，例如输入框和文本框的最大长度，正则表达式等，如果有什么全局配置就好了。</li><li>做个人详情页，间个人信息写入Vuex，终于用了一次。</li></ol><p>本周主要使用global.less设置全局样式，使用form-model和对象解构简化form代码量，edit时对传入的record数据深拷贝（使用loadsh.deepcopy工具算了）,修复GUpload组件没有watch document的bug。</p><p>周末原打算到公司加班，却点了两天外卖，玩了两天的LOL，挺好的。拼时间的加班太消耗精神力了，要高效率的生产啊；笔记和日记都不能断更，要总结。</p><p>其他方面，人生还有很长的路啊，遇到的人形形色色，巩固本我。To be happy, to be nice.</p><p>repeat,repeat,repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;天哪，这一周都没写傻逼日记（7.14~7.15），我在干嘛啊？&lt;br&gt;今天补这一段时间的傻逼日记。&lt;br&gt;工作日整理之前的前端代码，在标签选择上重做了一下。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;NEV使用select的potions属性，将共有的静态数据放在了common.js中，重
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_109</title>
@@ -477,30 +503,6 @@
       
         &lt;p&gt;补6.25的傻逼日记。&lt;br&gt;上午发了端午祝福，中午、晚上和昊楠二姑父喝啤酒（我只能喝一瓶），下雨，一直呆在屋子里。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_90</title>
-    <link href="http://yoursite.com/2020/06/26/sbd-90/"/>
-    <id>http://yoursite.com/2020/06/26/sbd-90/</id>
-    <published>2020-06-26T13:53:24.000Z</published>
-    <updated>2020-06-26T13:59:21.518Z</updated>
-    
-    <content type="html"><![CDATA[<p>补6.24的傻逼日记。<br>今天用了上传文件的接口，uoload组件的files[]还需要包装到FormData中后台才能接受；对接了项目通讯录和新闻的接口（更新新闻时，后台不能满足内容/url最多一个有值的需求，交给后台处理），公告模块可以照着新闻来对接和修改样式。<br>晚上和学长汇报了工作进度，还算满意；徐总发了端午节红包，或许这就是管理吧。<br>晚上拎着两箱牛奶去看我哥。紫之隧道好长啊。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补6.24的傻逼日记。&lt;br&gt;今天用了上传文件的接口，uoload组件的files[]还需要包装到FormData中后台才能接受；对接了项目通讯录和新闻的接口（更新新闻时，后台不能满足内容/url最多一个有值的需求，交给后台处理），公告模块可以照着新闻来对接和修改样式。&lt;b
       
     
     </summary>
