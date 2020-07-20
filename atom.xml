@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-19T15:29:06.114Z</updated>
+  <updated>2020-07-20T13:53:02.391Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_111</title>
+    <link href="http://yoursite.com/2020/07/20/sbd-111/"/>
+    <id>http://yoursite.com/2020/07/20/sbd-111/</id>
+    <published>2020-07-20T13:47:07.000Z</published>
+    <updated>2020-07-20T13:53:02.391Z</updated>
+    
+    <content type="html"><![CDATA[<p>上午用css的background-img给登录加了背景图片，更换了默认头像。接了周报的任务，写了周报、月报的新增界面，而详情中的回复还没有做。<br>周报、月报没有编辑，要看清需求，浪费了很多时间。项目名称从哪来，审批类型是否在详情展示还不明确。<br>repeat,repeat,repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;上午用css的background-img给登录加了背景图片，更换了默认头像。接了周报的任务，写了周报、月报的新增界面，而详情中的回复还没有做。&lt;br&gt;周报、月报没有编辑，要看清需求，浪费了很多时间。项目名称从哪来，审批类型是否在详情展示还不明确。&lt;br&gt;repeat,re
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_110</title>
@@ -477,31 +501,6 @@
       
       
         &lt;p&gt;大娘给买了一套衣服，在小江附近转了转，晚上回租房子的地方。&lt;br&gt;这几天天天大鱼大肉，回来拉了一坨好臭好臭的shi。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_91</title>
-    <link href="http://yoursite.com/2020/06/26/sbd-91/"/>
-    <id>http://yoursite.com/2020/06/26/sbd-91/</id>
-    <published>2020-06-26T13:59:32.000Z</published>
-    <updated>2020-06-26T14:02:33.835Z</updated>
-    
-    <content type="html"><![CDATA[<p>补6.25的傻逼日记。<br>上午发了端午祝福，中午、晚上和昊楠二姑父喝啤酒（我只能喝一瓶），下雨，一直呆在屋子里。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补6.25的傻逼日记。&lt;br&gt;上午发了端午祝福，中午、晚上和昊楠二姑父喝啤酒（我只能喝一瓶），下雨，一直呆在屋子里。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
