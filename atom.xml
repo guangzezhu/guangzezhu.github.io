@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-21T14:20:45.145Z</updated>
+  <updated>2020-07-22T14:19:05.808Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_113</title>
+    <link href="http://yoursite.com/2020/07/22/sbd-113/"/>
+    <id>http://yoursite.com/2020/07/22/sbd-113/</id>
+    <published>2020-07-22T14:16:08.000Z</published>
+    <updated>2020-07-22T14:19:05.808Z</updated>
+    
+    <content type="html"><![CDATA[<p>一天划水，测了下周报的增改接口；下午写了登录和忘记密码，明天继续。<br>写的这些傻逼日记，以后可以用来数据分析的吧，多少有点用的吧，哈哈哈。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;一天划水，测了下周报的增改接口；下午写了登录和忘记密码，明天继续。&lt;br&gt;写的这些傻逼日记，以后可以用来数据分析的吧，多少有点用的吧，哈哈哈。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_112</title>
@@ -475,31 +500,6 @@
       
       
         &lt;p&gt;划水一天，提交了三个页面，看了看mock。&lt;br&gt;明天做问题页面，冲冲冲。&lt;br&gt;对了，8.14以后有可能长期在杭州？还要租房，好坑啊。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_93</title>
-    <link href="http://yoursite.com/2020/06/27/sbd-93/"/>
-    <id>http://yoursite.com/2020/06/27/sbd-93/</id>
-    <published>2020-06-27T15:31:27.000Z</published>
-    <updated>2020-06-27T15:33:03.428Z</updated>
-    
-    <content type="html"><![CDATA[<p>睡觉，打游戏，游戏太卡了，老笔记本散热真的可怕。<br>久违的“假期”。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;睡觉，打游戏，游戏太卡了，老笔记本散热真的可怕。&lt;br&gt;久违的“假期”。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
