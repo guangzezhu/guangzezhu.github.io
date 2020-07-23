@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-22T14:19:05.808Z</updated>
+  <updated>2020-07-23T14:28:40.335Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_114</title>
+    <link href="http://yoursite.com/2020/07/23/sbd-114/"/>
+    <id>http://yoursite.com/2020/07/23/sbd-114/</id>
+    <published>2020-07-23T14:26:19.000Z</published>
+    <updated>2020-07-23T14:28:40.335Z</updated>
+    
+    <content type="html"><![CDATA[<p>继续写周报。<br>下午发了工资，还有出差费，nice。<br>晚上和菜聊了会“技术”，经验差距啊。苦练杀敌本领，冲冲冲。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;继续写周报。&lt;br&gt;下午发了工资，还有出差费，nice。&lt;br&gt;晚上和菜聊了会“技术”，经验差距啊。苦练杀敌本领，冲冲冲。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_113</title>
@@ -476,31 +501,6 @@
       
       
         &lt;p&gt;a-datepicker @change @openChange&lt;br&gt;mock被axios拦截器搞了，明天看一个小时的axios&lt;br&gt;画了问题列表和创建问题，明天画详情、对接口；要用假数据，还不会开mock，难受。落后的生产力啊。&lt;br&gt;中午吃了一碗猪肝饭，好难吃。&lt;b
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_94</title>
-    <link href="http://yoursite.com/2020/06/28/sbd-94/"/>
-    <id>http://yoursite.com/2020/06/28/sbd-94/</id>
-    <published>2020-06-28T12:51:44.000Z</published>
-    <updated>2020-06-28T12:54:48.946Z</updated>
-    
-    <content type="html"><![CDATA[<p>划水一天，提交了三个页面，看了看mock。<br>明天做问题页面，冲冲冲。<br>对了，8.14以后有可能长期在杭州？还要租房，好坑啊。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;划水一天，提交了三个页面，看了看mock。&lt;br&gt;明天做问题页面，冲冲冲。&lt;br&gt;对了，8.14以后有可能长期在杭州？还要租房，好坑啊。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
