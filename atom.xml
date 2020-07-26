@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-24T16:10:26.545Z</updated>
+  <updated>2020-07-26T15:36:06.494Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_116</title>
+    <link href="http://yoursite.com/2020/07/26/sbd-116/"/>
+    <id>http://yoursite.com/2020/07/26/sbd-116/</id>
+    <published>2020-07-26T15:35:09.000Z</published>
+    <updated>2020-07-26T15:36:06.494Z</updated>
+    
+    <content type="html"><![CDATA[<p>又是没有写日记的周末。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;又是没有写日记的周末。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_115</title>
@@ -475,31 +500,6 @@
       
       
         &lt;p&gt;啊，最近的状态不对，隐隐觉得抗拒学习、抗拒工作；心理厌倦还是睡眠不够？&lt;br&gt;该理发了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_96</title>
-    <link href="http://yoursite.com/2020/06/30/sbd-96/"/>
-    <id>http://yoursite.com/2020/06/30/sbd-96/</id>
-    <published>2020-06-30T14:17:14.000Z</published>
-    <updated>2020-06-30T14:18:43.403Z</updated>
-    
-    <content type="html"><![CDATA[<p>啊，头发长了，好热。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;啊，头发长了，好热。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
