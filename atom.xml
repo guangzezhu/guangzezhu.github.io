@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-28T13:47:53.864Z</updated>
+  <updated>2020-09-03T12:51:20.881Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_120</title>
+    <link href="http://yoursite.com/2020/09/03/sbd-120/"/>
+    <id>http://yoursite.com/2020/09/03/sbd-120/</id>
+    <published>2020-09-03T12:48:49.000Z</published>
+    <updated>2020-09-03T12:51:20.881Z</updated>
+    
+    <content type="html"><![CDATA[<p>搁置d3，入门 cesium，蛮好玩的。<br>明天使用BillboardCollection和LabelCollection来控制风机编风机数据的展示。<br>enjoy lift.<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;搁置d3，入门 cesium，蛮好玩的。&lt;br&gt;明天使用BillboardCollection和LabelCollection来控制风机编风机数据的展示。&lt;br&gt;enjoy lift.&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_119</title>
@@ -477,30 +502,6 @@
       
       
         &lt;p&gt;补7.5号的傻逼日记。&lt;br&gt;原打算昨天补这几天的傻逼日记的，已然过了deadline.&lt;br&gt;前一天颈椎引起头胀睡得早，今天早早的醒了（4点）。&lt;br&gt;下午吃吃饭、理个发、到公司刷视频。&lt;br&gt;好几天没有认真写代码了，不能冰说不着急就放松了啊；先把应用程序代码搞起来啊。还
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_100</title>
-    <link href="http://yoursite.com/2020/07/06/sbd-100/"/>
-    <id>http://yoursite.com/2020/07/06/sbd-100/</id>
-    <published>2020-07-05T16:07:31.000Z</published>
-    <updated>2020-07-05T16:10:58.489Z</updated>
-    
-    <content type="html"><![CDATA[<p>补7.4号的傻逼日记。<br>上午睡觉，下午去了公司假装加班，新书《圆圈正义》到了。<br>下午还吓到一个女同事，不确定算不算同事，哈哈哈。被逼问是哪个项目的，一时语塞，无语了。<br>晚上颈椎还出了问题，疼的厉害，竟然搞得如此狼狈。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补7.4号的傻逼日记。&lt;br&gt;上午睡觉，下午去了公司假装加班，新书《圆圈正义》到了。&lt;br&gt;下午还吓到一个女同事，不确定算不算同事，哈哈哈。被逼问是哪个项目的，一时语塞，无语了。&lt;br&gt;晚上颈椎还出了问题，疼的厉害，竟然搞得如此狼狈。&lt;br&gt;repeat，repeat，re
       
     
     </summary>
