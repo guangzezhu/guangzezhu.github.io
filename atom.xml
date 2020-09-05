@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-03T12:51:20.881Z</updated>
+  <updated>2020-09-05T10:54:38.080Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_121</title>
+    <link href="http://yoursite.com/2020/09/05/sbd-121/"/>
+    <id>http://yoursite.com/2020/09/05/sbd-121/</id>
+    <published>2020-09-05T10:49:23.000Z</published>
+    <updated>2020-09-05T10:54:38.080Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用 cesium 将风机、风场、海缆数据绘制好了。<br>出现一个bug：vue每次载入时mounted，但是cesium每次都搞一个示例，导致chrome内存占用越来越多；可以在vue实例销毁前，把cesium实例也销毁，这样会不会造成渲染压力大，后天再试一试。</p><p>网上热力图的实现方式（后天试一试）<br>    1. 调用插件生成热力图<br>    2. 将热力图当作材料贴在地图上<br>    3. 比例缩放</p><p>等值线暂时没有思路。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;使用 cesium 将风机、风场、海缆数据绘制好了。&lt;br&gt;出现一个bug：vue每次载入时mounted，但是cesium每次都搞一个示例，导致chrome内存占用越来越多；可以在vue实例销毁前，把cesium实例也销毁，这样会不会造成渲染压力大，后天再试一试。&lt;/p&gt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_120</title>
@@ -478,30 +502,6 @@
       
         &lt;p&gt;周末睡得太多了，失眠到凌晨三点。&lt;br&gt;上午划水看axios，下午看了看项目里的axios二次封装和vuex的使用，晚上结合vuex看到了upm登录。划水一天，没有代码产出。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_101</title>
-    <link href="http://yoursite.com/2020/07/06/sbd-101/"/>
-    <id>http://yoursite.com/2020/07/06/sbd-101/</id>
-    <published>2020-07-05T16:11:25.000Z</published>
-    <updated>2020-07-05T16:15:47.772Z</updated>
-    
-    <content type="html"><![CDATA[<p>补7.5号的傻逼日记。<br>原打算昨天补这几天的傻逼日记的，已然过了deadline.<br>前一天颈椎引起头胀睡得早，今天早早的醒了（4点）。<br>下午吃吃饭、理个发、到公司刷视频。<br>好几天没有认真写代码了，不能冰说不着急就放松了啊；先把应用程序代码搞起来啊。还是无力吐槽同事代码。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补7.5号的傻逼日记。&lt;br&gt;原打算昨天补这几天的傻逼日记的，已然过了deadline.&lt;br&gt;前一天颈椎引起头胀睡得早，今天早早的醒了（4点）。&lt;br&gt;下午吃吃饭、理个发、到公司刷视频。&lt;br&gt;好几天没有认真写代码了，不能冰说不着急就放松了啊；先把应用程序代码搞起来啊。还
       
     
     </summary>
