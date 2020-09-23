@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-22T13:45:20.353Z</updated>
+  <updated>2020-09-23T14:11:53.719Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_124</title>
+    <link href="http://yoursite.com/2020/09/23/sbd-124/"/>
+    <id>http://yoursite.com/2020/09/23/sbd-124/</id>
+    <published>2020-09-23T14:08:43.000Z</published>
+    <updated>2020-09-23T14:11:53.719Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用G2的DataSet，做了一个混合图（层叠柱状图+多折线）。<br>这几天代码的训练量明显下降，一直在看文档，淦。</p><p>长袖的衣服到了，不冷了，冲冲冲。</p><p>四哥腊月才结婚，国庆可能不回家，在杭州刷剧吧！</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;使用G2的DataSet，做了一个混合图（层叠柱状图+多折线）。&lt;br&gt;这几天代码的训练量明显下降，一直在看文档，淦。&lt;/p&gt;
+&lt;p&gt;长袖的衣服到了，不冷了，冲冲冲。&lt;/p&gt;
+&lt;p&gt;四哥腊月才结婚，国庆可能不回家，在杭州刷剧吧！&lt;/p&gt;
+&lt;p&gt;repeat，repeat，r
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_123</title>
@@ -476,31 +503,6 @@
       
       
         &lt;p&gt;补7.10日的傻逼日记。&lt;br&gt;画周报，审批没画，还没搞懂逻辑。&lt;br&gt;看了路由和布局。&lt;br&gt;晚上菜请大家吃饭。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_104</title>
-    <link href="http://yoursite.com/2020/07/09/sbd-104/"/>
-    <id>http://yoursite.com/2020/07/09/sbd-104/</id>
-    <published>2020-07-09T13:50:44.000Z</published>
-    <updated>2020-07-09T13:53:31.351Z</updated>
-    
-    <content type="html"><![CDATA[<p>写了回复组件，更新了路由；看了看路由，若以前端框架里尽搞些花里胡哨的，预计周末看完了。<br>明天写周报、月报。周末在再搞框架。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;写了回复组件，更新了路由；看了看路由，若以前端框架里尽搞些花里胡哨的，预计周末看完了。&lt;br&gt;明天写周报、月报。周末在再搞框架。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
