@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-24T14:15:11.105Z</updated>
+  <updated>2020-09-26T04:31:31.975Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_126</title>
+    <link href="http://yoursite.com/2020/09/26/sbd-126/"/>
+    <id>http://yoursite.com/2020/09/26/sbd-126/</id>
+    <published>2020-09-26T04:29:57.000Z</published>
+    <updated>2020-09-26T04:31:31.975Z</updated>
+    
+    <content type="html"><![CDATA[<p>今日早早写完日记，回去睡觉、读书。<br>图片下载功能，宽度百分比的方案不可行。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今日早早写完日记，回去睡觉、读书。&lt;br&gt;图片下载功能，宽度百分比的方案不可行。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_125</title>
@@ -478,31 +503,6 @@
       
       
         &lt;p&gt;补7.12日的傻逼日记。&lt;br&gt;对比vue-cli、ant-design-vue-pro、ruoyi、epark项目，只看到目录结构。&lt;br&gt;下午逛超市，吃了巴沙鱼，还不错。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_106</title>
-    <link href="http://yoursite.com/2020/07/13/sbd-106/"/>
-    <id>http://yoursite.com/2020/07/13/sbd-106/</id>
-    <published>2020-07-13T14:34:00.000Z</published>
-    <updated>2020-07-13T14:35:37.693Z</updated>
-    
-    <content type="html"><![CDATA[<p>补7.11日的傻逼日记。<br>加班，摸鱼，打LOL。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补7.11日的傻逼日记。&lt;br&gt;加班，摸鱼，打LOL。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
