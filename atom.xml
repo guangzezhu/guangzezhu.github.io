@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-26T04:31:31.975Z</updated>
+  <updated>2020-09-28T13:01:51.014Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_127</title>
+    <link href="http://yoursite.com/2020/09/28/sbd-127/"/>
+    <id>http://yoursite.com/2020/09/28/sbd-127/</id>
+    <published>2020-09-28T13:00:20.000Z</published>
+    <updated>2020-09-28T13:01:51.014Z</updated>
+    
+    <content type="html"><![CDATA[<p>困。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;困。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_126</title>
@@ -479,31 +504,6 @@
       
       
         &lt;p&gt;终于补完前几天的傻逼日记，连续两周的周末傻逼日记忘记写了，之前规划的每周精美周记也是一片没写。真的是放松了啊。&lt;br&gt;今天改了下样式，学习强的写法修改了“项目通讯录”，又想写table组件，浪费时间了。&lt;br&gt;晚上把Daily Menu写好，放在公司了，等着明天给我发菜单。
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_107</title>
-    <link href="http://yoursite.com/2020/07/13/sbd-107/"/>
-    <id>http://yoursite.com/2020/07/13/sbd-107/</id>
-    <published>2020-07-13T14:36:04.000Z</published>
-    <updated>2020-07-13T14:38:13.928Z</updated>
-    
-    <content type="html"><![CDATA[<p>补7.12日的傻逼日记。<br>对比vue-cli、ant-design-vue-pro、ruoyi、epark项目，只看到目录结构。<br>下午逛超市，吃了巴沙鱼，还不错。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补7.12日的傻逼日记。&lt;br&gt;对比vue-cli、ant-design-vue-pro、ruoyi、epark项目，只看到目录结构。&lt;br&gt;下午逛超市，吃了巴沙鱼，还不错。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
