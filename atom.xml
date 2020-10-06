@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-28T13:01:51.014Z</updated>
+  <updated>2020-10-06T17:16:35.259Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_128</title>
+    <link href="http://yoursite.com/2020/10/07/sbd-128/"/>
+    <id>http://yoursite.com/2020/10/07/sbd-128/</id>
+    <published>2020-10-06T17:12:13.000Z</published>
+    <updated>2020-10-06T17:16:35.259Z</updated>
+    
+    <content type="html"><![CDATA[<p>Back to Ubuntu, nice! but without chinese input.<br>peri is warn.<br>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Back to Ubuntu, nice! but without chinese input.&lt;br&gt;peri is warn.&lt;br&gt;repeat, repeat, repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="sbd" scheme="http://yoursite.com/tags/sbd/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_127</title>
@@ -480,30 +505,6 @@
       
         &lt;p&gt;和重构无关，主要是代码写的太丑了。&lt;br&gt;repeat,repeat,repeat.&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_108</title>
-    <link href="http://yoursite.com/2020/07/13/sbd-108/"/>
-    <id>http://yoursite.com/2020/07/13/sbd-108/</id>
-    <published>2020-07-13T14:38:31.000Z</published>
-    <updated>2020-07-13T14:44:20.014Z</updated>
-    
-    <content type="html"><![CDATA[<p>终于补完前几天的傻逼日记，连续两周的周末傻逼日记忘记写了，之前规划的每周精美周记也是一片没写。真的是放松了啊。<br>今天改了下样式，学习强的写法修改了“项目通讯录”，又想写table组件，浪费时间了。<br>晚上把Daily Menu写好，放在公司了，等着明天给我发菜单。之后还要加两个进程保护一下，用脚本启动就好了；不愁没饭吃了。<br>明天要开会改需求，明天就专注产出吧，学习停一停，实践搞一搞。<br>10000小时，冲冲冲。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;终于补完前几天的傻逼日记，连续两周的周末傻逼日记忘记写了，之前规划的每周精美周记也是一片没写。真的是放松了啊。&lt;br&gt;今天改了下样式，学习强的写法修改了“项目通讯录”，又想写table组件，浪费时间了。&lt;br&gt;晚上把Daily Menu写好，放在公司了，等着明天给我发菜单。
       
     
     </summary>
