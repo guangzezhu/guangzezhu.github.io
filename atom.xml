@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-06T17:16:35.259Z</updated>
+  <updated>2020-10-08T17:17:39.498Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_129</title>
+    <link href="http://yoursite.com/2020/10/09/sbd-129/"/>
+    <id>http://yoursite.com/2020/10/09/sbd-129/</id>
+    <published>2020-10-08T17:10:24.000Z</published>
+    <updated>2020-10-08T17:17:39.498Z</updated>
+    
+    <content type="html"><![CDATA[<p>Still without chinese input, it’s hard for me to continue my daily.<br>Thus, there will be a number of mistakes in my daliy. But no sorry.<br>I desice to go bed early without listening cross talk, tomorrow. :)<br>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Still without chinese input, it’s hard for me to continue my daily.&lt;br&gt;Thus, there will be a number of mistakes in my daliy. But no sorry
+      
+    
+    </summary>
+    
+    
+    
+      <category term="sbd" scheme="http://yoursite.com/tags/sbd/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_128</title>
@@ -480,31 +504,6 @@
         &lt;p&gt;天哪，这一周都没写傻逼日记（7.14~7.15），我在干嘛啊？&lt;br&gt;今天补这一段时间的傻逼日记。&lt;br&gt;工作日整理之前的前端代码，在标签选择上重做了一下。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;NEV使用select的potions属性，将共有的静态数据放在了common.js中，重
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_109</title>
-    <link href="http://yoursite.com/2020/07/14/sbd-109/"/>
-    <id>http://yoursite.com/2020/07/14/sbd-109/</id>
-    <published>2020-07-14T14:32:50.000Z</published>
-    <updated>2020-07-14T14:33:46.562Z</updated>
-    
-    <content type="html"><![CDATA[<p>和重构无关，主要是代码写的太丑了。<br>repeat,repeat,repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;和重构无关，主要是代码写的太丑了。&lt;br&gt;repeat,repeat,repeat.&lt;/p&gt;
-
       
     
     </summary>
