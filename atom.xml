@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-31T12:27:54.000Z</updated>
+  <updated>2020-11-01T14:24:14.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_132</title>
+    <link href="http://yoursite.com/2020/11/01/sbd-132/"/>
+    <id>http://yoursite.com/2020/11/01/sbd-132/</id>
+    <published>2020-11-01T14:23:02.000Z</published>
+    <updated>2020-11-01T14:24:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>墨刀画若依的登录原型图；<br>学习若依cloud代码。<br>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;墨刀画若依的登录原型图；&lt;br&gt;学习若依cloud代码。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_131</title>
@@ -481,30 +506,6 @@
       
         &lt;p&gt;一天划水，测了下周报的增改接口；下午写了登录和忘记密码，明天继续。&lt;br&gt;写的这些傻逼日记，以后可以用来数据分析的吧，多少有点用的吧，哈哈哈。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_112</title>
-    <link href="http://yoursite.com/2020/07/21/sbd-112/"/>
-    <id>http://yoursite.com/2020/07/21/sbd-112/</id>
-    <published>2020-07-21T14:16:48.000Z</published>
-    <updated>2020-07-21T14:20:45.145Z</updated>
-    
-    <content type="html"><![CDATA[<p>周报的编辑还是要的，上午写了改了改编辑功能，催二黑给接口；<br>下午写了批复框，拿到接口，但是菜的接口没有启动，明天在对接口。<br>突然发现，流程中兴也是我的，哈哈哈。<br>早睡早起真的不一样，精神头也上来了。<br>还有，晚上得知家里快涨水了。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;周报的编辑还是要的，上午写了改了改编辑功能，催二黑给接口；&lt;br&gt;下午写了批复框，拿到接口，但是菜的接口没有启动，明天在对接口。&lt;br&gt;突然发现，流程中兴也是我的，哈哈哈。&lt;br&gt;早睡早起真的不一样，精神头也上来了。&lt;br&gt;还有，晚上得知家里快涨水了。&lt;br&gt;repeat，
       
     
     </summary>
