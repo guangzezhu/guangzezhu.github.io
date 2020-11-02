@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-01T14:24:14.000Z</updated>
+  <updated>2020-11-02T13:56:06.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_133</title>
+    <link href="http://yoursite.com/2020/11/02/sbd-133/"/>
+    <id>http://yoursite.com/2020/11/02/sbd-133/</id>
+    <published>2020-11-02T13:54:47.000Z</published>
+    <updated>2020-11-02T13:56:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>能效评估系统前端打包去除CDN依赖，离线地图没有添加成功。<br>今天肚子不舒服，淦。<br>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;能效评估系统前端打包去除CDN依赖，离线地图没有添加成功。&lt;br&gt;今天肚子不舒服，淦。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_132</title>
@@ -480,31 +505,6 @@
       
       
         &lt;p&gt;继续写周报。&lt;br&gt;下午发了工资，还有出差费，nice。&lt;br&gt;晚上和菜聊了会“技术”，经验差距啊。苦练杀敌本领，冲冲冲。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_113</title>
-    <link href="http://yoursite.com/2020/07/22/sbd-113/"/>
-    <id>http://yoursite.com/2020/07/22/sbd-113/</id>
-    <published>2020-07-22T14:16:08.000Z</published>
-    <updated>2020-07-22T14:19:05.808Z</updated>
-    
-    <content type="html"><![CDATA[<p>一天划水，测了下周报的增改接口；下午写了登录和忘记密码，明天继续。<br>写的这些傻逼日记，以后可以用来数据分析的吧，多少有点用的吧，哈哈哈。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;一天划水，测了下周报的增改接口；下午写了登录和忘记密码，明天继续。&lt;br&gt;写的这些傻逼日记，以后可以用来数据分析的吧，多少有点用的吧，哈哈哈。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
