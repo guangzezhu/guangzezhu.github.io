@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-02T13:56:06.000Z</updated>
+  <updated>2020-11-03T14:01:24.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_134</title>
+    <link href="http://yoursite.com/2020/11/03/sbd-134/"/>
+    <id>http://yoursite.com/2020/11/03/sbd-134/</id>
+    <published>2020-11-03T14:00:20.000Z</published>
+    <updated>2020-11-03T14:01:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>离线地图、单点登录。<br>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;离线地图、单点登录。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_133</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;补7.24日的傻逼日记。&lt;br&gt;写代码，简单的组件附件列表、人员列表展示；人员的下拉框选择，可以使用v-model指令。修改了详情bug。&lt;br&gt;明天改项目通讯录的bug，对周报审批流的接口。&lt;br&gt;晚上得知外婆得了食道癌和肝癌；和五年前一样，茫然无措，人生的变故不可预知，
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_114</title>
-    <link href="http://yoursite.com/2020/07/23/sbd-114/"/>
-    <id>http://yoursite.com/2020/07/23/sbd-114/</id>
-    <published>2020-07-23T14:26:19.000Z</published>
-    <updated>2020-07-23T14:28:40.335Z</updated>
-    
-    <content type="html"><![CDATA[<p>继续写周报。<br>下午发了工资，还有出差费，nice。<br>晚上和菜聊了会“技术”，经验差距啊。苦练杀敌本领，冲冲冲。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;继续写周报。&lt;br&gt;下午发了工资，还有出差费，nice。&lt;br&gt;晚上和菜聊了会“技术”，经验差距啊。苦练杀敌本领，冲冲冲。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
