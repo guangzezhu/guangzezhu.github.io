@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-03T14:01:24.000Z</updated>
+  <updated>2020-11-04T12:23:12.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_135</title>
+    <link href="http://yoursite.com/2020/11/04/sbd-135/"/>
+    <id>http://yoursite.com/2020/11/04/sbd-135/</id>
+    <published>2020-11-04T12:22:09.000Z</published>
+    <updated>2020-11-04T12:23:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>整理笔记，能效评估系统2.0冻结。<br>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;整理笔记，能效评估系统2.0冻结。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>sbd_134</title>
@@ -482,30 +505,6 @@
       
         &lt;p&gt;又是没有写日记的周末。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_115</title>
-    <link href="http://yoursite.com/2020/07/25/sbd-115/"/>
-    <id>http://yoursite.com/2020/07/25/sbd-115/</id>
-    <published>2020-07-24T16:00:57.000Z</published>
-    <updated>2020-07-24T16:10:26.545Z</updated>
-    
-    <content type="html"><![CDATA[<p>补7.24日的傻逼日记。<br>写代码，简单的组件附件列表、人员列表展示；人员的下拉框选择，可以使用v-model指令。修改了详情bug。<br>明天改项目通讯录的bug，对周报审批流的接口。<br>晚上得知外婆得了食道癌和肝癌；和五年前一样，茫然无措，人生的变故不可预知，时间、心智、心境不可知。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补7.24日的傻逼日记。&lt;br&gt;写代码，简单的组件附件列表、人员列表展示；人员的下拉框选择，可以使用v-model指令。修改了详情bug。&lt;br&gt;明天改项目通讯录的bug，对周报审批流的接口。&lt;br&gt;晚上得知外婆得了食道癌和肝癌；和五年前一样，茫然无措，人生的变故不可预知，
       
     
     </summary>
