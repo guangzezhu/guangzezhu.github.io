@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-06T11:59:20.000Z</updated>
+  <updated>2020-11-09T11:41:00.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_138</title>
+    <link href="http://yoursite.com/2020/11/09/sbd-138/"/>
+    <id>http://yoursite.com/2020/11/09/sbd-138/</id>
+    <published>2020-11-09T11:38:34.000Z</published>
+    <updated>2020-11-09T11:41:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>困，flutter环境装好了。<br>整理代码。<br>右肩膀有点酸痛，可能着凉了。<br>周日晚上在西湖看漂亮小姐姐。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;困，flutter环境装好了。&lt;br&gt;整理代码。&lt;br&gt;右肩膀有点酸痛，可能着凉了。&lt;br&gt;周日晚上在西湖看漂亮小姐姐。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_137</title>
@@ -480,31 +505,6 @@
       
       
         &lt;p&gt;我朱老汉又回来了，哈哈哈。&lt;br&gt;repeat, repeat, repeat.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_118</title>
-    <link href="http://yoursite.com/2020/07/30/sbd-118/"/>
-    <id>http://yoursite.com/2020/07/30/sbd-118/</id>
-    <published>2020-07-30T15:18:27.000Z</published>
-    <updated>2020-07-30T15:21:12.228Z</updated>
-    
-    <content type="html"><![CDATA[<p>“加班”到十一点，今天对接进度变更审批。<br>这样写代码才爽啊，不是半死不活的样子。<br>明天，爱拍的就到了；还有史迪奇。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;“加班”到十一点，今天对接进度变更审批。&lt;br&gt;这样写代码才爽啊，不是半死不活的样子。&lt;br&gt;明天，爱拍的就到了；还有史迪奇。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
