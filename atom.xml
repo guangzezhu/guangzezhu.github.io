@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-12T11:42:40.000Z</updated>
+  <updated>2020-11-13T10:53:50.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_142</title>
+    <link href="http://yoursite.com/2020/11/13/sbd-142/"/>
+    <id>http://yoursite.com/2020/11/13/sbd-142/</id>
+    <published>2020-11-13T10:53:01.000Z</published>
+    <updated>2020-11-13T10:53:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>对接业务开发接口；<br>拿标书；<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;对接业务开发接口；&lt;br&gt;拿标书；&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_141</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;优化甘特图的滚动条，document真好用。&lt;br&gt;被子、衣服寄过来了，不用挨冻了，惨兮兮。&lt;br&gt;“喜满家”蛮实惠的，每次都是按“荤素搭配”定价，nice。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_122</title>
-    <link href="http://yoursite.com/2020/09/08/sbd-122/"/>
-    <id>http://yoursite.com/2020/09/08/sbd-122/</id>
-    <published>2020-09-08T13:46:44.000Z</published>
-    <updated>2020-09-08T13:47:43.854Z</updated>
-    
-    <content type="html"><![CDATA[<p>vue集成cesium。<br>吃饭。<br>repeat，repeat，repeat 。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;vue集成cesium。&lt;br&gt;吃饭。&lt;br&gt;repeat，repeat，repeat 。&lt;/p&gt;
 
       
     
