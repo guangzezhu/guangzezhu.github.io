@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-16T01:17:10.000Z</updated>
+  <updated>2020-11-16T13:04:40.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_144</title>
+    <link href="http://yoursite.com/2020/11/16/sbd-144/"/>
+    <id>http://yoursite.com/2020/11/16/sbd-144/</id>
+    <published>2020-11-16T13:03:08.000Z</published>
+    <updated>2020-11-16T13:04:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>等值线、色斑图还是逃不掉，明不能划水了，淦。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;等值线、色斑图还是逃不掉，明不能划水了，淦。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_143</title>
@@ -480,33 +505,6 @@
       
         &lt;p&gt;编写报表页面，熟悉的东西就是写的快。&lt;br&gt;清单真的很有用，思路清晰，解决了很多bug。&lt;br&gt;护腰靠垫到了，午睡胳臂不麻了。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_124</title>
-    <link href="http://yoursite.com/2020/09/23/sbd-124/"/>
-    <id>http://yoursite.com/2020/09/23/sbd-124/</id>
-    <published>2020-09-23T14:08:43.000Z</published>
-    <updated>2020-09-23T14:11:53.719Z</updated>
-    
-    <content type="html"><![CDATA[<p>使用G2的DataSet，做了一个混合图（层叠柱状图+多折线）。<br>这几天代码的训练量明显下降，一直在看文档，淦。</p><p>长袖的衣服到了，不冷了，冲冲冲。</p><p>四哥腊月才结婚，国庆可能不回家，在杭州刷剧吧！</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;使用G2的DataSet，做了一个混合图（层叠柱状图+多折线）。&lt;br&gt;这几天代码的训练量明显下降，一直在看文档，淦。&lt;/p&gt;
-&lt;p&gt;长袖的衣服到了，不冷了，冲冲冲。&lt;/p&gt;
-&lt;p&gt;四哥腊月才结婚，国庆可能不回家，在杭州刷剧吧！&lt;/p&gt;
-&lt;p&gt;repeat，repeat，r
       
     
     </summary>
