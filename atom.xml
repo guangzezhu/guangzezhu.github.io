@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-12-01T12:03:18.000Z</updated>
+  <updated>2020-12-02T07:13:54.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>bdc-0</title>
+    <link href="http://yoursite.com/2020/12/02/bdc-0/"/>
+    <id>http://yoursite.com/2020/12/02/bdc-0/</id>
+    <published>2020-12-02T02:44:33.000Z</published>
+    <updated>2020-12-02T07:13:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="web建站技术"><a href="#web建站技术" class="headerlink" title="web建站技术"></a>web建站技术</h5><ul><li>html5（内容）、css（样式）、javascript（动态）</li><li>B/S结构</li></ul><h5 id="浏览器访问内容的过程："><a href="#浏览器访问内容的过程：" class="headerlink" title="浏览器访问内容的过程："></a>浏览器访问内容的过程：</h5><ul><li>人编码参与的过程：前端请求、后端处理、前端处理</li><li>苦逼的计算机处理：地址解析、建立http请求（tcp长连接）、浏览器（解析http报文、查找渲染进程、balabala…）</li></ul><h5 id="资料："><a href="#资料：" class="headerlink" title="资料："></a>资料：</h5><ul><li><p><a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank" rel="noopener">How the Internet Works in 5 Minutes</a>：介绍网路，图片拆包过程好形象</p></li><li><p><a href="https://www.cnblogs.com/gotodsp/p/6366163.html" target="_blank" rel="noopener">HTTP长连接、短连接究竟是什么？</a>：介绍http，之前一直误解了http“无状态链接”</p><blockquote><p>HTTP协议是无状态的，是指协议<strong>对事务处理没有记忆能力</strong>。<del>还是TCP链接，之前学的是tcp和udp，这一块还没有细看</del></p></blockquote></li><li><p><a href="https://mp.weixin.qq.com/s/DvijdWA5Gpv5gpYVLGcIBg" target="_blank" rel="noopener">浏览器渲染原理</a>：好长的文章，内容暂时不知道如何验证，repeat</p></li></ul><h1 id="FLAG"><a href="#FLAG" class="headerlink" title="FLAG"></a>FLAG</h1><p>了解web开发</p><hr><p><em>英文文档读起来好慢，出现没有先修知识的概念时 理解的好慢</em></p><p><em>6月份毕业开始转前端，一直做基于开源项目二次开发，使用vue和组件库写写表格表单。但是最近项目定制化的东西比较多，前端性能改起来比较慢，到百度前端技术学院学习正规军的打法。冲冲冲。</em></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;web建站技术&quot;&gt;&lt;a href=&quot;#web建站技术&quot; class=&quot;headerlink&quot; title=&quot;web建站技术&quot;&gt;&lt;/a&gt;web建站技术&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;html5（内容）、css（样式）、javascript（动态）&lt;/li&gt;
+&lt;li&gt;B/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="百度前端技术学院 零基础学院" scheme="http://yoursite.com/tags/%E7%99%BE%E5%BA%A6%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2-%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_154</title>
@@ -488,29 +514,6 @@
     
     
       <category term="傻逼日记" scheme="http://yoursite.com/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_135</title>
-    <link href="http://yoursite.com/2020/11/04/sbd-135/"/>
-    <id>http://yoursite.com/2020/11/04/sbd-135/</id>
-    <published>2020-11-04T12:22:09.000Z</published>
-    <updated>2020-11-04T12:23:12.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>整理笔记，能效评估系统2.0冻结。<br>repeat，repeat，repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;整理笔记，能效评估系统2.0冻结。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
