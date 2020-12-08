@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2020-12-07T05:29:04.000Z</updated>
+  <updated>2020-12-08T07:00:50.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_157</title>
+    <link href="https://guangzezhu.github.io/2020/12/08/sbd-157/"/>
+    <id>https://guangzezhu.github.io/2020/12/08/sbd-157/</id>
+    <published>2020-12-08T06:58:43.000Z</published>
+    <updated>2020-12-08T07:00:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>心血来潮，翻看kriging讲解，遂至期望，无功而返，卒。<br>好像太适合写代码呢，出家悟道好了。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;心血来潮，翻看kriging讲解，遂至期望，无功而返，卒。&lt;br&gt;好像太适合写代码呢，出家悟道好了。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>bdc_1</title>
@@ -482,31 +508,6 @@
       
       
         &lt;p&gt;学习canvas，看了好多炫酷的效果，好玩的东西还很多，冲冲冲。&lt;br&gt;这世间，尽还有孤男寡女不能成双配对，祝大家年年有今日，岁岁有今朝。&lt;br&gt;杨请项目组喝奶茶，选了一杯好酸的果汁。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_139</title>
-    <link href="https://guangzezhu.github.io/2020/11/10/sbd-139/"/>
-    <id>https://guangzezhu.github.io/2020/11/10/sbd-139/</id>
-    <published>2020-11-10T12:35:15.000Z</published>
-    <updated>2020-11-10T12:37:08.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>放大色斑图的半径。<br>多向他人学习，代码还有很大的进步空间啊。<br>笔记本散热板到了，thinkpad有救了，但是看起来好low，淦。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;放大色斑图的半径。&lt;br&gt;多向他人学习，代码还有很大的进步空间啊。&lt;br&gt;笔记本散热板到了，thinkpad有救了，但是看起来好low，淦。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
