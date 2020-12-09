@@ -1,0 +1,124 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description" content=""><link rel="stylesheet" type="text/css" href="//fonts.loli.net/css?family=Source+Code+Pro"><link rel="stylesheet" type="text/css" href="/css/style.css?v=2.0.5"><link rel="stylesheet" type="text/css" href="/css/highlight.css?v=2.0.5"><link rel="Shortcut Icon" href="/favicon.ico"><link rel="bookmark" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><link rel="alternate" type="application/atom+xml" href="/atom.xml"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css?v=2.0.5"><title>bdc_2 | 小心鞋带</title><meta name="generator" content="Hexo 4.2.1"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">bdc_2</h1><a id="logo" href="/.">小心鞋带</a><p class="description"></p></div><div id="nav-menu"><a href="/." class="current"><i class="fa fa-home"> 首页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于</i></a><a href="/atom.xml"><i class="fa fa-rss"> 订阅</i></a></div><div id="search-form"><div id="result-mask" class="hide"></div><label><input id="search-key" type="text" autocomplete="off" placeholder="搜索"></label><div id="result-wrap" class="hide"><div id="search-result"></div></div><div class="hide"><template id="search-tpl"><div class="item"><a href="/{path}" title="{title}"><div class="title">{title}</div><div class="time">{date}</div><div class="tags">{tags}</div></a></div></template></div></div></div><div id="layout" class="layout-g"><div class="layout-l"><div class="content_container"><div class="post"><h1 class="post-title">bdc_2</h1><div class="post-meta"><a href="/2020/12/09/bdc-2/#comments" class="comment-count"></a><p><span class="date">Dec 09, 2020</span><span><i id="busuanzi_container_page_pv"><i id="busuanzi_value_page_pv"></i><i>点击</i></i></span></p></div><div class="post-content"><h3 id="验证（错误版）"><a href="#验证（错误版）" class="headerlink" title="验证（错误版）"></a>验证（错误版）</h3><ul>
+<li><p>什么是CSS，CSS是如何工作的</p>
+<ul>
+<li>CSS 层叠样式表</li>
+<li>浏览器简历DOM后，根据选择器分配”桶“，建立css的依赖</li>
+<li><img src="https://mdn.mozillademos.org/files/11781/rendering.svg" alt="CSS是如何工作的"></li>
+</ul>
+</li>
+<li><p>CSS的基本语法是怎样的</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">选择器 &#123;</span><br><span class="line">	属性：属性值;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>CSS选择器是什么概念，简单选择器和属性选择器是什么</p>
+<ul>
+<li><p>啊，zhe…  标识元素，让DOM找到这个花里胡哨的家伙？？？</p>
+</li>
+<li><p>简单选择器： 元素名、class、id</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">h1</span>&#123; &#125;</span><br><span class="line"><span class="selector-class">.myClass</span>&#123; &#125;</span><br><span class="line"><span class="selector-id">#myId</span>&#123; &#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>属性选择器：元素属性辅助定位，定位精度又高了一些</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">a</span><span class="selector-attr">[href]</span>&#123;</span><br><span class="line">	<span class="attribute">color</span>: violet;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+</li>
+<li><p>文本样式都有哪些相关属性，对应哪些值</p>
+<ul>
+<li><p>字体</p>
+<table>
+<thead>
+<tr>
+<th>属性</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>font-family</td>
+<td>字体</td>
+</tr>
+<tr>
+<td>font-size</td>
+<td>字体大小</td>
+</tr>
+<tr>
+<td>font-weight</td>
+<td>字重？？？哈哈哈，好像是字体粗细的意思</td>
+</tr>
+<tr>
+<td>font-style</td>
+<td>没什么卵用，设置是否可以斜体</td>
+</tr>
+<tr>
+<td>font-indent</td>
+<td>首行缩进</td>
+</tr>
+<tr>
+<td>color</td>
+<td>字体颜色</td>
+</tr>
+</tbody></table>
+</li>
+<li><p>文本</p>
+<table>
+<thead>
+<tr>
+<th>属性</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>text-algin</td>
+<td><strong>文本</strong>对齐方式</td>
+</tr>
+<tr>
+<td>text-decoration</td>
+<td>文本装饰，可组合text-decoration-line、text-decoration-text-style、text-decoration-color（</td>
+</tr>
+<tr>
+<td>text-shadow</td>
+<td>文本阴影，（左偏移、上偏移、阴影半径、颜色） word里面的艺术就是这个吗</td>
+</tr>
+</tbody></table>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h3><p>1、<a href="https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors" target="_blank" rel="noopener">MDN 类型选择器/ 使用全局选择器，让选择器更易读</a>：</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">article</span><span class="selector-pseudo">:first-child</span>&#123;</span><br><span class="line">	<span class="attribute">color</span>: violet;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">article</span>: <span class="selector-tag">first-child</span>&#123;</span><br><span class="line">	<span class="attribute">color</span>: violet</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><del>这是个什么鬼，为什么有个空格就不一样了，也不是选择器列表啊</del></p>
+<p>2、<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/img" target="_blank" rel="noopener">img loading属性好像有用</a></p>
+<blockquote>
+<p><strong><code>loading</code></strong> </p>
+<p>指示浏览器应当如何加载该图像。允许的值：</p>
+<ul>
+<li><p><code>eager</code></p>
+<p>立即加载图像，不管它是否在可视视口（visible viewport）之外（默认值）。</p>
+</li>
+<li><p><code>lazy</code></p>
+<p>延迟加载图像，直到它和视口接近到一个计算得到的距离，由浏览器定义。</p>
+</li>
+</ul>
+</blockquote>
+<h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><ul>
+<li><a href="http://ife.baidu.com/note/detail/id/721" target="_blank" rel="noopener">百度前端技术学院(IFE)2018第三课</a>：验证的参考答案</li>
+<li><a href="http://ife.baidu.com/note/detail/id/730" target="_blank" rel="noopener">使用字体与文本属性时的一点小技巧</a>：特殊性太容易忽略了</li>
+</ul>
+</div><div class="tags"><a href="/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/">零基础学院</a></div><div class="post-share"><div class="social-share"><span>分享到:</span></div></div><div class="post-nav"><a href="/2020/12/08/sbd-157/" class="next">sbd_157</a></div><div id="comments"><div id="container"><script type="text/javascript" src="https://unpkg.com/gitalk/dist/gitalk.min.js?v=2.0.5"></script><script type="text/javascript" src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js?v=2.0.5"></script><script>var gitalk = new Gitalk({
+  clientID: 'fa408c96873994d5e8d8',
+  clientSecret: 'd9b80be63409454f46ebb49441d8554d5273c83c',
+  repo: 'guangzezhu.github.io',
+  owner: 'guangzezhu',
+  admin: ['guangzezhu'],
+  id: md5(window.location.pathname),
+  distractionFreeMode: false,
+  language: 'zh-CN',
+  pagerDirection: 'last'
+})
+gitalk.render('container')</script></div></div></div></div></div><div class="layout-r"><div id="sidebar"><div class="search-pla"></div><div id="toc" class="widget"><div class="widget-title"><i class="fa fa-fei">文章目录</i></div><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#验证（错误版）"><span class="toc-text">验证（错误版）</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#记录"><span class="toc-text">记录</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#参考"><span class="toc-text">参考</span></a></li></ol></div><div class="widget"><div class="widget-title"><i class="fa fa-xie"> 最新文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2020/12/09/bdc-2/">bdc_2</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/12/08/sbd-157/">sbd_157</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/12/07/bdc-1/">bdc_1</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/12/04/sbd-156/">sbd_156</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/12/02/sbd-155/">sbd_155</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/12/02/bdc-0/">bdc-0</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/12/01/sbd-154/">sbd_154</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/11/28/sbd-153/">sbd_153</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/11/26/sbd-152/">sbd_152</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/11/25/sbd-151/">sbd_151</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-biao"> 标签</i></div><div class="tagcloud"><a href="/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/" style="font-size: 15px;">傻逼日记</a> <a href="/tags/%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%AE%B0/" style="font-size: 15px;">实习日记</a> <a href="/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/" style="font-size: 15px;">零基础学院</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-archive"> 归档</i></div><ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/">2020</a><span class="archive-list-count">165</span></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-you"> 友情链接</i></div><ul></ul><a href="https://one-piece.cn/comic" title="海贼王漫画" target="_blank">海贼王漫画</a><ul></ul><a href="https://www.meiju22.com" title="爱美剧" target="_blank">爱美剧</a></div></div></div></div><a id="totop" href="#top"></a><div id="footer"><div class="footer-info"><p><a href="/baidusitemap.xml">网站地图</a> |  <a href="/atom.xml">订阅本站</a> |  <a href="/about/">联系博主</a></p><p>本站总访问量：<i id="busuanzi_container_site_pv"><i id="busuanzi_value_site_pv"></i></i>次，本站总访客数:<i id="busuanzi_container_site_uv"><i id="busuanzi_value_site_uv"></i></i>人</p><p><span> Copyright &copy;<a href="/." rel="nofollow">朱广泽.</a></span><span> Theme by<a rel="nofollow" target="_blank" href="https://github.com/chaooo/hexo-theme-BlueLake"> BlueLake.</a></span><span> Count by<a href="http://busuanzi.ibruce.info/" target="_blank" rel="noopener"> busuanzi.</a></span><span> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a></span></p></div></div></div><script src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async></script><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?9f1ca6e22ca01ebbb89a3257032426bd";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+  })();
+</script><script type="text/javascript" src="/js/search.json.js?v=2.0.5"></script><div id="fullscreen-img" class="hide"><span class="close"></span></div><script type="text/javascript" src="/js/imgview.js?v=2.0.5" async></script><script type="text/javascript" src="/js/toctotop.js?v=2.0.5" async></script><link rel="stylesheet" type="text/css" href="/share/css/share.css"><script type="text/javascript" src="/share/js/social-share.js" charset="utf-8"></script><script type="text/javascript" src="/share/js/qrcode.js" charset="utf-8"></script></body></html>
