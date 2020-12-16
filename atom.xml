@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2020-12-14T13:29:06.000Z</updated>
+  <updated>2020-12-16T12:39:56.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>bdc_3</title>
+    <link href="https://guangzezhu.github.io/2020/12/16/bdc-3/"/>
+    <id>https://guangzezhu.github.io/2020/12/16/bdc-3/</id>
+    <published>2020-12-16T12:30:20.000Z</published>
+    <updated>2020-12-16T12:39:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h4><ul><li>背景，边框，列表，链接相关属性<ul><li>background（background-color、background-image、、background-style）</li><li>border（border-top、border-right、border-bottom、border-left、border-top-style）</li><li>ol ul（list-style、list-style-type、list-style-image）</li><li>a:link、a:visited、a:hover、a:active</li></ul></li><li>CSS 各种选择器的概念，使用方法及使用场景<ul><li>元素选择器、类选择器、id选择器</li><li>关系选择器（继承、兄弟）</li><li>伪类、伪元素</li><li>选择器的组合不会</li></ul></li><li>CSS 选择器的优先级<ul><li>就近原则</li></ul></li></ul><h4 id="参考答案："><a href="#参考答案：" class="headerlink" title="参考答案："></a>参考答案：</h4><ul><li><a href="http://ife.baidu.com/note/detail/id/823" target="_blank" rel="noopener">day4 2018.4.27</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;验证&quot;&gt;&lt;a href=&quot;#验证&quot; class=&quot;headerlink&quot; title=&quot;验证&quot;&gt;&lt;/a&gt;验证&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;背景，边框，列表，链接相关属性&lt;ul&gt;
+&lt;li&gt;background（background-color、background-i
+      
+    
+    </summary>
+    
+    
+    
+      <category term="零基础学院" scheme="https://guangzezhu.github.io/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_161</title>
+    <link href="https://guangzezhu.github.io/2020/12/16/sbd-161/"/>
+    <id>https://guangzezhu.github.io/2020/12/16/sbd-161/</id>
+    <published>2020-12-16T12:29:57.000Z</published>
+    <updated>2020-12-16T12:41:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>路由添加前缀。<br>搬座位。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;路由添加前缀。&lt;br&gt;搬座位。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_160</title>
@@ -460,56 +511,6 @@
       
       
         &lt;p&gt;补11.19的傻逼日记。&lt;br&gt;身体不舒服，上午请假，疑似胃寒引起腰疼 或 腰肌劳损引起肠道功能紊乱。&lt;br&gt;一直嘴唇缺水，可能就是胃寒的症状。&lt;br&gt;来杭州5个月，长胖、便血、胃寒、腰肌劳损。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_145</title>
-    <link href="https://guangzezhu.github.io/2020/11/17/sbd-145/"/>
-    <id>https://guangzezhu.github.io/2020/11/17/sbd-145/</id>
-    <published>2020-11-17T13:35:46.000Z</published>
-    <updated>2020-11-17T13:37:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>学习等值线插值算法，三角网。<br>写写代码。<br>突然发现我的cesium和其他项目的不一样，考虑要不要重写。<br>repeat，repeat，repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;学习等值线插值算法，三角网。&lt;br&gt;写写代码。&lt;br&gt;突然发现我的cesium和其他项目的不一样，考虑要不要重写。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_144</title>
-    <link href="https://guangzezhu.github.io/2020/11/16/sbd-144/"/>
-    <id>https://guangzezhu.github.io/2020/11/16/sbd-144/</id>
-    <published>2020-11-16T13:03:08.000Z</published>
-    <updated>2020-11-16T13:04:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>等值线、色斑图还是逃不掉，明不能划水了，淦。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;等值线、色斑图还是逃不掉，明不能划水了，淦。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
