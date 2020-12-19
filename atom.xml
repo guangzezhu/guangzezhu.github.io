@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2020-12-18T12:55:36.000Z</updated>
+  <updated>2020-12-19T09:57:08.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_163</title>
+    <link href="https://guangzezhu.github.io/2020/12/19/sbd-163/"/>
+    <id>https://guangzezhu.github.io/2020/12/19/sbd-163/</id>
+    <published>2020-12-19T09:56:27.000Z</published>
+    <updated>2020-12-19T09:57:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>傻坐一天。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;傻坐一天。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bdc_4</title>
+    <link href="https://guangzezhu.github.io/2020/12/19/bdc-4/"/>
+    <id>https://guangzezhu.github.io/2020/12/19/bdc-4/</id>
+    <published>2020-12-19T02:54:30.000Z</published>
+    <updated>2020-12-19T09:55:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="行路难"><a href="#行路难" class="headerlink" title="行路难"></a>行路难</h4><ul><li><p><a href="https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Box_model" target="_blank" rel="noopener">MDN-盒模型</a></p><ol><li><p>但是每个列表是一个块级元素 —— 像段落一样 —— 会充满整个容器的宽度并且换行。</p><blockquote><p>第二个是一个列表，布局属性是 <code>display: flex</code>。 将在容器中建立一个flex布局，但是每个列表是一个块级元素 —— 像段落一样 —— 会充满整个容器的宽度并且换行。</p></blockquote></li></ol></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;行路难&quot;&gt;&lt;a href=&quot;#行路难&quot; class=&quot;headerlink&quot; title=&quot;行路难&quot;&gt;&lt;/a&gt;行路难&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/zh-CN/docs/Learn/C
+      
+    
+    </summary>
+    
+    
+    
+      <category term="零基础学院" scheme="https://guangzezhu.github.io/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_162</title>
@@ -465,55 +516,6 @@
       
         &lt;p&gt;安装flutter环境，写了一个hello guangze。&lt;br&gt;不要在客观事物上附加虚拟价值，也不要陷入无缘由的焦虑。&lt;br&gt;百度前端课堂，冲冲冲。&lt;br&gt;奶茶，奶茶。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_148</title>
-    <link href="https://guangzezhu.github.io/2020/11/21/sbd-148/"/>
-    <id>https://guangzezhu.github.io/2020/11/21/sbd-148/</id>
-    <published>2020-11-21T09:55:24.000Z</published>
-    <updated>2020-11-21T09:59:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>周六加班，写了写交互。<br>早早下班，回去刷题。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;周六加班，写了写交互。&lt;br&gt;早早下班，回去刷题。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_147</title>
-    <link href="https://guangzezhu.github.io/2020/11/21/sbd-147/"/>
-    <id>https://guangzezhu.github.io/2020/11/21/sbd-147/</id>
-    <published>2020-11-21T02:45:02.000Z</published>
-    <updated>2020-11-21T02:52:34.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>补11.20的傻逼日记。<br>色斑图要做的。<br>数字能源室的同事竟然是15年毕业的研究生学姐。<br>发工资了，周六加一天班，周末去杭后博物馆 好好让艺术腌制一下<br>要账45块钱，美滋滋。太难了，tmd明明是欠我钱，还好有支付宝账单，不然被别人讹钱还要赔礼道歉。点杯奶茶庆祝庆祝。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;补11.20的傻逼日记。&lt;br&gt;色斑图要做的。&lt;br&gt;数字能源室的同事竟然是15年毕业的研究生学姐。&lt;br&gt;发工资了，周六加一天班，周末去杭后博物馆 好好让艺术腌制一下&lt;br&gt;要账45块钱，美滋滋。太难了，tmd明明是欠我钱，还好有支付宝账单，不然被别人讹钱还要赔礼道歉。点
       
     
     </summary>
