@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-01-04T12:36:00.000Z</updated>
+  <updated>2021-01-05T11:36:04.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_166</title>
+    <link href="https://guangzezhu.github.io/2021/01/05/sbd-166/"/>
+    <id>https://guangzezhu.github.io/2021/01/05/sbd-166/</id>
+    <published>2021-01-05T11:29:58.000Z</published>
+    <updated>2021-01-05T11:36:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>早晨8：00醒，8：40出门。<br>看《毛泽东选集集》“中国革命战争的战略问题” 第一章 《如何研究战争》。<br>写vue-base-project的路由菜单生成，使用render函数递归构造，明日添加细节。</p><p>整个前端项目既看不清整体结构，又看不懂具体实现。还是要多读多写多想。</p><p>今天办公室暖风开的太大了，眼睛疼。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;早晨8：00醒，8：40出门。&lt;br&gt;看《毛泽东选集集》“中国革命战争的战略问题” 第一章 《如何研究战争》。&lt;br&gt;写vue-base-project的路由菜单生成，使用render函数递归构造，明日添加细节。&lt;/p&gt;
+&lt;p&gt;整个前端项目既看不清整体结构，又看不懂具体实现
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_165</title>
@@ -495,31 +520,6 @@
       
       
         &lt;p&gt;学习尤雨溪讲解vue响应性，大神写的好快，我也要抛弃外设键盘，用笔记本键盘了。&lt;br&gt;flutter又水了一天。&lt;br&gt;组长艳给了一瓶快乐水，nice。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_151</title>
-    <link href="https://guangzezhu.github.io/2020/11/25/sbd-151/"/>
-    <id>https://guangzezhu.github.io/2020/11/25/sbd-151/</id>
-    <published>2020-11-25T12:32:49.000Z</published>
-    <updated>2020-11-25T12:35:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>写代码，吹空调。<br>苏请吃饭，她转岗享福去了，祝福。<br>今天困困的。<br>没有开始百度前端学院，看看flutter算了。雄心壮志，躺地慢挪。<br>repeat，repeat，repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;写代码，吹空调。&lt;br&gt;苏请吃饭，她转岗享福去了，祝福。&lt;br&gt;今天困困的。&lt;br&gt;没有开始百度前端学院，看看flutter算了。雄心壮志，躺地慢挪。&lt;br&gt;repeat，repeat，repeat.&lt;/p&gt;
 
       
     
