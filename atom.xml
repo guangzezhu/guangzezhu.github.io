@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-01-05T11:36:04.000Z</updated>
+  <updated>2021-01-06T11:28:18.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_167</title>
+    <link href="https://guangzezhu.github.io/2021/01/06/sbd-167/"/>
+    <id>https://guangzezhu.github.io/2021/01/06/sbd-167/</id>
+    <published>2021-01-06T02:15:26.000Z</published>
+    <updated>2021-01-06T11:28:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>读《软技能：代码之外的生存指南》1~12章，换位思考，理解那些无法接受的事。</p><p>写vue-base-project，菜单、布局、axios。</p><p>明天可以开始springcloud了。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;读《软技能：代码之外的生存指南》1~12章，换位思考，理解那些无法接受的事。&lt;/p&gt;
+&lt;p&gt;写vue-base-project，菜单、布局、axios。&lt;/p&gt;
+&lt;p&gt;明天可以开始springcloud了。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_166</title>
@@ -495,31 +523,6 @@
       
       
         &lt;p&gt;加班划水。&lt;br&gt;尝试自顶向下写代码，可是词汇量不够。&lt;br&gt;买了瓶清酒，尝尝怎么样。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_152</title>
-    <link href="https://guangzezhu.github.io/2020/11/26/sbd-152/"/>
-    <id>https://guangzezhu.github.io/2020/11/26/sbd-152/</id>
-    <published>2020-11-26T13:17:08.000Z</published>
-    <updated>2020-11-26T13:20:08.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>学习尤雨溪讲解vue响应性，大神写的好快，我也要抛弃外设键盘，用笔记本键盘了。<br>flutter又水了一天。<br>组长艳给了一瓶快乐水，nice。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;学习尤雨溪讲解vue响应性，大神写的好快，我也要抛弃外设键盘，用笔记本键盘了。&lt;br&gt;flutter又水了一天。&lt;br&gt;组长艳给了一瓶快乐水，nice。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
