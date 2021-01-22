@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-01-21T07:54:50.000Z</updated>
+  <updated>2021-01-22T03:51:36.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_171</title>
+    <link href="https://guangzezhu.github.io/2021/01/22/sbd-171/"/>
+    <id>https://guangzezhu.github.io/2021/01/22/sbd-171/</id>
+    <published>2021-01-22T03:42:56.000Z</published>
+    <updated>2021-01-22T03:51:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>匆匆读完《修改 软件的艺术 构建宜维护代码的九条建议》。这本书真的是建议，从软件开发的大局角度看待软件，辨析软件开发的管理理论、编码方式。而开发编码上的建议较少。收获是 “风机损失发电量”必须要重构。</p><p>如何重构，再看看《重构 改善代码的既有设计》。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;匆匆读完《修改 软件的艺术 构建宜维护代码的九条建议》。这本书真的是建议，从软件开发的大局角度看待软件，辨析软件开发的管理理论、编码方式。而开发编码上的建议较少。收获是 “风机损失发电量”必须要重构。&lt;/p&gt;
+&lt;p&gt;如何重构，再看看《重构 改善代码的既有设计》。&lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_170</title>
@@ -488,31 +514,6 @@
       
       
         &lt;p&gt;早起，晕车1小时，参加气象会议，等值线无果。&lt;br&gt;下午gaibug。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_155</title>
-    <link href="https://guangzezhu.github.io/2020/12/02/sbd-155/"/>
-    <id>https://guangzezhu.github.io/2020/12/02/sbd-155/</id>
-    <published>2020-12-02T11:50:20.000Z</published>
-    <updated>2020-12-02T11:53:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天写了1小时代码。<br>百度前端课堂第一天。<br>接能效系统，花了很多时间在奇奇怪怪的问题上，代码量的训练太少了，新建一个vue-base-project训练。<br>今天胀肚子。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天写了1小时代码。&lt;br&gt;百度前端课堂第一天。&lt;br&gt;接能效系统，花了很多时间在奇奇怪怪的问题上，代码量的训练太少了，新建一个vue-base-project训练。&lt;br&gt;今天胀肚子。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
     
