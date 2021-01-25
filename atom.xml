@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-01-22T03:51:36.000Z</updated>
+  <updated>2021-01-25T10:22:10.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_172</title>
+    <link href="https://guangzezhu.github.io/2021/01/25/sbd-172/"/>
+    <id>https://guangzezhu.github.io/2021/01/25/sbd-172/</id>
+    <published>2021-01-25T10:16:59.000Z</published>
+    <updated>2021-01-25T10:22:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>啊啊啊，想着重构代码，太难了。<del>傻逼业务，傻逼代码</del><br>看会儿书再挑战重构。<br>今天不刷题，峡谷上分，苦练心理素质。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;啊啊啊，想着重构代码，太难了。&lt;del&gt;傻逼业务，傻逼代码&lt;/del&gt;&lt;br&gt;看会儿书再挑战重构。&lt;br&gt;今天不刷题，峡谷上分，苦练心理素质。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_171</title>
@@ -497,31 +523,6 @@
     
     
       <category term="零基础学院" scheme="https://guangzezhu.github.io/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_156</title>
-    <link href="https://guangzezhu.github.io/2020/12/04/sbd-156/"/>
-    <id>https://guangzezhu.github.io/2020/12/04/sbd-156/</id>
-    <published>2020-12-04T08:30:36.000Z</published>
-    <updated>2020-12-04T08:34:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>早起，晕车1小时，参加气象会议，等值线无果。<br>下午gaibug。<br>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;早起，晕车1小时，参加气象会议，等值线无果。&lt;br&gt;下午gaibug。&lt;br&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
