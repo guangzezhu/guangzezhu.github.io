@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-01-25T10:22:10.000Z</updated>
+  <updated>2021-01-26T01:06:40.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_173</title>
+    <link href="https://guangzezhu.github.io/2021/01/26/sbd-173/"/>
+    <id>https://guangzezhu.github.io/2021/01/26/sbd-173/</id>
+    <published>2021-01-26T01:04:15.000Z</published>
+    <updated>2021-01-26T01:06:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>调整心理素质，调整定位，上分有效果，早睡也有效果。</p><p>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;调整心理素质，调整定位，上分有效果，早睡也有效果。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_172</title>
@@ -496,33 +522,6 @@
     
     
       <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>bdc_1</title>
-    <link href="https://guangzezhu.github.io/2020/12/07/bdc-1/"/>
-    <id>https://guangzezhu.github.io/2020/12/07/bdc-1/</id>
-    <published>2020-12-07T01:53:09.000Z</published>
-    <updated>2020-12-07T05:29:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h4><ul><li>HTML是什么，HTML5是什么<ul><li>HTML是超文本标记语言</li><li>HTML5是HTML的一个规范</li></ul></li><li>HTML元素标签、属性都是什么概念？<ul><li>啊，这…</li></ul></li><li>文档类型是什么概念，起什么作用？<ul><li>啊，这…</li></ul></li><li>meta标签都用来做什么的？<ul><li>文档的不可见信息（类似于word文档的创建人、修改时间信息），可用于SEO等</li></ul></li><li>Web语义化是什么，是为了解决什么问题<ul><li>以语义元素的格式拆解自然语言，便于计算机理解/使用自然语言</li></ul></li><li>链接是什么概念，对应什么标签？<ul><li>关联内容</li><li>a、link</li></ul></li><li>常用标签都有哪些，都适合用在什么场景<ul><li>html、body、、</li><li>div、p、span</li><li>img、a、</li></ul></li><li>表单标签都有哪些，对应着什么功能，都有哪些属性<ul><li>tbody、tr、td</li></ul></li><li>ol, ul, li, dl, dd, dt等这些标签都适合用在什么地方，举个例子<ul><li>ol有序列表 order</li><li>ul无序列表</li><li>li列表项</li><li>dl、dd、dt 啊，这…</li></ul></li></ul><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><p>1、<a href="http://justineo.github.io/slideshows/semantic-html/#/" target="_blank" rel="noopener">Semantic HTML</a>：有如此多的语义化标签，开发中只经常用div、span和组件，是否要刻意使用原生语义化的html呢？</p><p>2、<a href="http://ife.baidu.com/note/detail/id/402" target="_blank" rel="noopener">对HTML语义化的理解和记录</a>：语义化html在工作上的使用和思考</p><p>3、<a href="http://ife.baidu.com/note/detail/id/395" target="_blank" rel="noopener">第二天笔记</a>：验证的“标准答案”</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h4 id=&quot;验证&quot;&gt;&lt;a href=&quot;#验证&quot; class=&quot;headerlink&quot; title=&quot;验证&quot;&gt;&lt;/a&gt;验证&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;HTML是什么，HTML5是什么&lt;ul&gt;
-&lt;li&gt;HTML是超文本标记语言&lt;/li&gt;
-&lt;li&gt;HTML5是HTML的一个规范&lt;/
-      
-    
-    </summary>
-    
-    
-    
-      <category term="零基础学院" scheme="https://guangzezhu.github.io/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/"/>
     
   </entry>
   
