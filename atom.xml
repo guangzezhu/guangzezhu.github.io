@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-01-27T10:55:58.000Z</updated>
+  <updated>2021-01-28T07:11:20.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_175</title>
+    <link href="https://guangzezhu.github.io/2021/01/28/sbd-175/"/>
+    <id>https://guangzezhu.github.io/2021/01/28/sbd-175/</id>
+    <published>2021-01-28T07:08:41.000Z</published>
+    <updated>2021-01-28T07:11:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>凤翎培训，突然觉得写vue-base-project没有什么动力了。若依、凤翎都写得很好了，自己学着写吧。<del>培训完还顺走了一瓶水，哈哈哈。</del></p><p>曾阿姨请吃豚骨面，好吃，nice。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;凤翎培训，突然觉得写vue-base-project没有什么动力了。若依、凤翎都写得很好了，自己学着写吧。&lt;del&gt;培训完还顺走了一瓶水，哈哈哈。&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;曾阿姨请吃豚骨面，好吃，nice。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_174</title>
@@ -499,33 +525,6 @@
     
     
       <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>bdc_2</title>
-    <link href="https://guangzezhu.github.io/2020/12/09/bdc-2/"/>
-    <id>https://guangzezhu.github.io/2020/12/09/bdc-2/</id>
-    <published>2020-12-09T02:17:22.000Z</published>
-    <updated>2020-12-09T08:40:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="验证（错误版）"><a href="#验证（错误版）" class="headerlink" title="验证（错误版）"></a>验证（错误版）</h3><ul><li><p>什么是CSS，CSS是如何工作的</p><ul><li>CSS 层叠样式表</li><li>浏览器简历DOM后，根据选择器分配”桶“，建立css的依赖</li><li><img src="https://mdn.mozillademos.org/files/11781/rendering.svg" alt="CSS是如何工作的"></li></ul></li><li><p>CSS的基本语法是怎样的</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">选择器 &#123;</span><br><span class="line">属性：属性值;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p>CSS选择器是什么概念，简单选择器和属性选择器是什么</p><ul><li><p>啊，zhe…  标识元素，让DOM找到这个花里胡哨的家伙？？？</p></li><li><p>简单选择器： 元素名、class、id</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">h1</span>&#123; &#125;</span><br><span class="line"><span class="selector-class">.myClass</span>&#123; &#125;</span><br><span class="line"><span class="selector-id">#myId</span>&#123; &#125;</span><br></pre></td></tr></table></figure></li><li><p>属性选择器：元素属性辅助定位，定位精度又高了一些</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">a</span><span class="selector-attr">[href]</span>&#123;</span><br><span class="line"><span class="attribute">color</span>: violet;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ul></li><li><p>文本样式都有哪些相关属性，对应哪些值</p><ul><li><p>字体</p><table><thead><tr><th>属性</th><th>说明</th></tr></thead><tbody><tr><td>font-family</td><td>字体</td></tr><tr><td>font-size</td><td>字体大小</td></tr><tr><td>font-weight</td><td>字重？？？哈哈哈，好像是字体粗细的意思</td></tr><tr><td>font-style</td><td>没什么卵用，设置是否可以斜体</td></tr><tr><td>font-indent</td><td>首行缩进</td></tr><tr><td>color</td><td>字体颜色</td></tr></tbody></table></li><li><p>文本</p><table><thead><tr><th>属性</th><th>说明</th></tr></thead><tbody><tr><td>text-algin</td><td><strong>文本</strong>对齐方式</td></tr><tr><td>text-decoration</td><td>文本装饰，可组合text-decoration-line、text-decoration-text-style、text-decoration-color（</td></tr><tr><td>text-shadow</td><td>文本阴影，（左偏移、上偏移、阴影半径、颜色） word里面的艺术就是这个吗</td></tr></tbody></table></li></ul></li></ul><h3 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h3><p>1、<a href="https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors" target="_blank" rel="noopener">MDN 类型选择器/ 使用全局选择器，让选择器更易读</a>：</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">article</span><span class="selector-pseudo">:first-child</span>&#123;</span><br><span class="line"><span class="attribute">color</span>: violet;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">article</span>: <span class="selector-tag">first-child</span>&#123;</span><br><span class="line"><span class="attribute">color</span>: violet</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><del>这是个什么鬼，为什么有个空格就不一样了，也不是选择器列表啊</del></p><p>2、<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/img" target="_blank" rel="noopener">img loading属性好像有用</a></p><blockquote><p><strong><code>loading</code></strong> </p><p>指示浏览器应当如何加载该图像。允许的值：</p><ul><li><p><code>eager</code></p><p>立即加载图像，不管它是否在可视视口（visible viewport）之外（默认值）。</p></li><li><p><code>lazy</code></p><p>延迟加载图像，直到它和视口接近到一个计算得到的距离，由浏览器定义。</p></li></ul></blockquote><h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><ul><li><a href="http://ife.baidu.com/note/detail/id/721" target="_blank" rel="noopener">百度前端技术学院(IFE)2018第三课</a>：验证的参考答案</li><li><a href="http://ife.baidu.com/note/detail/id/730" target="_blank" rel="noopener">使用字体与文本属性时的一点小技巧</a>：特殊性太容易忽略了</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;验证（错误版）&quot;&gt;&lt;a href=&quot;#验证（错误版）&quot; class=&quot;headerlink&quot; title=&quot;验证（错误版）&quot;&gt;&lt;/a&gt;验证（错误版）&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;什么是CSS，CSS是如何工作的&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CSS 层叠样式表&lt;/
-      
-    
-    </summary>
-    
-    
-    
-      <category term="零基础学院" scheme="https://guangzezhu.github.io/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/"/>
     
   </entry>
   
