@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-02-22T06:19:22.000Z</updated>
+  <updated>2021-02-22T10:34:28.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://guangzezhu.github.io/2021/02/22/sbd-180/"/>
     <id>https://guangzezhu.github.io/2021/02/22/sbd-180/</id>
     <published>2021-02-22T01:05:11.000Z</published>
-    <updated>2021-02-22T06:19:22.000Z</updated>
+    <updated>2021-02-22T10:34:28.000Z</updated>
     
-    <content type="html"><![CDATA[<p>开始上班了。</p><h5 id="记录春节假期："><a href="#记录春节假期：" class="headerlink" title="记录春节假期："></a>记录春节假期：</h5><ul><li>垃圾英雄联盟，充钱了也打不赢。</li><li>卖了十天包子，累啊。</li><li>刷了《西部世界》。</li><li>前往杭州的高铁上看了佛洛依德的《性学三论和爱情心理学》。</li><li>到杭州拿了七个快递，加湿器蛮好用的。</li></ul><p><em>tips: <a href="lixian.xunlei.com">删除迅雷下载记录的网址</a></em></p><p>repeat，repeat，repeat。</p>]]></content>
+    <content type="html"><![CDATA[<p>开始上班了。</p><h5 id="记录春节假期："><a href="#记录春节假期：" class="headerlink" title="记录春节假期："></a>记录春节假期：</h5><ul><li>垃圾英雄联盟，充钱了也打不赢。</li><li>卖了十天包子，累啊。</li><li>刷了《西部世界》。</li><li>前往杭州的高铁上看了佛洛依德的《性学三论和爱情心理学》。</li><li>到杭州拿了七个快递，加湿器蛮好用的。</li></ul><p><em>tips: <a href="lixian.xunlei.com">删除迅雷下载记录的网址</a></em></p><p><a href="https://blog.csdn.net/GoodLuck_wu5/article/details/106174148" target="_blank" rel="noopener">VUE虚拟DOM以及diff算法及key的好处</a></p><ul><li><p>因为Vue内部会发现原来的input元素跟v-else中的input相似，因此直接拿来使用了。</p><ul><li>例子在codepen上重现，在vscode+vue3上没有重现，郁闷了</li></ul></li><li><p>现在又有一个新的问题，就是将index赋值给key可以吗？</p><ul><li>index 作为 key，和没写基本上没区别（哈哈哈，之前就这么干的，天真了）</li></ul></li></ul><p>repeat，repeat，repeat。</p>]]></content>
     
     <summary type="html">
     
