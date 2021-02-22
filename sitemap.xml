@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://guangzezhu.github.io/2021/01/04/sbd-165/</loc>
+    
+    <lastmod>2021-02-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://guangzezhu.github.io/2021/02/22/sbd-180/</loc>
     
     <lastmod>2021-02-22</lastmod>
@@ -103,13 +110,6 @@
     <loc>https://guangzezhu.github.io/2021/01/05/sbd-166/</loc>
     
     <lastmod>2021-01-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://guangzezhu.github.io/2021/01/04/sbd-165/</loc>
-    
-    <lastmod>2021-01-04</lastmod>
     
   </url>
   
@@ -1363,6 +1363,13 @@
   
   <url>
     <loc>https://guangzezhu.github.io/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0-%E4%B9%A6%E5%8D%95/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
