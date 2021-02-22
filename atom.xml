@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-02-05T08:50:48.000Z</updated>
+  <updated>2021-02-22T01:09:18.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_180</title>
+    <link href="https://guangzezhu.github.io/2021/02/22/sbd-180/"/>
+    <id>https://guangzezhu.github.io/2021/02/22/sbd-180/</id>
+    <published>2021-02-22T01:05:11.000Z</published>
+    <updated>2021-02-22T01:09:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>开始上班了。</p><h5 id="记录春节假期："><a href="#记录春节假期：" class="headerlink" title="记录春节假期："></a>记录春节假期：</h5><ul><li>垃圾英雄联盟，充钱了也打不赢。</li><li>卖了十天包子，累啊。</li><li>刷了《西部世界》。</li><li>前往杭州的高铁上看了佛洛依德的《性学三论和爱情心理学》。</li><li>到杭州拿了七个快递，加湿器蛮好用的。</li></ul><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;开始上班了。&lt;/p&gt;
+&lt;h5 id=&quot;记录春节假期：&quot;&gt;&lt;a href=&quot;#记录春节假期：&quot; class=&quot;headerlink&quot; title=&quot;记录春节假期：&quot;&gt;&lt;/a&gt;记录春节假期：&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;垃圾英雄联盟，充钱了也打不赢。&lt;/li&gt;
+&lt;li&gt;卖了十天包
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_179</title>
@@ -516,32 +543,6 @@
     
     
       <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>bdc_3</title>
-    <link href="https://guangzezhu.github.io/2020/12/16/bdc-3/"/>
-    <id>https://guangzezhu.github.io/2020/12/16/bdc-3/</id>
-    <published>2020-12-16T12:30:20.000Z</published>
-    <updated>2020-12-16T12:39:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h4><ul><li>背景，边框，列表，链接相关属性<ul><li>background（background-color、background-image、、background-style）</li><li>border（border-top、border-right、border-bottom、border-left、border-top-style）</li><li>ol ul（list-style、list-style-type、list-style-image）</li><li>a:link、a:visited、a:hover、a:active</li></ul></li><li>CSS 各种选择器的概念，使用方法及使用场景<ul><li>元素选择器、类选择器、id选择器</li><li>关系选择器（继承、兄弟）</li><li>伪类、伪元素</li><li>选择器的组合不会</li></ul></li><li>CSS 选择器的优先级<ul><li>就近原则</li></ul></li></ul><h4 id="参考答案："><a href="#参考答案：" class="headerlink" title="参考答案："></a>参考答案：</h4><ul><li><a href="http://ife.baidu.com/note/detail/id/823" target="_blank" rel="noopener">day4 2018.4.27</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h4 id=&quot;验证&quot;&gt;&lt;a href=&quot;#验证&quot; class=&quot;headerlink&quot; title=&quot;验证&quot;&gt;&lt;/a&gt;验证&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;背景，边框，列表，链接相关属性&lt;ul&gt;
-&lt;li&gt;background（background-color、background-i
-      
-    
-    </summary>
-    
-    
-    
-      <category term="零基础学院" scheme="https://guangzezhu.github.io/tags/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E9%99%A2/"/>
     
   </entry>
   
