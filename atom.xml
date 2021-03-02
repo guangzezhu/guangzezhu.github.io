@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-03-01T12:16:24.000Z</updated>
+  <updated>2021-03-02T02:11:18.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_186</title>
+    <link href="https://guangzezhu.github.io/2021/03/02/sbd-186/"/>
+    <id>https://guangzezhu.github.io/2021/03/02/sbd-186/</id>
+    <published>2021-03-02T02:05:36.000Z</published>
+    <updated>2021-03-02T02:11:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>《经济学的思维方式》价格与市场:<br>资源的稀缺性/成本 – 消耗相同人力财力在其他方向上取得收益。<br>价格调控市场，无脑的经济管制尽管初衷良好，但是结果可惜。<br>不以个人意愿来分析经济，而是用系统理性。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;《经济学的思维方式》价格与市场:&lt;br&gt;资源的稀缺性/成本 – 消耗相同人力财力在其他方向上取得收益。&lt;br&gt;价格调控市场，无脑的经济管制尽管初衷良好，但是结果可惜。&lt;br&gt;不以个人意愿来分析经济，而是用系统理性。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_185</title>
@@ -511,31 +536,6 @@
 &lt;p&gt;明天可以开始springcloud了。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_166</title>
-    <link href="https://guangzezhu.github.io/2021/01/05/sbd-166/"/>
-    <id>https://guangzezhu.github.io/2021/01/05/sbd-166/</id>
-    <published>2021-01-05T11:29:58.000Z</published>
-    <updated>2021-01-05T11:36:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>早晨8：00醒，8：40出门。<br>看《毛泽东选集集》“中国革命战争的战略问题” 第一章 《如何研究战争》。<br>写vue-base-project的路由菜单生成，使用render函数递归构造，明日添加细节。</p><p>整个前端项目既看不清整体结构，又看不懂具体实现。还是要多读多写多想。</p><p>今天办公室暖风开的太大了，眼睛疼。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;早晨8：00醒，8：40出门。&lt;br&gt;看《毛泽东选集集》“中国革命战争的战略问题” 第一章 《如何研究战争》。&lt;br&gt;写vue-base-project的路由菜单生成，使用render函数递归构造，明日添加细节。&lt;/p&gt;
-&lt;p&gt;整个前端项目既看不清整体结构，又看不懂具体实现
       
     
     </summary>
