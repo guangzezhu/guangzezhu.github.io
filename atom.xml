@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-03-09T13:16:20.000Z</updated>
+  <updated>2021-03-10T13:06:40.000Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_191</title>
+    <link href="https://guangzezhu.github.io/2021/03/10/sbd-191/"/>
+    <id>https://guangzezhu.github.io/2021/03/10/sbd-191/</id>
+    <published>2021-03-10T13:04:26.000Z</published>
+    <updated>2021-03-10T13:06:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天回去没有连接向日葵。</p><p>今天要开启九十工作作息。</p><p>工作电脑VMware 安装centOS，并且联网了。</p><p>《Fullstack Vue》看完router了。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天回去没有连接向日葵。&lt;/p&gt;
+&lt;p&gt;今天要开启九十工作作息。&lt;/p&gt;
+&lt;p&gt;工作电脑VMware 安装centOS，并且联网了。&lt;/p&gt;
+&lt;p&gt;《Fullstack Vue》看完router了。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_190</title>
@@ -510,32 +539,6 @@
         &lt;p&gt;啊啊啊，想着重构代码，太难了。&lt;del&gt;傻逼业务，傻逼代码&lt;/del&gt;&lt;br&gt;看会儿书再挑战重构。&lt;br&gt;今天不刷题，峡谷上分，苦练心理素质。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_171</title>
-    <link href="https://guangzezhu.github.io/2021/01/22/sbd-171/"/>
-    <id>https://guangzezhu.github.io/2021/01/22/sbd-171/</id>
-    <published>2021-01-22T03:42:56.000Z</published>
-    <updated>2021-01-22T03:51:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>匆匆读完《修改 软件的艺术 构建宜维护代码的九条建议》。这本书真的是建议，从软件开发的大局角度看待软件，辨析软件开发的管理理论、编码方式。而开发编码上的建议较少。收获是 “风机损失发电量”必须要重构。</p><p>如何重构，再看看《重构 改善代码的既有设计》。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;匆匆读完《修改 软件的艺术 构建宜维护代码的九条建议》。这本书真的是建议，从软件开发的大局角度看待软件，辨析软件开发的管理理论、编码方式。而开发编码上的建议较少。收获是 “风机损失发电量”必须要重构。&lt;/p&gt;
-&lt;p&gt;如何重构，再看看《重构 改善代码的既有设计》。&lt;/p&gt;
-&lt;
       
     
     </summary>
