@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-03-23T04:51:49.271Z</updated>
+  <updated>2021-03-24T14:40:42.893Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_195</title>
+    <link href="https://guangzezhu.github.io/2021/03/24/sbd-195/"/>
+    <id>https://guangzezhu.github.io/2021/03/24/sbd-195/</id>
+    <published>2021-03-24T14:38:26.000Z</published>
+    <updated>2021-03-24T14:40:42.893Z</updated>
+    
+    <content type="html"><![CDATA[<p>一段时间没写傻逼日记，书也不看，山也不爬，代码也不会写了。</p><p>昏昏成成得写了一天“缩略图轮播”，最后直接拿强得代码用。多学习。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;一段时间没写傻逼日记，书也不看，山也不爬，代码也不会写了。&lt;/p&gt;
+&lt;p&gt;昏昏成成得写了一天“缩略图轮播”，最后直接拿强得代码用。多学习。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_194</title>
@@ -512,32 +539,6 @@
       
         &lt;p&gt;扫盲：措置裕如，形容从容不迫，很有办法的样子。“在所谓国名党偏师说的指导下，使得反对第四次“围剿”丧失了措置裕如的能力的事实。&lt;/p&gt;
 &lt;p&gt;You don’t need to read it cover to cover to learn about these topi
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_175</title>
-    <link href="https://guangzezhu.github.io/2021/01/28/sbd-175/"/>
-    <id>https://guangzezhu.github.io/2021/01/28/sbd-175/</id>
-    <published>2021-01-28T07:08:41.000Z</published>
-    <updated>2021-01-28T07:19:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>凤翎培训，突然觉得写vue-base-project没有什么动力了。若依、凤翎都写得很好了，自己学着写吧。<del>培训完还顺走了一瓶水，哈哈哈。</del></p><p>曾阿姨请吃豚骨面，好吃，nice。</p><p>老代码难懂是常事，强也遇到了，工程项目管理修改bug时阻力蛮大的。之前觉得软件开发容易，真实天真啊。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;凤翎培训，突然觉得写vue-base-project没有什么动力了。若依、凤翎都写得很好了，自己学着写吧。&lt;del&gt;培训完还顺走了一瓶水，哈哈哈。&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;曾阿姨请吃豚骨面，好吃，nice。&lt;/p&gt;
-&lt;p&gt;老代码难懂是常事，强也遇到了，工程项目管理修改bu
       
     
     </summary>
