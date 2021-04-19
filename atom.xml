@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-04-16T09:44:07.639Z</updated>
+  <updated>2021-04-19T12:32:15.324Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_200</title>
+    <link href="https://guangzezhu.github.io/2021/04/19/sbd-200/"/>
+    <id>https://guangzezhu.github.io/2021/04/19/sbd-200/</id>
+    <published>2021-04-19T00:52:30.000Z</published>
+    <updated>2021-04-19T12:32:15.324Z</updated>
+    
+    <content type="html"><![CDATA[<p>《神盾局特工》刷到第七季了。刷剧的时候“海马效应”明显，先好好休息再刷剧。</p><p>初中政治谈对个人的评价：自我评价、他人评价、社会评价。</p><p>周末打LOL会一直被虐，个人技术菜 + 周末喜欢打游戏的人放假了（专业的人来了:)）;<br>蔡在要回南京的那个周五下午，会变得狂躁、故意找茬。</p><p>《Javascript Professional for web developers》还在继续。</p><p>不要作，善养浩然正气。</p><p>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;《神盾局特工》刷到第七季了。刷剧的时候“海马效应”明显，先好好休息再刷剧。&lt;/p&gt;
+&lt;p&gt;初中政治谈对个人的评价：自我评价、他人评价、社会评价。&lt;/p&gt;
+&lt;p&gt;周末打LOL会一直被虐，个人技术菜 + 周末喜欢打游戏的人放假了（专业的人来了:)）;&lt;br&gt;蔡在要回南京的那个周
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_199</title>
@@ -514,33 +540,6 @@
       
         &lt;p&gt;昨天逛了浙江财经大学校园，发现一处羽毛球馆，不了解营业情况；&lt;br&gt;购入登上鞋裤，周末走十里锒铛。&lt;br&gt;《Fullstack vue》看了一点，有Vue3.x的内容，值了。&lt;/p&gt;
 &lt;p&gt;kindle下单《三体》 &lt;del&gt;上一本还没看完，下单太快破坏看书欲望&lt;/del&gt;
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_180</title>
-    <link href="https://guangzezhu.github.io/2021/02/22/sbd-180/"/>
-    <id>https://guangzezhu.github.io/2021/02/22/sbd-180/</id>
-    <published>2021-02-22T01:05:11.000Z</published>
-    <updated>2021-02-22T10:34:28.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>开始上班了。</p><h5 id="记录春节假期："><a href="#记录春节假期：" class="headerlink" title="记录春节假期："></a>记录春节假期：</h5><ul><li>垃圾英雄联盟，充钱了也打不赢。</li><li>卖了十天包子，累啊。</li><li>刷了《西部世界》。</li><li>前往杭州的高铁上看了佛洛依德的《性学三论和爱情心理学》。</li><li>到杭州拿了七个快递，加湿器蛮好用的。</li></ul><p><em>tips: <a href="lixian.xunlei.com">删除迅雷下载记录的网址</a></em></p><p><a href="https://blog.csdn.net/GoodLuck_wu5/article/details/106174148" target="_blank" rel="noopener">VUE虚拟DOM以及diff算法及key的好处</a></p><ul><li><p>因为Vue内部会发现原来的input元素跟v-else中的input相似，因此直接拿来使用了。</p><ul><li>例子在codepen上重现，在vscode+vue3上没有重现，郁闷了</li></ul></li><li><p>现在又有一个新的问题，就是将index赋值给key可以吗？</p><ul><li>index 作为 key，和没写基本上没区别（哈哈哈，之前就这么干的，天真了）</li></ul></li></ul><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;开始上班了。&lt;/p&gt;
-&lt;h5 id=&quot;记录春节假期：&quot;&gt;&lt;a href=&quot;#记录春节假期：&quot; class=&quot;headerlink&quot; title=&quot;记录春节假期：&quot;&gt;&lt;/a&gt;记录春节假期：&lt;/h5&gt;&lt;ul&gt;
-&lt;li&gt;垃圾英雄联盟，充钱了也打不赢。&lt;/li&gt;
-&lt;li&gt;卖了十天包
       
     
     </summary>
