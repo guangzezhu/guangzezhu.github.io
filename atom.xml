@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-04-28T07:59:18.597Z</updated>
+  <updated>2021-04-29T12:00:07.644Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_209</title>
+    <link href="https://guangzezhu.github.io/2021/04/29/sbd-209/"/>
+    <id>https://guangzezhu.github.io/2021/04/29/sbd-209/</id>
+    <published>2021-04-29T00:18:57.000Z</published>
+    <updated>2021-04-29T12:00:07.644Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨晚精神杠杠的，四五点才睡着，早晨七点半闹钟惊醒。</p><p>脚，蜕皮严重，好丑啊。</p><p>浏览《Javascript高级程序设计》代理与反射，虽然Vue3用proxy实现动态绑定，感觉在我的开发中用不到哎，留着在《你不知道的javascript》里思考吧。</p><p>垃圾闭包，垃圾私有变量，看两行就头晕，跳过跳过。<br>不学了，不学了，函数、期约与异步函数看的头疼，没耐心。</p><p>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨晚精神杠杠的，四五点才睡着，早晨七点半闹钟惊醒。&lt;/p&gt;
+&lt;p&gt;脚，蜕皮严重，好丑啊。&lt;/p&gt;
+&lt;p&gt;浏览《Javascript高级程序设计》代理与反射，虽然Vue3用proxy实现动态绑定，感觉在我的开发中用不到哎，留着在《你不知道的javascript》里思考吧。&lt;/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_208</title>
@@ -515,34 +541,6 @@
       
         &lt;p&gt;写了一下午的Java Socket：从缓冲区中解析字节流。&lt;/p&gt;
 &lt;h4 id=&quot;Package-java&quot;&gt;&lt;a href=&quot;#Package-java&quot; class=&quot;headerlink&quot; title=&quot;Package.java&quot;&gt;&lt;/a&gt;Package.java&lt;
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_189</title>
-    <link href="https://guangzezhu.github.io/2021/03/05/sbd-189/"/>
-    <id>https://guangzezhu.github.io/2021/03/05/sbd-189/</id>
-    <published>2021-03-05T07:07:41.000Z</published>
-    <updated>2021-03-05T07:11:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>中午刷B站，想看《哥斯拉2：怪兽之王》。</p><p>下午看《Fullstack Vue》一个bug好久解决不掉，喝杯水，吃块蛋白棒发现拼写错误。</p><p>gs66下单还没发货，买过的最贵的东西了。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;中午刷B站，想看《哥斯拉2：怪兽之王》。&lt;/p&gt;
-&lt;p&gt;下午看《Fullstack Vue》一个bug好久解决不掉，喝杯水，吃块蛋白棒发现拼写错误。&lt;/p&gt;
-&lt;p&gt;gs66下单还没发货，买过的最贵的东西了。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
