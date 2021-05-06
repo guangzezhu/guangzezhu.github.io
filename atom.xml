@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-04-30T09:55:22.690Z</updated>
+  <updated>2021-05-06T11:52:51.848Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_211</title>
+    <link href="https://guangzezhu.github.io/2021/05/06/sbd-211/"/>
+    <id>https://guangzezhu.github.io/2021/05/06/sbd-211/</id>
+    <published>2021-05-06T01:34:11.000Z</published>
+    <updated>2021-05-06T11:52:51.848Z</updated>
+    
+    <content type="html"><![CDATA[<p>五一假期刷一波优酷《亮剑》，开始读《陶欣伯的人生小故事》。</p><p>假期生活费超标，接下来生活节省一点，体重也要管理起来。</p><p>生物钟没有调整过来，早晨睡了3个小时，两个枕头枕得头痛。</p><p>上周军工梭哈成功，但是梭哈养老亏了。</p><p>看完《怪诞行为学：非理性行为》。</p><p>继续看B站-黑马程序员基础知识-Javascript核心课程，dom遍历和排他思想。</p><p>控制花销，呜呜呜。</p><p>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;五一假期刷一波优酷《亮剑》，开始读《陶欣伯的人生小故事》。&lt;/p&gt;
+&lt;p&gt;假期生活费超标，接下来生活节省一点，体重也要管理起来。&lt;/p&gt;
+&lt;p&gt;生物钟没有调整过来，早晨睡了3个小时，两个枕头枕得头痛。&lt;/p&gt;
+&lt;p&gt;上周军工梭哈成功，但是梭哈养老亏了。&lt;/p&gt;
+&lt;p&gt;看完《
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_210</title>
@@ -513,35 +541,6 @@
       
         &lt;p&gt;昨晚用向日葵连接公司电脑失败，电脑关机。不休眠也不能连接。&lt;/p&gt;
 &lt;p&gt;下午开始看msc-map，写的好全啊；晚上回去拿键盘，集成到command中。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_191</title>
-    <link href="https://guangzezhu.github.io/2021/03/10/sbd-191/"/>
-    <id>https://guangzezhu.github.io/2021/03/10/sbd-191/</id>
-    <published>2021-03-10T13:04:26.000Z</published>
-    <updated>2021-03-10T13:06:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨天回去没有连接向日葵。</p><p>今天要开启九十工作作息。</p><p>工作电脑VMware 安装centOS，并且联网了。</p><p>《Fullstack Vue》看完router了。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;昨天回去没有连接向日葵。&lt;/p&gt;
-&lt;p&gt;今天要开启九十工作作息。&lt;/p&gt;
-&lt;p&gt;工作电脑VMware 安装centOS，并且联网了。&lt;/p&gt;
-&lt;p&gt;《Fullstack Vue》看完router了。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
