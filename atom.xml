@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-07T12:10:43.211Z</updated>
+  <updated>2021-05-07T12:21:00.472Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://guangzezhu.github.io/2021/05/07/sbd-212/"/>
     <id>https://guangzezhu.github.io/2021/05/07/sbd-212/</id>
     <published>2021-05-07T11:41:15.000Z</published>
-    <updated>2021-05-07T12:10:43.211Z</updated>
+    <updated>2021-05-07T12:21:00.472Z</updated>
     
-    <content type="html"><![CDATA[<p>刷Pink的Javascript视频，学习DOM、事件（捕获、触发、冒泡；阻止默认事件、阻止冒泡事件；事件委托）。</p><p>数娱楼下跳绳 100个，累死，写日报，回宿舍。</p><p>repeat，repeat，repeat。</p>]]></content>
+    <content type="html"><![CDATA[<p>刷Pink的Javascript视频，学习DOM、事件（捕获、触发、冒泡；阻止默认事件、阻止冒泡事件；事件委托）。</p><p>数娱楼下跳绳 100个，累死，写日报，回宿舍。</p><p>船袜沉底。</p><p>repeat，repeat，repeat。</p>]]></content>
     
     <summary type="html">
     
@@ -31,6 +31,7 @@
       
         &lt;p&gt;刷Pink的Javascript视频，学习DOM、事件（捕获、触发、冒泡；阻止默认事件、阻止冒泡事件；事件委托）。&lt;/p&gt;
 &lt;p&gt;数娱楼下跳绳 100个，累死，写日报，回宿舍。&lt;/p&gt;
+&lt;p&gt;船袜沉底。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
