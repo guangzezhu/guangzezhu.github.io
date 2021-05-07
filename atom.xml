@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-06T11:52:51.848Z</updated>
+  <updated>2021-05-07T12:10:43.211Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_212</title>
+    <link href="https://guangzezhu.github.io/2021/05/07/sbd-212/"/>
+    <id>https://guangzezhu.github.io/2021/05/07/sbd-212/</id>
+    <published>2021-05-07T11:41:15.000Z</published>
+    <updated>2021-05-07T12:10:43.211Z</updated>
+    
+    <content type="html"><![CDATA[<p>刷Pink的Javascript视频，学习DOM、事件（捕获、触发、冒泡；阻止默认事件、阻止冒泡事件；事件委托）。</p><p>数娱楼下跳绳 100个，累死，写日报，回宿舍。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;刷Pink的Javascript视频，学习DOM、事件（捕获、触发、冒泡；阻止默认事件、阻止冒泡事件；事件委托）。&lt;/p&gt;
+&lt;p&gt;数娱楼下跳绳 100个，累死，写日报，回宿舍。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_211</title>
@@ -516,33 +543,6 @@
 &lt;p&gt;昨夜安装win10 + ubuntu双系统，舒服了。&lt;/p&gt;
 &lt;p&gt;给老妈买了红米note 9.&lt;/p&gt;
 &lt;p&gt;repeat，repea
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_192</title>
-    <link href="https://guangzezhu.github.io/2021/03/11/sbd-192/"/>
-    <id>https://guangzezhu.github.io/2021/03/11/sbd-192/</id>
-    <published>2021-03-11T01:23:59.000Z</published>
-    <updated>2021-03-11T09:54:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨晚用向日葵连接公司电脑失败，电脑关机。不休眠也不能连接。</p><p>下午开始看msc-map，写的好全啊；晚上回去拿键盘，集成到command中。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;昨晚用向日葵连接公司电脑失败，电脑关机。不休眠也不能连接。&lt;/p&gt;
-&lt;p&gt;下午开始看msc-map，写的好全啊；晚上回去拿键盘，集成到command中。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
