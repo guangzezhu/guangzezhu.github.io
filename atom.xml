@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-09T11:42:35.233Z</updated>
+  <updated>2021-05-10T12:51:55.152Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_215</title>
+    <link href="https://guangzezhu.github.io/2021/05/10/sbd-215/"/>
+    <id>https://guangzezhu.github.io/2021/05/10/sbd-215/</id>
+    <published>2021-05-10T12:50:59.000Z</published>
+    <updated>2021-05-10T12:51:55.152Z</updated>
+    
+    <content type="html"><![CDATA[<p>傻逼LOL，石头人真好玩。</p><p>读《胡适的留学日记》二、三卷。</p><p>改bug。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;傻逼LOL，石头人真好玩。&lt;/p&gt;
+&lt;p&gt;读《胡适的留学日记》二、三卷。&lt;/p&gt;
+&lt;p&gt;改bug。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_214</title>
@@ -517,33 +545,6 @@
         &lt;p&gt;B站看了《王德峰 哲学课》：应无所住，而生其心。&lt;/p&gt;
 &lt;p&gt;下午，蔡探得gs66，不知福祸。&lt;/p&gt;
 &lt;p&gt;代码搞起来，go，go，go。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_195</title>
-    <link href="https://guangzezhu.github.io/2021/03/24/sbd-195/"/>
-    <id>https://guangzezhu.github.io/2021/03/24/sbd-195/</id>
-    <published>2021-03-24T14:38:26.000Z</published>
-    <updated>2021-03-24T14:40:42.893Z</updated>
-    
-    <content type="html"><![CDATA[<p>一段时间没写傻逼日记，书也不看，山也不爬，代码也不会写了。</p><p>昏昏成成得写了一天“缩略图轮播”，最后直接拿强得代码用。多学习。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;一段时间没写傻逼日记，书也不看，山也不爬，代码也不会写了。&lt;/p&gt;
-&lt;p&gt;昏昏成成得写了一天“缩略图轮播”，最后直接拿强得代码用。多学习。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
