@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-11T11:16:12.267Z</updated>
+  <updated>2021-05-12T12:00:09.979Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_217</title>
+    <link href="https://guangzezhu.github.io/2021/05/12/sbd-217/"/>
+    <id>https://guangzezhu.github.io/2021/05/12/sbd-217/</id>
+    <published>2021-05-12T02:46:20.000Z</published>
+    <updated>2021-05-12T12:00:09.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>好巧，COLD BREW COFFEE 的包装字体由“字魄网”提供，昨天才用了字魄网的东西。</p><p>今天遇到 同一个域名下部署两套系统，要使用两套登录，localStorage改动很大；想到工程项目管理系统使用的Vue.ls或许就是为了解决这个问题。以前的多余操作竟是为了解决特定需求。</p><p>温习《0 experp - Professional Javascript for web developers》。</p><p>webpack中文官网学习，管理输出、开发环境、代码分离。代码分离开始，webpack-demo结构混乱了，缓存部分开局不顺。</p><p>LOL要开始连败了，LOL垃圾游戏机制。</p><p>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;好巧，COLD BREW COFFEE 的包装字体由“字魄网”提供，昨天才用了字魄网的东西。&lt;/p&gt;
+&lt;p&gt;今天遇到 同一个域名下部署两套系统，要使用两套登录，localStorage改动很大；想到工程项目管理系统使用的Vue.ls或许就是为了解决这个问题。以前的多余操作竟
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_216</title>
@@ -519,33 +544,6 @@
         &lt;p&gt;上周刷剧《神盾局特工》。&lt;/p&gt;
 &lt;p&gt;看《Professional Javascript for web developers》，经典的东西除了费时间其他没毛病。英文看的慢，不能指望一遍通读，只求每次能解惑宽心即可。&lt;/p&gt;
 &lt;p&gt;钱真的是好东西，有的人会很爱钱，所以可以
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_197</title>
-    <link href="https://guangzezhu.github.io/2021/04/01/sbd-197/"/>
-    <id>https://guangzezhu.github.io/2021/04/01/sbd-197/</id>
-    <published>2021-04-01T07:38:14.000Z</published>
-    <updated>2021-04-01T11:55:16.160Z</updated>
-    
-    <content type="html"><![CDATA[<p>节日快乐。He is a foolish that forgot himself.</p><p>《FullStack VUE》到了测试章看不下去了，想要结束这本书，又想完整地看玩一本英文技术书籍。</p><p>《21天学通C++》再等等吧。</p><p>这几天巨困，溜了溜了。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;节日快乐。He is a foolish that forgot himself.&lt;/p&gt;
-&lt;p&gt;《FullStack VUE》到了测试章看不下去了，想要结束这本书，又想完整地看玩一本英文技术书籍。&lt;/p&gt;
-&lt;p&gt;《21天学通C++》再等等吧。&lt;/p&gt;
-&lt;p&gt;这几天巨困，溜
       
     
     </summary>
