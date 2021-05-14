@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-12T12:00:09.979Z</updated>
+  <updated>2021-05-14T00:57:46.267Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_218</title>
+    <link href="https://guangzezhu.github.io/2021/05/13/sbd-218/"/>
+    <id>https://guangzezhu.github.io/2021/05/13/sbd-218/</id>
+    <published>2021-05-13T00:53:21.000Z</published>
+    <updated>2021-05-14T00:57:46.267Z</updated>
+    
+    <content type="html"><![CDATA[<p>上午困，写cesium地图混日子。</p><p>练习使用vue.config.js + webpack + cesium。</p><p>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;上午困，写cesium地图混日子。&lt;/p&gt;
+&lt;p&gt;练习使用vue.config.js + webpack + cesium。&lt;/p&gt;
+&lt;p&gt;repeat, repeat, repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_217</title>
@@ -518,32 +545,6 @@
 &lt;p&gt;《神盾局特工》刷到第四季，刷不动了，先打会儿游戏再刷。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_198</title>
-    <link href="https://guangzezhu.github.io/2021/04/12/sbd-198/"/>
-    <id>https://guangzezhu.github.io/2021/04/12/sbd-198/</id>
-    <published>2021-04-12T11:45:56.000Z</published>
-    <updated>2021-04-12T11:54:06.190Z</updated>
-    
-    <content type="html"><![CDATA[<p>上周刷剧《神盾局特工》。</p><p>看《Professional Javascript for web developers》，经典的东西除了费时间其他没毛病。英文看的慢，不能指望一遍通读，只求每次能解惑宽心即可。</p><p>钱真的是好东西，有的人会很爱钱，所以可以避免很多糟心事。太搞了，为什么努力挣钱，因为别人喜欢钱，这种喜欢就有转移到具体人的可能性。</p><p>刷了一题牛客Javascript，感觉还行。多看代码，多感悟。</p><p>开发任务紧得狠，几个开发团队已经开始不考虑代码维护了，全力跑通功能，要崩盘得感觉。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;上周刷剧《神盾局特工》。&lt;/p&gt;
-&lt;p&gt;看《Professional Javascript for web developers》，经典的东西除了费时间其他没毛病。英文看的慢，不能指望一遍通读，只求每次能解惑宽心即可。&lt;/p&gt;
-&lt;p&gt;钱真的是好东西，有的人会很爱钱，所以可以
       
     
     </summary>
