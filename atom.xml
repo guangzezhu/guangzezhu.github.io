@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-14T13:15:49.952Z</updated>
+  <updated>2021-05-15T14:11:17.308Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_220</title>
+    <link href="https://guangzezhu.github.io/2021/05/15/sbd-220/"/>
+    <id>https://guangzezhu.github.io/2021/05/15/sbd-220/</id>
+    <published>2021-05-15T13:46:37.000Z</published>
+    <updated>2021-05-15T14:11:17.308Z</updated>
+    
+    <content type="html"><![CDATA[<p>下午吃鸡一直输。</p><p>晚上到公司排查command-owind bug，发现是配置文件多了一个空格。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;下午吃鸡一直输。&lt;/p&gt;
+&lt;p&gt;晚上到公司排查command-owind bug，发现是配置文件多了一个空格。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_219</title>
@@ -520,32 +547,6 @@
 &lt;p&gt;小腿抽筋。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_200</title>
-    <link href="https://guangzezhu.github.io/2021/04/19/sbd-200/"/>
-    <id>https://guangzezhu.github.io/2021/04/19/sbd-200/</id>
-    <published>2021-04-19T00:52:30.000Z</published>
-    <updated>2021-04-19T12:32:15.324Z</updated>
-    
-    <content type="html"><![CDATA[<p>《神盾局特工》刷到第七季了。刷剧的时候“海马效应”明显，先好好休息再刷剧。</p><p>初中政治谈对个人的评价：自我评价、他人评价、社会评价。</p><p>周末打LOL会一直被虐，个人技术菜 + 周末喜欢打游戏的人放假了（专业的人来了:)）;<br>蔡在要回南京的那个周五下午，会变得狂躁、故意找茬。</p><p>《Javascript Professional for web developers》还在继续。</p><p>不要作，善养浩然正气。</p><p>repeat，repeat，repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;《神盾局特工》刷到第七季了。刷剧的时候“海马效应”明显，先好好休息再刷剧。&lt;/p&gt;
-&lt;p&gt;初中政治谈对个人的评价：自我评价、他人评价、社会评价。&lt;/p&gt;
-&lt;p&gt;周末打LOL会一直被虐，个人技术菜 + 周末喜欢打游戏的人放假了（专业的人来了:)）;&lt;br&gt;蔡在要回南京的那个周
       
     
     </summary>
