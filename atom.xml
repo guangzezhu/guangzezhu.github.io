@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-15T14:11:17.308Z</updated>
+  <updated>2021-05-16T13:52:03.684Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_221</title>
+    <link href="https://guangzezhu.github.io/2021/05/16/sbd-221/"/>
+    <id>https://guangzezhu.github.io/2021/05/16/sbd-221/</id>
+    <published>2021-05-16T13:50:58.000Z</published>
+    <updated>2021-05-16T13:52:03.684Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天真的傻逼了，mcs的单点登录耽误了一整天，对不起大家。</p><p>好饿。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天真的傻逼了，mcs的单点登录耽误了一整天，对不起大家。&lt;/p&gt;
+&lt;p&gt;好饿。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_220</title>
@@ -520,33 +547,6 @@
       
         &lt;p&gt;学习《Javascript高级程序设计》，从第五章开始看中文版了，囫囵吞枣。&lt;/p&gt;
 &lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_201</title>
-    <link href="https://guangzezhu.github.io/2021/04/20/sbd-201/"/>
-    <id>https://guangzezhu.github.io/2021/04/20/sbd-201/</id>
-    <published>2021-04-20T11:43:11.000Z</published>
-    <updated>2021-04-20T12:53:00.125Z</updated>
-    
-    <content type="html"><![CDATA[<p>发工资了，美滋滋。这次存到微信里，余额宝放生活费。</p><p>小腿抽筋。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;发工资了，美滋滋。这次存到微信里，余额宝放生活费。&lt;/p&gt;
-&lt;p&gt;小腿抽筋。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
