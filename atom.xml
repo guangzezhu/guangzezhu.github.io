@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-16T13:52:03.684Z</updated>
+  <updated>2021-05-17T12:42:00.258Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_222</title>
+    <link href="https://guangzezhu.github.io/2021/05/17/sbd-222/"/>
+    <id>https://guangzezhu.github.io/2021/05/17/sbd-222/</id>
+    <published>2021-05-17T05:58:00.000Z</published>
+    <updated>2021-05-17T12:42:00.258Z</updated>
+    
+    <content type="html"><![CDATA[<p>看了《大决战》的行军路线，碾庄不就是“拿五吨炮弹换下李云龙”吗。</p><p>刷到《四库全书》的微博，得好好想想为什么”看书“了，现在是为了”一年看几本书“而看书，太无语了。</p><p>应当减少生活的阻力，而不是没有困难创造困难。</p><p>几个项目要在每个地方部署一套，怎么设计快速有序的系统部署流程呢，什么设计模式可以满足这种需求呢？</p><p>repeat，repeat，repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;看了《大决战》的行军路线，碾庄不就是“拿五吨炮弹换下李云龙”吗。&lt;/p&gt;
+&lt;p&gt;刷到《四库全书》的微博，得好好想想为什么”看书“了，现在是为了”一年看几本书“而看书，太无语了。&lt;/p&gt;
+&lt;p&gt;应当减少生活的阻力，而不是没有困难创造困难。&lt;/p&gt;
+&lt;p&gt;几个项目要在每个地方部
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_221</title>
@@ -522,31 +549,6 @@
 &lt;p&gt;刷知乎。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h1 id=&quot;寻常百姓家孩子是不是不适宜学习艺术？&quot;&gt;&lt;a href=&quot;#寻常百姓家孩子是不是不适宜学习艺术？&quot; 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_202</title>
-    <link href="https://guangzezhu.github.io/2021/04/21/sbd-202/"/>
-    <id>https://guangzezhu.github.io/2021/04/21/sbd-202/</id>
-    <published>2021-04-21T12:44:38.000Z</published>
-    <updated>2021-04-21T12:48:20.155Z</updated>
-    
-    <content type="html"><![CDATA[<p>学习《Javascript高级程序设计》，从第五章开始看中文版了，囫囵吞枣。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">myGenerator</span>(<span class="params">n</span>)  </span>&#123;</span><br><span class="line">  <span class="keyword">if</span>(n &gt; <span class="number">0</span>) &#123;</span><br><span class="line">    <span class="keyword">yield</span>* myGenerator(n<span class="number">-1</span>)</span><br><span class="line">    <span class="keyword">yield</span> n<span class="number">-1</span></span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">const</span> item <span class="keyword">of</span> myGenerator(<span class="number">3</span>)) &#123;</span><br><span class="line">  <span class="built_in">console</span>.log(item);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>早休息。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;学习《Javascript高级程序设计》，从第五章开始看中文版了，囫囵吞枣。&lt;/p&gt;
-&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/
       
     
     </summary>
