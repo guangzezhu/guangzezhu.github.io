@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-24T11:51:21.602Z</updated>
+  <updated>2021-05-25T12:16:15.435Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_226</title>
+    <link href="https://guangzezhu.github.io/2021/05/25/sbd-226/"/>
+    <id>https://guangzezhu.github.io/2021/05/25/sbd-226/</id>
+    <published>2021-05-25T11:56:17.000Z</published>
+    <updated>2021-05-25T12:16:15.435Z</updated>
+    
+    <content type="html"><![CDATA[<p>mini-mcs-web写完了，工程云部署时遇到VUE_APP_FILE_APP无法使用的问题，可能又是config.js的问题。</p><p>upm进行https升级，翁的项目和upm的前端项目结构都是一个模子刻出来的。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;mini-mcs-web写完了，工程云部署时遇到VUE_APP_FILE_APP无法使用的问题，可能又是config.js的问题。&lt;/p&gt;
+&lt;p&gt;upm进行https升级，翁的项目和upm的前端项目结构都是一个模子刻出来的。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，rep
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_225</title>
@@ -524,34 +550,6 @@
 &lt;p&gt;停止收藏，爱自己。&lt;/p&gt;
 &lt;p&gt;刷知乎刷出了技术热情，“videojs”，冷静点，乖乖摸鱼。&lt;/p&gt;
 &lt;p&gt;翻看《西方美术简史》，对宗教不感兴趣，文艺复兴时期对人体的绘
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_206</title>
-    <link href="https://guangzezhu.github.io/2021/04/26/sbd-206/"/>
-    <id>https://guangzezhu.github.io/2021/04/26/sbd-206/</id>
-    <published>2021-04-26T02:31:53.000Z</published>
-    <updated>2021-04-26T11:19:06.817Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨天睡得好爽，19:00~7:40。</p><p>那个早晨喊“阿门”的傻逼开始喊林徽因的文章了，早晨7点打鸡血。</p><p>蔡请吃小龙虾，香辣味的。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;昨天睡得好爽，19:00~7:40。&lt;/p&gt;
-&lt;p&gt;那个早晨喊“阿门”的傻逼开始喊林徽因的文章了，早晨7点打鸡血。&lt;/p&gt;
-&lt;p&gt;蔡请吃小龙虾，香辣味的。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
       
     
     </summary>
