@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-25T12:16:15.435Z</updated>
+  <updated>2021-05-26T10:57:22.682Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_227</title>
+    <link href="https://guangzezhu.github.io/2021/05/26/sbd-227/"/>
+    <id>https://guangzezhu.github.io/2021/05/26/sbd-227/</id>
+    <published>2021-05-26T10:55:00.000Z</published>
+    <updated>2021-05-26T10:57:22.682Z</updated>
+    
+    <content type="html"><![CDATA[<p>修改mini-mcs-web，使用filemanager-webpack-plugin压缩的mcs.zip 比 7zip压缩的mcs.zip大。</p><p>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;修改mini-mcs-web，使用filemanager-webpack-plugin压缩的mcs.zip 比 7zip压缩的mcs.zip大。&lt;/p&gt;
+&lt;p&gt;repeat, repeat, repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_226</title>
@@ -522,34 +548,6 @@
       
         &lt;h4 id=&quot;有趣的Number-parseInt&quot;&gt;&lt;a href=&quot;#有趣的Number-parseInt&quot; class=&quot;headerlink&quot; title=&quot;有趣的Number.parseInt()&quot;&gt;&lt;/a&gt;有趣的Number.parseInt()&lt;/h4&gt;&lt;ol&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_207</title>
-    <link href="https://guangzezhu.github.io/2021/04/27/sbd-207/"/>
-    <id>https://guangzezhu.github.io/2021/04/27/sbd-207/</id>
-    <published>2021-04-27T00:51:19.000Z</published>
-    <updated>2021-04-27T11:35:33.126Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨日犯错，删了一行傻逼日记，可恶。</p><p>《经济学的思维方式》看不下去了，弃坑。</p><p>停止收藏，爱自己。</p><p>刷知乎刷出了技术热情，“videojs”，冷静点，乖乖摸鱼。</p><p>翻看《西方美术简史》，对宗教不感兴趣，文艺复兴时期对人体的绘画还是狠直观的；<br>摸鱼的时候看完这本书，《微笑的骑士》在《艺术的故事》中看到过；<br>《雅典红绘盘》没看清腿上绑着的是什么。</p><figure class="highlight lsl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">parseInt(<span class="number">0.00000000005</span>)   === <span class="number">5</span></span><br><span class="line">parseInt(<span class="string">"0.00000000005"</span>) === <span class="number">0</span></span><br></pre></td></tr></table></figure><p>早晨喊麦的傻逼，晚上也开始喊麦了，脑子有大病。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;昨日犯错，删了一行傻逼日记，可恶。&lt;/p&gt;
-&lt;p&gt;《经济学的思维方式》看不下去了，弃坑。&lt;/p&gt;
-&lt;p&gt;停止收藏，爱自己。&lt;/p&gt;
-&lt;p&gt;刷知乎刷出了技术热情，“videojs”，冷静点，乖乖摸鱼。&lt;/p&gt;
-&lt;p&gt;翻看《西方美术简史》，对宗教不感兴趣，文艺复兴时期对人体的绘
       
     
     </summary>
