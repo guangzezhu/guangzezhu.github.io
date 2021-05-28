@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-26T10:57:22.682Z</updated>
+  <updated>2021-05-27T07:56:59.845Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_228</title>
+    <link href="https://guangzezhu.github.io/2021/05/27/sbd-228/"/>
+    <id>https://guangzezhu.github.io/2021/05/27/sbd-228/</id>
+    <published>2021-05-27T02:05:03.000Z</published>
+    <updated>2021-05-27T07:56:59.845Z</updated>
+    
+    <content type="html"><![CDATA[<p>前端/static/config.js的方式切换部署环境很方面，但是有可能意外地暴露其他部署环境。这种偷懒方式有安全风险，还是少用。</p><p>尽可能少地暴露多余配置，只能大在打包时就提出冗余信息。按照这个想法，之前在config/config.js中注释行为，也是会暴露额外信息。</p><p>VirtualBox颜值低，能力强。</p><p>用”薄荷健康“计算每天吃1629千卡，感觉还是能吃很多东西地，可惜昨晚吃了欺骗餐。</p><p>知乎：”什么国色天香，具是粉骷髅罢了。“ 啊，早悟兰因。</p><p>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前端/static/config.js的方式切换部署环境很方面，但是有可能意外地暴露其他部署环境。这种偷懒方式有安全风险，还是少用。&lt;/p&gt;
+&lt;p&gt;尽可能少地暴露多余配置，只能大在打包时就提出冗余信息。按照这个想法，之前在config/config.js中注释行为，也是会暴
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_227</title>
@@ -523,31 +548,6 @@
         &lt;p&gt;昨晚精神杠杠的，四五点才睡着，早晨七点半闹钟惊醒。&lt;/p&gt;
 &lt;p&gt;脚，蜕皮严重，好丑啊。&lt;/p&gt;
 &lt;p&gt;浏览《Javascript高级程序设计》代理与反射，虽然Vue3用proxy实现动态绑定，感觉在我的开发中用不到哎，留着在《你不知道的javascript》里思考吧。&lt;/
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_208</title>
-    <link href="https://guangzezhu.github.io/2021/04/28/sbd-208/"/>
-    <id>https://guangzezhu.github.io/2021/04/28/sbd-208/</id>
-    <published>2021-04-28T02:39:31.000Z</published>
-    <updated>2021-04-28T07:59:18.597Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="有趣的Number-parseInt"><a href="#有趣的Number-parseInt" class="headerlink" title="有趣的Number.parseInt()"></a>有趣的Number.parseInt()</h4><ol><li><p>问题起源</p><p>刷博客刷到了<a href="https://www.yuque.com/wangdd/blog" target="_blank" rel="noopener">我的博客 - 洞香春 04-26 parseInt(0.0000005)为什么等于5？</a>，一开始以为是什么浮点数存储格式问题，导致的转换截断。玩玩没想到原因这么直观<a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/parseInt#%E6%8F%8F%E8%BF%B0_2" target="_blank" rel="noopener">MDN parseInt 描述</a></p><blockquote><p>由于某些数字在其字符串表示形式中使用e字符（例如 <code>6.022×23</code> 表示<code>6.022e23</code> ），因此当对非常大或非常小的数字使用数字时，使用 <code>parseInt</code> 截断数字将产生意外结果。 <code>parseInt</code>不应替代<a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/floor" target="_blank" rel="noopener"><code>Math.floor()</code></a></p></blockquote><p>什么是“非常大”，“非常小”的树呢，大概就是 小于x.e-6，大于x.e21，就是x.e-7及以下，x.e22及以上，参考[一篇简书文章，地址忘了]，详见<a href="https://262.ecma-international.org/6.0/#sec-tostring-applied-to-the-number-type" target="_blank" rel="noopener">ECMA 262. ToString Applied to the Number Type</a></p></li><li><p>代码</p></li></ol><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">console</span>.log( <span class="number">0.000005</span>.toString() );<span class="comment">// 0.000005</span></span><br><span class="line"><span class="built_in">console</span>.log( <span class="built_in">parseInt</span>(<span class="number">0.000005</span>));<span class="comment">// 0</span></span><br><span class="line"><span class="built_in">console</span>.log( <span class="built_in">parseInt</span>(<span class="string">'0.000005'</span>));<span class="comment">// 0</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(<span class="string">'=========='</span>);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log( <span class="number">0.0000005</span>.toString() );<span class="comment">// 5e-7</span></span><br><span class="line"><span class="built_in">console</span>.log( <span class="built_in">parseInt</span>(<span class="number">0.0000005</span>));<span class="comment">// 5</span></span><br><span class="line"><span class="built_in">console</span>.log( <span class="built_in">parseInt</span>(<span class="string">'0.0000005'</span>));<span class="comment">// 0</span></span><br></pre></td></tr></table></figure><ol start="3"><li><p>后续</p><p>又搜了会，果然这个问题几年前大家就经常遇到。防不胜防。</p></li></ol><h4 id="傻逼日记"><a href="#傻逼日记" class="headerlink" title="傻逼日记"></a>傻逼日记</h4><p>芜湖~ 办公室好几天白天不开灯，昏昏欲睡。</p><p>repeat, repeat, repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h4 id=&quot;有趣的Number-parseInt&quot;&gt;&lt;a href=&quot;#有趣的Number-parseInt&quot; class=&quot;headerlink&quot; title=&quot;有趣的Number.parseInt()&quot;&gt;&lt;/a&gt;有趣的Number.parseInt()&lt;/h4&gt;&lt;ol&gt;
-
       
     
     </summary>
