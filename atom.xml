@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-27T07:56:59.845Z</updated>
+  <updated>2021-05-28T09:09:37.092Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_229</title>
+    <link href="https://guangzezhu.github.io/2021/05/28/sbd-229/"/>
+    <id>https://guangzezhu.github.io/2021/05/28/sbd-229/</id>
+    <published>2021-05-28T01:44:21.000Z</published>
+    <updated>2021-05-28T09:09:37.092Z</updated>
+    
+    <content type="html"><![CDATA[<p>读《胡适日记》上卷毕，有前朝古人之感。</p><p>学习webpack中文指南，至”环境变量“看不下去了。发布了第一个npm包。</p><p>回去删除ubuntu双系统，脱离苦海，不喜欢，不值得。</p><p>repeat, repeat, repeat.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;读《胡适日记》上卷毕，有前朝古人之感。&lt;/p&gt;
+&lt;p&gt;学习webpack中文指南，至”环境变量“看不下去了。发布了第一个npm包。&lt;/p&gt;
+&lt;p&gt;回去删除ubuntu双系统，脱离苦海，不喜欢，不值得。&lt;/p&gt;
+&lt;p&gt;repeat, repeat, repeat.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_228</title>
@@ -522,32 +550,6 @@
 &lt;p&gt;梭哈军工。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_209</title>
-    <link href="https://guangzezhu.github.io/2021/04/29/sbd-209/"/>
-    <id>https://guangzezhu.github.io/2021/04/29/sbd-209/</id>
-    <published>2021-04-29T00:18:57.000Z</published>
-    <updated>2021-04-29T12:00:07.644Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨晚精神杠杠的，四五点才睡着，早晨七点半闹钟惊醒。</p><p>脚，蜕皮严重，好丑啊。</p><p>浏览《Javascript高级程序设计》代理与反射，虽然Vue3用proxy实现动态绑定，感觉在我的开发中用不到哎，留着在《你不知道的javascript》里思考吧。</p><p>垃圾闭包，垃圾私有变量，看两行就头晕，跳过跳过。<br>不学了，不学了，函数、期约与异步函数看的头疼，没耐心。</p><p>repeat，repeat，repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;昨晚精神杠杠的，四五点才睡着，早晨七点半闹钟惊醒。&lt;/p&gt;
-&lt;p&gt;脚，蜕皮严重，好丑啊。&lt;/p&gt;
-&lt;p&gt;浏览《Javascript高级程序设计》代理与反射，虽然Vue3用proxy实现动态绑定，感觉在我的开发中用不到哎，留着在《你不知道的javascript》里思考吧。&lt;/
       
     
     </summary>
