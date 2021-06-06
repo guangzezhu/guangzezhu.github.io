@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guangzezhu.github.io/"/>
-  <updated>2021-05-28T09:09:37.092Z</updated>
+  <updated>2021-06-06T15:38:44.956Z</updated>
   <id>https://guangzezhu.github.io/</id>
   
   <author>
@@ -15,6 +15,143 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sbd_234</title>
+    <link href="https://guangzezhu.github.io/2021/06/06/sbd-234/"/>
+    <id>https://guangzezhu.github.io/2021/06/06/sbd-234/</id>
+    <published>2021-06-06T15:31:42.000Z</published>
+    <updated>2021-06-06T15:38:44.956Z</updated>
+    
+    <content type="html"><![CDATA[<p>傻逼日记停更了。</p><p>今天想把1_blog迁移到个人电脑，麻烦颇多，遂丢弃。</p><blockquote><p><strong>人生自是有情痴，此恨无关风与月。</strong></p><p><strong>朝真暮伪何人辨，古往今来底事无。</strong></p><p><strong>人情似纸张张薄，世事如棋句句新。</strong></p><p><strong>年少光阴虚度。</strong></p></blockquote><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;傻逼日记停更了。&lt;/p&gt;
+&lt;p&gt;今天想把1_blog迁移到个人电脑，麻烦颇多，遂丢弃。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;人生自是有情痴，此恨无关风与月。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;朝真暮伪何人辨，古往今来底事无。&lt;/strong
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_233</title>
+    <link href="https://guangzezhu.github.io/2021/06/04/sbd-233/"/>
+    <id>https://guangzezhu.github.io/2021/06/04/sbd-233/</id>
+    <published>2021-06-04T10:09:22.000Z</published>
+    <updated>2021-06-04T10:11:10.383Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天鼻尖疼，挖鼻屎挖坏了吧。</p><p>周五划水，看知乎爽文。</p><p>准备晚上回去迁移工作电脑的私人内容，MSI-NB。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天鼻尖疼，挖鼻屎挖坏了吧。&lt;/p&gt;
+&lt;p&gt;周五划水，看知乎爽文。&lt;/p&gt;
+&lt;p&gt;准备晚上回去迁移工作电脑的私人内容，MSI-NB。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_232</title>
+    <link href="https://guangzezhu.github.io/2021/06/02/sbd-232/"/>
+    <id>https://guangzezhu.github.io/2021/06/02/sbd-232/</id>
+    <published>2021-06-02T12:51:47.000Z</published>
+    <updated>2021-06-02T12:54:36.942Z</updated>
+    
+    <content type="html"><![CDATA[<p>写了一点点代码。</p><p>command https升级问题，配置的问题还是很别扭。</p><p>发现SVN下多了一个项目，看来我的重构行为影响了别人，罪过。</p><p>昨天刷完了《伟大的卫国战争》，今天看纪录片《抗美援朝，究竟为了什么》。<br>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;写了一点点代码。&lt;/p&gt;
+&lt;p&gt;command https升级问题，配置的问题还是很别扭。&lt;/p&gt;
+&lt;p&gt;发现SVN下多了一个项目，看来我的重构行为影响了别人，罪过。&lt;/p&gt;
+&lt;p&gt;昨天刷完了《伟大的卫国战争》，今天看纪录片《抗美援朝，究竟为了什么》。&lt;br&gt;repeat，
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_231</title>
+    <link href="https://guangzezhu.github.io/2021/06/01/sbd-231/"/>
+    <id>https://guangzezhu.github.io/2021/06/01/sbd-231/</id>
+    <published>2021-06-01T03:55:05.000Z</published>
+    <updated>2021-06-01T03:57:48.082Z</updated>
+    
+    <content type="html"><![CDATA[<p>child_process在命令行输入密码失败，配置了shh的publick_key，配置过程详见man sshd authorized_keys。</p><p>不能意气用事啊，虚心学习，稳扎稳打。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;child_process在命令行输入密码失败，配置了shh的publick_key，配置过程详见man sshd authorized_keys。&lt;/p&gt;
+&lt;p&gt;不能意气用事啊，虚心学习，稳扎稳打。&lt;/p&gt;
+&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sbd_230</title>
+    <link href="https://guangzezhu.github.io/2021/05/31/sbd-230/"/>
+    <id>https://guangzezhu.github.io/2021/05/31/sbd-230/</id>
+    <published>2021-05-31T00:41:33.000Z</published>
+    <updated>2021-05-31T11:52:11.033Z</updated>
+    
+    <content type="html"><![CDATA[<p>周末做梦得到启示，远离危险。</p><p>昨日看纪录片《二战指挥官》、《伟大的卫国战争》。</p><p>刷到微博北大数学系教师矿泉水馒头，果然人菜装备多（指自己）。</p><p>头疼，看mini-webpack还要搞抽象语法树。异想天开，直接搞mini-webpack，先做做牛客网的题目吧。</p><p>项目开发部署遇到的环境问题：</p><ol><li>开发环境接口；</li><li>测试环境接口；</li><li>线上环境接口；</li><li>不同线上环境接口。<br>不需要重新打包：使用config.js 静态配置文件，容易暴露额外信息；<br>需要重新打包：使用环境文件，打包部署的速度。</li></ol><p>shelljs打开脚本世界的狗洞。</p><p>继续刷《伟大的卫国战争》列宁格勒，感觉之前看的电影、书、纪录片、抖音都串起来了，学习历史进程。</p><p>repeat，repeat，repeat。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;周末做梦得到启示，远离危险。&lt;/p&gt;
+&lt;p&gt;昨日看纪录片《二战指挥官》、《伟大的卫国战争》。&lt;/p&gt;
+&lt;p&gt;刷到微博北大数学系教师矿泉水馒头，果然人菜装备多（指自己）。&lt;/p&gt;
+&lt;p&gt;头疼，看mini-webpack还要搞抽象语法树。异想天开，直接搞mini-webpack
+      
+    
+    </summary>
+    
+    
+    
+      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>sbd_229</title>
@@ -408,146 +545,6 @@
         &lt;p&gt;傻逼LOL，石头人真好玩。&lt;/p&gt;
 &lt;p&gt;读《胡适的留学日记》二、三卷。&lt;/p&gt;
 &lt;p&gt;改bug。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_214</title>
-    <link href="https://guangzezhu.github.io/2021/05/09/sbd-214/"/>
-    <id>https://guangzezhu.github.io/2021/05/09/sbd-214/</id>
-    <published>2021-05-09T10:39:25.000Z</published>
-    <updated>2021-05-09T11:42:35.233Z</updated>
-    
-    <content type="html"><![CDATA[<p>换了一个巨丑的壁纸，淦。</p><p>玩LOL又过分了，到凌晨四点多，果然理性状态不要预测非理性行为。</p><p>晚上到公司加班。</p><p>读胡适日记，胡适留学生活还是充实啊，除了“未读一书，未作一事”。慕名而来，翻看几页遂罢，见小胡读书看报，不枉一元电子书。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;换了一个巨丑的壁纸，淦。&lt;/p&gt;
-&lt;p&gt;玩LOL又过分了，到凌晨四点多，果然理性状态不要预测非理性行为。&lt;/p&gt;
-&lt;p&gt;晚上到公司加班。&lt;/p&gt;
-&lt;p&gt;读胡适日记，胡适留学生活还是充实啊，除了“未读一书，未作一事”。慕名而来，翻看几页遂罢，见小胡读书看报，不枉一元电子书。&lt;
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_213</title>
-    <link href="https://guangzezhu.github.io/2021/05/08/sbd-213/"/>
-    <id>https://guangzezhu.github.io/2021/05/08/sbd-213/</id>
-    <published>2021-05-08T11:11:54.000Z</published>
-    <updated>2021-05-08T11:14:03.024Z</updated>
-    
-    <content type="html"><![CDATA[<p>凌晨玩云顶，连输两局，气愤，又玩两句，终于胜一次。</p><p>昨天跳绳100个，今天小腿疼。</p><p>杭州野生动物园跑出来3只豹子。</p><p>pink视频刷完DOM。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;凌晨玩云顶，连输两局，气愤，又玩两句，终于胜一次。&lt;/p&gt;
-&lt;p&gt;昨天跳绳100个，今天小腿疼。&lt;/p&gt;
-&lt;p&gt;杭州野生动物园跑出来3只豹子。&lt;/p&gt;
-&lt;p&gt;pink视频刷完DOM。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_212</title>
-    <link href="https://guangzezhu.github.io/2021/05/07/sbd-212/"/>
-    <id>https://guangzezhu.github.io/2021/05/07/sbd-212/</id>
-    <published>2021-05-07T11:41:15.000Z</published>
-    <updated>2021-05-07T12:21:00.472Z</updated>
-    
-    <content type="html"><![CDATA[<p>刷Pink的Javascript视频，学习DOM、事件（捕获、触发、冒泡；阻止默认事件、阻止冒泡事件；事件委托）。</p><p>数娱楼下跳绳 100个，累死，写日报，回宿舍。</p><p>船袜沉底。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;刷Pink的Javascript视频，学习DOM、事件（捕获、触发、冒泡；阻止默认事件、阻止冒泡事件；事件委托）。&lt;/p&gt;
-&lt;p&gt;数娱楼下跳绳 100个，累死，写日报，回宿舍。&lt;/p&gt;
-&lt;p&gt;船袜沉底。&lt;/p&gt;
-&lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_211</title>
-    <link href="https://guangzezhu.github.io/2021/05/06/sbd-211/"/>
-    <id>https://guangzezhu.github.io/2021/05/06/sbd-211/</id>
-    <published>2021-05-06T01:34:11.000Z</published>
-    <updated>2021-05-06T11:52:51.848Z</updated>
-    
-    <content type="html"><![CDATA[<p>五一假期刷一波优酷《亮剑》，开始读《陶欣伯的人生小故事》。</p><p>假期生活费超标，接下来生活节省一点，体重也要管理起来。</p><p>生物钟没有调整过来，早晨睡了3个小时，两个枕头枕得头痛。</p><p>上周军工梭哈成功，但是梭哈养老亏了。</p><p>看完《怪诞行为学：非理性行为》。</p><p>继续看B站-黑马程序员基础知识-Javascript核心课程，dom遍历和排他思想。</p><p>控制花销，呜呜呜。</p><p>repeat，repeat，repeat.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;五一假期刷一波优酷《亮剑》，开始读《陶欣伯的人生小故事》。&lt;/p&gt;
-&lt;p&gt;假期生活费超标，接下来生活节省一点，体重也要管理起来。&lt;/p&gt;
-&lt;p&gt;生物钟没有调整过来，早晨睡了3个小时，两个枕头枕得头痛。&lt;/p&gt;
-&lt;p&gt;上周军工梭哈成功，但是梭哈养老亏了。&lt;/p&gt;
-&lt;p&gt;看完《
-      
-    
-    </summary>
-    
-    
-    
-      <category term="傻逼日记" scheme="https://guangzezhu.github.io/tags/%E5%82%BB%E9%80%BC%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sbd_210</title>
-    <link href="https://guangzezhu.github.io/2021/04/30/sbd-210/"/>
-    <id>https://guangzezhu.github.io/2021/04/30/sbd-210/</id>
-    <published>2021-04-30T09:53:44.000Z</published>
-    <updated>2021-04-30T09:55:22.690Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天困得不行。</p><p>《Javascript高级程序设计》看完基础语法，BOM、DOM部分刷B站pink的视频。</p><p>梭哈军工。</p><p>repeat，repeat，repeat。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天困得不行。&lt;/p&gt;
-&lt;p&gt;《Javascript高级程序设计》看完基础语法，BOM、DOM部分刷B站pink的视频。&lt;/p&gt;
-&lt;p&gt;梭哈军工。&lt;/p&gt;
 &lt;p&gt;repeat，repeat，repeat。&lt;/p&gt;
 
       
